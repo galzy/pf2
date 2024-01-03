@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/locations/creepy-musn-temple/","tags":["location"],"noteIcon":"📍"}
 ---
 
-[**Type**:: Building]
-[**In**:: [[Locations/stinky swamp\|stinky swamp]]]
-[**Near**:: ]
 #### First visited
 [[Sessions/001_261223_MUSN (Militaristic Undead Swamp Naga) and Their Temple\|001_261223_MUSN (Militaristic Undead Swamp Naga) and Their Temple]]
 #### Appearance
