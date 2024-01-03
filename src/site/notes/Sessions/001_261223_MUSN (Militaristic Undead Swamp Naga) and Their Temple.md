@@ -17,7 +17,7 @@ null
 ### Log
 - [[Players/Doliat Dreameyes\|Doliat]] researched the items we stole from [[NPCs/Twinkle\|Twinkle]]:
 	- An [[Lore/Infernal Coins\|infernal coin]]:
-		- Each goin represents a favor owned by a specific demon. Used as a sort of currency.
+		- Each coin represents a favor owned by a specific demon. Used as a sort of currency.
 		- This is [[Items/Vallmozon's infernal coin\|Vallmozon's infernal coin]] who is mid-level+ demon with despair vibes.
 	- [[Items/Two sterile scrolls\|Two scrolls]]:
 		- Supposedly non-magical and "emotionally sterile".
