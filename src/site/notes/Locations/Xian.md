@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/xian/","tags":["location/kingdom","location"],"noteIcon":"📍"}
+{"dg-publish":true,"permalink":"/locations/xian/","tags":["location"],"noteIcon":"📍"}
 ---
 
 #### First visited
@@ -7,4 +7,4 @@ Never
 #### Appearance
 Unknown
 #### Notes
-סינים רעים
+Evil Chinese 
