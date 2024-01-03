@@ -27,10 +27,11 @@ type command
 action Digital Garden: Open Publication Center
 ```{ #button-publish}
 
+
 [[Global/Quests\|Quests]]
 [[Global/Map\|Map]]
 
-https://gal-pf2.vercel.app/
+https://pf2gal.vercel.app/
 
 
 | File                                             | Race  | Attitude    | Groups           |
