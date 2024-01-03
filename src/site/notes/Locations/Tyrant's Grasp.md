@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/tyrant-s-grasp/","tags":["location/area","location"],"noteIcon":"📍"}
+{"dg-publish":true,"permalink":"/locations/tyrant-s-grasp/","tags":["location"],"noteIcon":"📍"}
 ---
 
 #### First visited
