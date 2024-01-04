@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/indigo/","tags":["player"],"noteIcon":"🧑"}
+{"dg-publish":true,"permalink":"/players/indigo/","tags":["player"],"noteIcon":"player"}
 ---
 
 #### First met
