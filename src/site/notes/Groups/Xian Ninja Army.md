@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/xian-ninja-army/","tags":["group"],"noteIcon":"👨‍👦‍👦"}
+{"dg-publish":true,"permalink":"/groups/xian-ninja-army/","tags":["group"],"noteIcon":"group"}
 ---
 
 #### First met
