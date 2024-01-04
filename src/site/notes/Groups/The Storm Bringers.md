@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/the-storm-bringers/","tags":["group"],"noteIcon":"👨‍👦‍👦"}
+{"dg-publish":true,"permalink":"/groups/the-storm-bringers/","tags":["group"],"noteIcon":"group"}
 ---
 
 #### First met
