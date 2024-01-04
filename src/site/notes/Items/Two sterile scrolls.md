@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/two-sterile-scrolls/","tags":["item"],"noteIcon":"💎"}
+{"dg-publish":true,"permalink":"/items/two-sterile-scrolls/","tags":["item"],"noteIcon":"item"}
 ---
 
 #### Found at
