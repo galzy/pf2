@@ -7,3 +7,4 @@ Bla
 #### Appearance
 Bla
 #### Notes
+Born in [[Cheliax\|Cheliax]]
