@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/doliat-dreameyes/","tags":["player"],"noteIcon":"🧑"}
+{"dg-publish":true,"permalink":"/players/doliat-dreameyes/","tags":["player"],"noteIcon":"player"}
 ---
 
 ###### First met
