@@ -7,4 +7,4 @@ Bla
 #### Appearance
 Bla
 #### Notes
-His mom is [[NPCs/Indigo's mom\|Indigo's mom]]
+His mom is [[NPCs/Shissela\|Shissela]]
