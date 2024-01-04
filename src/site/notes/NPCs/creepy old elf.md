@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/creepy-old-elf/","tags":["npc"],"noteIcon":"🤖"}
+{"dg-publish":true,"permalink":"/np-cs/creepy-old-elf/","tags":["npc"],"noteIcon":"npc"}
 ---
 
 #### First met
