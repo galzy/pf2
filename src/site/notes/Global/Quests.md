@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/global/quests/","tags":["global","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/global/quests/","tags":["global","gardenEntry"],"noteIcon":""}
 ---
 
 ## Quests
-- ##### [[NPCs/Indigo's mom\|Mommy]] Is Dead?
+- ##### [[NPCs/Shissela\|Mommy]] Is Dead?
 	- Going to the [[NPCs/serial killer\|serial killer]] cave 
 	- [[Items/Vallmozon's infernal coin\|Vallmozon's infernal coin]]
 	- [[Items/Two sterile scrolls\|Two sterile scrolls]]
