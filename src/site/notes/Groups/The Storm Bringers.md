@@ -6,8 +6,8 @@
 
 #### Notes
 [[Players/Doliat Dreameyes\|Doliat Dreameyes]]
-[[Players/Ron\|Ron]]
+[[Players/Ron Mhuilinn\|Ron Mhuilinn]]
 [[Players/Indigo\|Indigo]]
-[[Players/Johnra Kir\|Johnra Kir]]
+[[Players/Johnra Kcir\|Johnra Kcir]]
 [[Players/Talion\|Talion]]
-[[Players/Yarden\|Yarden]]
+[[Players/Dio Stargazer\|Dio Stargazer]]
