@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/xian/","tags":["location"],"noteIcon":"📍"}
+{"dg-publish":true,"permalink":"/locations/xian/","tags":["location"],"noteIcon":"location"}
 ---
 
 #### First visited
