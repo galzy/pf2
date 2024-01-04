@@ -4,7 +4,7 @@
 
 ## Quests
 - ##### [[NPCs/Shissela\|Mommy]] Is Dead?
-	- Going to the [[NPCs/serial killer\|serial killer]] cave 
+	- Going to the [[NPCs/Kilgore the Warlock\|Kilgore the Warlock]] cave 
 	- [[Items/Vallmozon's infernal coin\|Vallmozon's infernal coin]]
 	- [[Items/Two sterile scrolls\|Two sterile scrolls]]
 	- [[demon patrons\|demon patrons]]?
