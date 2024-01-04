@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/stinky-swamp/","tags":["location"],"noteIcon":"📍"}
+{"dg-publish":true,"permalink":"/locations/stinky-swamp/","tags":["location"],"noteIcon":"location"}
 ---
 
 #### First visited
