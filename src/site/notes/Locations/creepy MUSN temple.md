@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/creepy-musn-temple/","tags":["location"],"noteIcon":"📍"}
+{"dg-publish":true,"permalink":"/locations/creepy-musn-temple/","tags":["location"],"noteIcon":"location"}
 ---
 
 #### First visited
