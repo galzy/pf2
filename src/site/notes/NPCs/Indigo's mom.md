@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/indigo-s-mom/","tags":["npc"],"noteIcon":"🤖"}
+{"dg-publish":true,"permalink":"/np-cs/indigo-s-mom/","tags":["npc"],"noteIcon":"npc"}
 ---
 
 #### First met
