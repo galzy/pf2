@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/yarden/","tags":["player"],"noteIcon":"🧑"}
+{"dg-publish":true,"permalink":"/players/yarden/","tags":["player"],"noteIcon":"yarden"}
 ---
 
 #### First met
