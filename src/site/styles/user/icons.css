@@ -15,12 +15,16 @@ body.filetree-note-icon .filename[data-note-icon="event"]::before, body.links-no
   width: 1.5rem;
   height: 1.5rem;
   vertical-align: middle;
+  margin-right: -0.4rem;
+
 }
 body.filetree-note-icon .filename[data-note-icon="event_bw"]::before, body.links-note-icon .internal-link[data-note-icon="event_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="event_bw"]::before {
   background-image: url(/img/event_bw.svg);
   width: 1.5rem;
   height: 1.5rem;
   vertical-align: middle;
+  margin-right: -0.4rem;
+
 }
 body.filetree-note-icon .filename[data-note-icon="group"]::before, body.links-note-icon .internal-link[data-note-icon="group"]::before, body.backlinks-note-icon .backlink[data-note-icon="group"]::before {
   background-image: url(/img/group.svg);
@@ -51,14 +55,14 @@ body.filetree-note-icon .filename[data-note-icon="location"]::before, body.links
   width: 1.5rem;
   height: 1.5rem;
   vertical-align: middle;
-  margin-right: -0.5rem;
+  margin-right: -0.4rem;
 }
 body.filetree-note-icon .filename[data-note-icon="location_bw"]::before, body.links-note-icon .internal-link[data-note-icon="location_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="location_bw"]::before {
   background-image: url(/img/location_bw.svg);
   width: 1.5rem;
   height: 1.5rem;
   vertical-align: middle;
-  margin-right: -0.5rem;
+  margin-right: -0.4rem;
 
 }
 body.filetree-note-icon .filename[data-note-icon="lore"]::before, body.links-note-icon .internal-link[data-note-icon="lore"]::before, body.backlinks-note-icon .backlink[data-note-icon="lore"]::before {
@@ -90,11 +94,15 @@ body.filetree-note-icon .filename[data-note-icon="player"]::before, body.links-n
   width: 1.5rem;
   height: 1.5rem;
   vertical-align: middle;
+  margin-right: -0.1rem;
+
 }
 body.filetree-note-icon .filename[data-note-icon="player_bw"]::before, body.links-note-icon .internal-link[data-note-icon="player_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="player_bw"]::before {
   background-image: url(/img/player_bw.svg);
   width: 1.5rem;
   height: 1.5rem;
   vertical-align: middle;
+  margin-right: -0.1rem;
+
 }
 
