@@ -3,5 +3,5 @@
 ---
 
 Each goin represents a favor owned by a specific demon. Used as a sort of currency.
-A coin can't be used by anyone but the original reciver.
-It is unknown why do the demons find these coins so important. Maybe they are weaker without them? 
+The value is symbolic: a coin can't be used by anyone but the original reciver.
+It is unknown why do the demons find these coins so important.
