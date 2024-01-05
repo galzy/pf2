@@ -7,7 +7,7 @@
 	- Going to the [[NPCs/Kilgore the Warlock\|Kilgore the Warlock]] cave 
 	- [[Items/Vallmozon's infernal coin\|Vallmozon's infernal coin]]
 	- [[Items/Two sterile scrolls\|Two sterile scrolls]]
-	- [[demon patrons\|demon patrons]]?
+	- [[Demon Family\|Demon Family]]?
 	- Where's mamma
 - ##### Evil Ninjas
 	- Why did [[Events/Xian - Absalom Conflict\|Xian - Absalom Conflict]] occur
