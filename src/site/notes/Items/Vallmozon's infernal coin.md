@@ -1,5 +1,5 @@
 ---
-{"bearer":"[[Doliat Dreameyes|Doliat]]","aliases":null,"dg-publish":true,"dg-icon":"item","tags":["item"],"permalink":"/items/vallmozon-s-infernal-coin/","dgPassFrontmatter":true,"noteIcon":"item"}
+{"dg-publish":true,"permalink":"/items/vallmozon-s-infernal-coin/","tags":["item"],"noteIcon":"item"}
 ---
 
 ### Found at
