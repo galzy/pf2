@@ -1,5 +1,5 @@
 ---
-{"id":2,"date":"2024-01-04","players":["Rotem","Gal","Yarden","Dima","Itamar","Eldad","Uri"],"cssclasses":["clean-embeds"],"dg-publish":true,"dg-icon":"session","tags":["session"],"permalink":"/sessions/002-040124-hellion-and-killgore/","dgPassFrontmatter":true,"noteIcon":"session"}
+{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"noteIcon":"session"}
 ---
 
 ### Recap of the last session
