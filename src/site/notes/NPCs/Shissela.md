@@ -3,8 +3,8 @@
 ---
 
 ### First met
-Bla
+Never
 ### Appearance
 Bla
 ### Notes
-Mother of [[Players/Indigo\|Indigo]]
+Mother of [[Players/Indigo\|Indigo]]. Former member of [[Groups/Demon family\|Demon family]]
