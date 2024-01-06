@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/locations/malgeave-keep/","tags":["location"],"noteIcon":"location"}
 ---
 
-#### First visited
+### First visited
 Bla
-#### Appearance
+### Appearance
 Bla
-#### Notes
+### Notes
 Bla
