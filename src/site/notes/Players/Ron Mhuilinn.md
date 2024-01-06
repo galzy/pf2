@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/players/ron-mhuilinn/","tags":["player"],"noteIcon":"player"}
 ---
 
-#### First met
+### First met
 Bla
-#### Appearance
+### Appearance
 Bla
-#### Notes
+### Notes
 Bla
