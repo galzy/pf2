@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/items/killgore-s-two-magical-rings/","tags":["item"],"noteIcon":"item"}
 ---
 
-#### Found at
+### Found at
 [[NPCs/Kilgore the Warlock\|Killgore]]'s corpse
-#### Appearance
+### Appearance
 TBD
-#### Notes
+### Notes
 Unknown purpose 
