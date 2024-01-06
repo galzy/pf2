@@ -1,5 +1,5 @@
 ---
-{"race":"Elf","aliases":"Yarden","dg-publish":true,"dg-icon":"player","tags":["player"],"permalink":"/players/dio-stargazer/","dgPassFrontmatter":true,"noteIcon":"player"}
+{"dg-publish":true,"permalink":"/players/dio-stargazer/","tags":["player"],"noteIcon":"player"}
 ---
 
 ### First met
