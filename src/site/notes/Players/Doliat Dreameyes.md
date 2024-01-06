@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/players/doliat-dreameyes/","tags":["player"],"noteIcon":"player"}
 ---
 
-###### First met
+### First met
 
-###### Appearance
+### Appearance
 
-###### Notes
+### Notes
 
 a nice guy
 
