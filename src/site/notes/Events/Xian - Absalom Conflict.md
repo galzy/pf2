@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/xian-absalom-conflict/","tags":["event"],"noteIcon":"event"}
+{"where":"[[Locations/Absalom\|Absalom]]","when":"Recently","aliases":null,"dg-publish":true,"dg-icon":"event","tags":["event"],"permalink":"/events/xian-absalom-conflict/","dgPassFrontmatter":true,"noteIcon":"event"}
 ---
 
 The [[Groups/Xian Ninja Army\|Xians]] attacked [[Locations/Absalom\|Absalom]] by surprise and the [[Groups/Storm Bringers\|Storm Bringers]] helped repel the initial attack. We then started investigating the attack, at the behest of [[NPCs/Olivia\|Olivia]]. 
@@ -9,6 +9,6 @@ We were told by [[Dangledick\|Dangledick]] that [[NPCs/Female mafia boss\|Female
 The [[Groups/Absalom city council\|council]] asked us to look for the legendary [[Groups/Good storm giants tribe\|Good storm giants tribe]] and ask for for their help. On the way there we met a [[Dio's cartographer\|cartographer]] and made a deal with him.
 
 We were captured by the [[bad storm giants tribe\|bad storm giants tribe]] and [[Balu\|Balu]] was killed. We met [[NPCs/Zima\|Zima]], who was studying them. We escaped by wining trial by combat. We first met [[Players/Doliat Dreameyes\|Doliat]], who led us to the [[Locations/Tunnels under the good storm giant tribe\|tunnels]] under the [[Groups/Good storm giants tribe\|Good storm giants tribe]].
-We convinced them to help us and they helped lift the siege off [[Locations/Absalom\|Absalom]]. 
+We convinced them to help us and they helped lift the siege off [[Absalom]]. 
 [[Female xian general\|Female xian general]] escaped
 We got a [[storm bringers castle\|castle]] and became members of the [[[Absalom city council\|council]]
