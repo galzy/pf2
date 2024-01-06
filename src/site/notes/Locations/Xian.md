@@ -1,5 +1,5 @@
 ---
-{"type":"Kingdom","in":null,"near":[null],"aliases":null,"dg-publish":true,"dg-icon":"location","tags":["location"],"permalink":"/locations/xian/","dgPassFrontmatter":true,"noteIcon":"location"}
+{"dg-publish":true,"permalink":"/locations/xian/","tags":["location"],"noteIcon":"location"}
 ---
 
 ### First visited
