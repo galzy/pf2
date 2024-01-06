@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/global/quests/","tags":["global","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/global/quests/","tags":["global","gardenEntry"],"noteIcon":""}
 ---
 
 # Quests
@@ -12,17 +12,17 @@
 - [ ] Kill [[NPCs/Hellion\|Hellion]]?
 ### Evil Ninjas
 - [ ] Why did [[Events/Xian - Absalom Conflict\|Xian - Absalom Conflict]] occur?
-- [ ] [[prophecy\|prophecy]] and stuff
-- [ ] [[temple\|temple]]
-- [ ] [[keys\|keys]]
-- [ ] [[general\|general]]
+- [ ] [[Items/Key to the Temple of Tiamat\|Key to the Temple of Tiamat]]
+- [ ] [[Female xian general\|Female xian general]]
 ### Big Trouble in Little Kyonin
 - [ ] Investigate the [[Forest Corruption\|Forest Corruption]] of [[Locations/Kyonin\|Kyonin]]
+### Necromancer near [[Locations/Absalom\|Absalom]] ruins
+- 
 
 # Loose Ends
-- [ ] Use the [[Lore/Leothin\|Leothin]]
+- [ ] Exploit the [[Locations/Leothin mine\|Leothin mine]]
 - [ ] Investigate the secret fortress with the dragon?
 - [ ] Twinkle:
-	- [ ] The play/song
+	- [ ] [[Events/Twinkle's second song\|Twinkle's second song]]
 	- [ ] [[Items/Two sterile scrolls\|Two sterile scrolls]]
 	- [ ] [[Items/Vallmozon's infernal coin\|Vallmozon's infernal coin]]
