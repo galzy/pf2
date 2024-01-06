@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/locations/xian/","tags":["location"],"noteIcon":"location"}
 ---
 
-#### First visited
+### First visited
 Never
-#### Appearance
+### Appearance
 Unknown
-#### Notes
+### Notes
 Evil Chinese 
