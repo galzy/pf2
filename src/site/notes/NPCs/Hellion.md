@@ -3,7 +3,7 @@
 ---
 
 #### First met
-[[Sessions/002_040124_Helion and Killgore\|002_040124_Helion and Killgore]]
+[[Sessions/002_040124_Hellion and Killgore\|002_040124_Hellion and Killgore]]
 #### Appearance
 Yellow haired elf in Victorian cloths, looking pale and ill.
 #### Notes
