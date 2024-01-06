@@ -1,7 +1,17 @@
-body {
-	--graph-main: var(--text-accent-hover);
-	--graph-muted: rgba(126, 126, 126, 0.5);
+body.theme-dark {
+    --text-accent: #006f8b;
+    --text-accent-hover: #0084a5;
+    --interactive-accent: #006f8b;
+    --h1-color: var(--interactive-accent);
+}
+body.theme-light {
+    --text-accent: #004d61;
+    --text-accent-hover: #006f8b;
+    --interactive-accent: #004d61;
+    --h1-color: var(--interactive-accent);
+}
 
+body {
 	.timestamps {
 		display: flex;
 		flex-direction: row;
