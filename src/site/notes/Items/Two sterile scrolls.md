@@ -1,5 +1,5 @@
 ---
-{"Bearer":"[[Doliat Dreameyes|Doliat]]","aliases":null,"dg-publish":true,"dg-icon":"item","tags":["item"],"permalink":"/items/two-sterile-scrolls/","dgPassFrontmatter":true,"noteIcon":"item"}
+{"dg-publish":true,"permalink":"/items/two-sterile-scrolls/","tags":["item"],"noteIcon":"item"}
 ---
 
 ### Found at
