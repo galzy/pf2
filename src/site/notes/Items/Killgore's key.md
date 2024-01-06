@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/items/killgore-s-key/","tags":["item"],"noteIcon":"item"}
 ---
 
-#### Found at
+### Found at
 [[NPCs/Kilgore the Warlock\|Killgore]]'s corpse
-#### Appearance
+### Appearance
 A small golden key
-#### Notes
+### Notes
 Unknown purpose 
