@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/creepy-old-elf/","tags":["npc"],"noteIcon":"npc"}
+{"status":"Alive","attitude":"Friendly","race":"Elf","groups":["[[Kyonin elves]]"],"Aliases":null,"dg-publish":true,"dg-icon":"npc","tags":["npc"],"permalink":"/np-cs/creepy-old-elf/","dgPassFrontmatter":true,"noteIcon":"npc"}
 ---
 
 ### First met
