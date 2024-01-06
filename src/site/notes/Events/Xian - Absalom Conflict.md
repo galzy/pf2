@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/xian-absalom-conflict/","tags":["event"],"noteIcon":"event"}
+{"dg-publish":true,"permalink":"/events/xian-absalom-conflict/","tags":["event"],"noteIcon":"event","updated":"2024-01-06T17:49:34.439+01:00"}
 ---
 
 The [[Groups/Xian Ninja Army\|Xians]] attacked [[Locations/Absalom\|Absalom]] by surprise and the [[Groups/Storm Bringers\|Storm Bringers]] helped repel the initial attack. We then started investigating the attack, at the behest of [[NPCs/Olivia\|Olivia]]. 
