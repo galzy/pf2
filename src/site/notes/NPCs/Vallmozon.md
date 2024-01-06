@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/np-cs/vallmozon/","tags":["npc"],"noteIcon":"npc"}
 ---
 
-#### First met
+### First met
 Never
-#### Appearance
+### Appearance
 Unknown
-#### Notes
+### Notes
 At least a mid-tier demon. Has despair vibes. [[NPCs/Twinkle\|Twinkle]] had his soul coin.
