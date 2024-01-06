@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/talion/","tags":["player"],"noteIcon":"player"}
+{"race":"Elf","aliases":"Talion","dg-publish":true,"dg-icon":"player","tags":["player"],"permalink":"/players/talion/","dgPassFrontmatter":true,"noteIcon":"player"}
 ---
 
 ### First met
