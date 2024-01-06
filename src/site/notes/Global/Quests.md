@@ -9,8 +9,8 @@
 	- [x] Kill him
 	- [ ] investigate his looted items: [[Items/Killgore's two magical rings\|Killgore's two magical rings]] and [[Items/Killgore's key\|Killgore's key]]
 - [x] Find where [[NPCs/Shissela\|Shissela]] is
-- [ ] Find a way to [[NPCs/Shissela\|Shissela]]
-- [ ] Free [[NPCs/Shissela\|Shissela]]
+	- [ ] Find a way to free her
+	- [ ] Free [[NPCs/Shissela\|Shissela]]
 - [ ] Learn more on the [[Groups/Demon family\|Demon Family]]?
 - [ ] Kill [[NPCs/Hellion\|Hellion]]?
 ### Evil Ninjas
@@ -20,7 +20,7 @@
 ### Big Trouble in Little Kyonin
 - [ ] Investigate the [[Forest Corruption\|Forest Corruption]] of [[Locations/Kyonin\|Kyonin]]
 ### Necromancer near [[Locations/Absalom\|Absalom]] ruins
-- 
+- TBD
 
 # Loose Ends
 - [ ] Exploit the [[Locations/Leothin mine\|Leothin mine]]
