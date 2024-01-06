@@ -1,5 +1,5 @@
 ---
-{"type":"Area","in":"[[stinky swamp]]","near":"[[Killgore's cave]]","aliases":null,"dg-publish":true,"dg-icon":"location","tags":["location"],"permalink":"/locations/creepy-swamp-temple/","dgPassFrontmatter":true,"noteIcon":"location"}
+{"dg-publish":true,"permalink":"/locations/creepy-swamp-temple/","tags":["location"],"noteIcon":"location"}
 ---
 
 ### First visited
