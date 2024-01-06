@@ -1,5 +1,5 @@
 ---
-{"bearer":"[[Doliat Dreameyes|Doliat]]","aliases":null,"dg-publish":true,"dg-icon":"item","tags":["item"],"permalink":"/items/drape-of-lost-souls/","dgPassFrontmatter":true,"noteIcon":"item"}
+{"dg-publish":true,"permalink":"/items/drape-of-lost-souls/","tags":["item"],"noteIcon":"item"}
 ---
 
 ### Found at
