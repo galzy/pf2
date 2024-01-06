@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"dg-publish":true,"dg-icon":"lore","tags":["lore"],"permalink":"/lore/entrances-to-the-underdark/","dgPassFrontmatter":true,"noteIcon":"lore"}
+{"dg-publish":true,"permalink":"/lore/entrances-to-the-underdark/","tags":["lore"],"noteIcon":"lore"}
 ---
 
 
