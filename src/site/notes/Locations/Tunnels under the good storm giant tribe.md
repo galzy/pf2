@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/tunnels-under-the-good-storm-giant-tribe/","tags":["location"],"noteIcon":"location"}
+{"type":"Location","in":"[[Mountains near Absalom]]","near":[],"aliases":null,"dg-publish":true,"dg-icon":"location","tags":["location"],"permalink":"/locations/tunnels-under-the-good-storm-giant-tribe/","dgPassFrontmatter":true,"noteIcon":"location"}
 ---
 
 ### First visited
