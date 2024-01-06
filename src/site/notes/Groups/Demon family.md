@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/groups/demon-family/","tags":["group"],"noteIcon":"group"}
 ---
 
-#### First met
+### First met
 Never
-#### Notes
-Members:
+### Notes
+**Members**:
 - ?
 - ?
 - ?
 - ?
-Former members:
+**Former members**:
 - [[NPCs/Shissela\|Shissela]]
