@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/players/talion/","tags":["player"],"noteIcon":"player"}
 ---
 
-#### First met
+### First met
 Bla
-#### Appearance
+### Appearance
 Dirty
-#### Notes
+### Notes
 Bla
