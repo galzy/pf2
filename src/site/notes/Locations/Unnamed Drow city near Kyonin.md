@@ -1,5 +1,5 @@
 ---
-{"type":"City","in":"Underdark","near":"[[Kyonin]]","aliases":null,"dg-publish":true,"dg-icon":"location","tags":["location"],"permalink":"/locations/unnamed-drow-city-near-kyonin/","dgPassFrontmatter":true,"noteIcon":"location"}
+{"dg-publish":true,"permalink":"/locations/unnamed-drow-city-near-kyonin/","tags":["location"],"noteIcon":"location"}
 ---
 
 ### First visited
