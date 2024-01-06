@@ -1,5 +1,5 @@
 ---
-{"type":"Location","in":"[[stinky swamp]]","near":["[[Unnamed Drow city near Kyonin]]","[[creepy swamp temple]]"],"aliases":null,"dg-publish":true,"dg-icon":"location","tags":["location"],"permalink":"/locations/killgore-s-cave/","dgPassFrontmatter":true,"noteIcon":"location"}
+{"dg-publish":true,"permalink":"/locations/killgore-s-cave/","tags":["location"],"noteIcon":"location"}
 ---
 
 ### First visited
