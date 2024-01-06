@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/bergen-and-borger/","tags":["npc"],"noteIcon":"npc"}
+{"status":"Alive","attitude":"Indifferent","race":"Dwarf","groups":null,"aliases":null,"dg-publish":true,"dg-icon":"npc","tags":["npc"],"permalink":"/np-cs/bergen-and-borger/","dgPassFrontmatter":true,"noteIcon":"npc"}
 ---
 
 ### First met
