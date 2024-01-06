@@ -7,4 +7,4 @@ Bla
 #### Appearance
 Bla
 #### Notes
-Leader of the [[Absalom mafia\|Absalom mafia]]
+Lives in [[Locations/Absalom\|Absalom]]. Leader of the [[Absalom mafia\|Absalom mafia]]
