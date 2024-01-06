@@ -1,5 +1,5 @@
 ---
-{"hq":null,"aliases":null,"dg-publish":true,"dg-icon":"group","tags":["group"],"permalink":"/groups/demon-family/","dgPassFrontmatter":true,"noteIcon":"group"}
+{"dg-publish":true,"permalink":"/groups/demon-family/","tags":["group"],"noteIcon":"group"}
 ---
 
 ### First met
