@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/items/ring-of-antimagic/","tags":["item"],"noteIcon":"item"}
 ---
 
-#### Found at
+### Found at
 Purchased at [[Locations/Greengold\|Greengold]] during the search for [[NPCs/Kilgore the Warlock\|Killgore]]
-#### Appearance
+### Appearance
 A simple gold ring
-#### Notes
+### Notes
 PRICE: 900gp; USAGE: worn  
 This intricate rune displaces spell energy, granting you a +2 status bonus to saving throws against magical effects.  
   
