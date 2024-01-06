@@ -7,3 +7,4 @@ During the [[Events/Xian - Absalom Conflict\|Xian - Absalom Conflict]]
 #### Notes
 Assholes
 Scary ninjas
+Probably from [[Locations/Xian\|Xian]]
