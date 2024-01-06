@@ -3,7 +3,7 @@
 ---
 
 # Quests
-### [[NPCs/Shissela\|Mommy]] Is Dead?
+### Looking for [[NPCs/Shissela\|mamma]]
 - [x] Kill [[NPCs/Kilgore the Warlock\|Kilgore the Warlock]]
 - [x] Find where [[NPCs/Shissela\|Shissela]] is
 - [ ] Find a way to [[NPCs/Shissela\|Shissela]]
