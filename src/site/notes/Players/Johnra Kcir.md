@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/johnra-kcir/","tags":["player"],"noteIcon":"player"}
+{"race":"Android","aliases":["Johnra"],"dg-publish":true,"dg-icon":"player","tags":["player"],"permalink":"/players/johnra-kcir/","dgPassFrontmatter":true,"noteIcon":"player"}
 ---
 
 ### First met
