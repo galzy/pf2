@@ -1,5 +1,5 @@
 ---
-{"hq":"[[Kyonin]]","aliases":null,"dg-publish":true,"dg-icon":"group","tags":["group"],"permalink":"/groups/kyonin-elves/","dgPassFrontmatter":true,"noteIcon":"group"}
+{"dg-publish":true,"permalink":"/groups/kyonin-elves/","tags":["group"],"noteIcon":"group"}
 ---
 
 ### First met
