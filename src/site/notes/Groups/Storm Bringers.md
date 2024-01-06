@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/storm-bringers/","tags":["group"],"noteIcon":"group"}
+{"hq":"[[Absalom]]","aliases":null,"dg-publish":true,"dg-icon":"group","tags":["group"],"permalink":"/groups/storm-bringers/","dgPassFrontmatter":true,"noteIcon":"group"}
 ---
 
 #### Members
