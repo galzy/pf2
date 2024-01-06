@@ -7,4 +7,4 @@ Never
 #### Appearance
 Bla
 #### Notes
-Lived at [[Margrave Keep\|Margrave Keep]]
+Lived at [[Locations/Malgeave Keep\|Malgeave Keep]]
