@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/medallion-of-confusion/","tags":["item"],"noteIcon":"item"}
+{"bearer":"[[Johnra Kcir|Johnra]]","aliases":null,"dg-publish":true,"dg-icon":"item","tags":["item"],"permalink":"/items/medallion-of-confusion/","dgPassFrontmatter":true,"noteIcon":"item"}
 ---
 
 ### Found at
