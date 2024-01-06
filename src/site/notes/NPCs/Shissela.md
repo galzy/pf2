@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/np-cs/shissela/","tags":["npc"],"noteIcon":"npc"}
 ---
 
-#### First met
+### First met
 Bla
-#### Appearance
+### Appearance
 Bla
-#### Notes
+### Notes
 Mother of [[Players/Indigo\|Indigo]]
