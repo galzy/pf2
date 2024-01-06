@@ -4,7 +4,10 @@
 
 # Quests
 ### Looking for [[NPCs/Shissela\|mamma]]
-- [x] Kill [[NPCs/Kilgore the Warlock\|Kilgore the Warlock]]
+- [ ] [[NPCs/Kilgore the Warlock\|Kilgore the Warlock]]
+	- [x] Find him
+	- [x] Kill him
+	- [ ] investigate his looted items: [[Items/Killgore's two magical rings\|Killgore's two magical rings]] and [[Items/Killgore's key\|Killgore's key]]
 - [x] Find where [[NPCs/Shissela\|Shissela]] is
 - [ ] Find a way to [[NPCs/Shissela\|Shissela]]
 - [ ] Free [[NPCs/Shissela\|Shissela]]
