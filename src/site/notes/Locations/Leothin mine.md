@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/leothin-mine/","tags":["location"],"noteIcon":"location"}
+{"type":"Location","in":"[[Tyrant's Grasp]]","near":null,"aliases":null,"dg-publish":true,"dg-icon":"location","tags":["location"],"permalink":"/locations/leothin-mine/","dgPassFrontmatter":true,"noteIcon":"location"}
 ---
 
 ### First visited
