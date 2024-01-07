@@ -1,5 +1,5 @@
 ---
-{"race":"Dwarf","aliases":"Ron","dg-publish":true,"dg-icon":"player","tags":["player"],"permalink":"/players/ron-mhuilinn/","dgPassFrontmatter":true,"noteIcon":"player"}
+{"dg-publish":true,"permalink":"/players/ron-mhuilinn/","tags":["player"],"noteIcon":"player"}
 ---
 
 ### First met
