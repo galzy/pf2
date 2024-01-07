@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/vallmozon-s-infernal-coin/","tags":["item"],"noteIcon":"item"}
+{"dg-publish":true,"permalink":"/items/vallmozon-s-infernal-coin/","tags":["item"],"noteIcon":"item","updated":"2024-01-06T10:02:56.453+01:00"}
 ---
 
 ### Found at
