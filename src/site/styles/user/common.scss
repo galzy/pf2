@@ -46,7 +46,6 @@ body {
 		    max-width: 50%;
 			align-items: center;
 			justify-content: center;
-
 		}
 	}
 
@@ -89,30 +88,8 @@ body {
         }
     }
 
-    .sidebar-container {
-        & > div:not(.graph) {
-            overflow-y: auto;
-        }
-
-        @media (max-width: 1490px) {
-            flex-wrap: wrap;
-            flex-direction: row;
-            justify-content: space-between;
-        }
-    }
 
 	nav.filetree-sidebar {
-		display: flex;
-		flex-direction: column;
-		border-radius: 10px;
-		overflow-x: hidden;
-
-		.search-button {
-			margin: 10px;
-			min-width: 160px;
-			margin-bottom: 20px;
-		}
-
 		h1::before {
 			content: " ";
 			display: block;
