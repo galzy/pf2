@@ -152,9 +152,18 @@ body {
 
 .giscus {
     display: relative;
-    margin-top: 30px;
-    margin-left: 250px;
-    margin-right: 50px;
-    width: calc(100% - 300px);
+    margin-top: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    max-width: 70%;
     align: center;
+
+    div {
+    display: relative;
+    margin-top: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    max-width: 70%;
+    align: center;
+    }
 }
