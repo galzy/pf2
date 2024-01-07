@@ -131,34 +131,36 @@ body {
 // 	}
 //
 	h1 {
-        font-size: 2em !important; /* 40px/16=2.5em */
-		img {
-			height: 32px;
-			width: auto;
-		}
+        font-size: 1.125em !important; /* 40px/16=2.5em */
+        font-weight: 600 !important;
+
 	}
 
 	h2 {
-        font-size: 1.5em !important; /* 30px/16=1.875em */
+        font-size: 1.05em !important; /* 30px/16=1.875em */
+        font-weight: 600 !important;
+
 	}
 
 	h3 {
-		font-size: 1.17em !important;
+		font-size: 1em !important;
+        font-weight: 500 !important;
+
 	}
 
 	h4 {
-		font-size: 1em !important;
-		font-weight: bolder !important;
+		font-size: 0.90em !important;
+        font-weight: 500 !important;
 	}
 
 	h5 {
-		font-size: 0.83em !important;
-		font-weight: bolder !important;
+		font-size: 0.85em !important;
+        font-weight: 500 !important;
 	}
 
 	h6 {
-		font-size: 0.67em !important;
-		font-weight: bolder !important;
+		font-size: 0.85em !important;
+        font-weight: 400 !important;
 	}
 //
 //     .graph {
@@ -171,9 +173,9 @@ body {
 //
 	nav.filetree-sidebar {
 
-	   .notelink {
-            display: none
-	   }
+// 	   .notelink {
+//             display: none
+// 	   }
 
 		h1::before {
 			content: " ";
