@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/global/quests/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/global/quests/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry"],"noteIcon":""}
 ---
 
 # Quests
@@ -13,7 +13,6 @@
 	- [ ] Find out where she is
 	- [ ] Find a way to get there
 	- [ ] Free her
-	- [ ] 
 - [ ] Learn more on the [[Groups/Demon family\|Demon Family]]?
 - [ ] Kill [[NPCs/Hellion\|Hellion]]?
 ### Evil Ninjas
