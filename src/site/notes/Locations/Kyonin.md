@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/kyonin/","tags":["location"],"noteIcon":"location"}
+{"type":"Kingdom","in":null,"near":"[[stinky swamp]]","aliases":null,"dg-publish":true,"dg-icon":"location","tags":["location"],"permalink":"/locations/kyonin/","dgPassFrontmatter":true,"noteIcon":"location"}
 ---
 
 ### First visited
