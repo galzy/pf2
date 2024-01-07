@@ -1,5 +1,5 @@
 ---
-{"status":"Dead","attitude":"Hostile","race":"Drow","groups":["[[Demon Family]]"],"aliases":["Zeligar","Killgore"],"dg-publish":true,"dg-icon":"npc","tags":["npc"],"permalink":"/np-cs/kilgore-the-warlock/","dgPassFrontmatter":true,"noteIcon":"npc"}
+{"dg-publish":true,"permalink":"/np-cs/kilgore-the-warlock/","tags":["npc"],"noteIcon":"npc"}
 ---
 
 ### First met
