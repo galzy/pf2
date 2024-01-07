@@ -1,5 +1,5 @@
 ---
-{"bearer":"It's complicated","aliases":null,"dg-publish":true,"dg-icon":"item","tags":["item"],"permalink":"/items/key-to-the-temple-of-tiamat/","dgPassFrontmatter":true,"noteIcon":"item"}
+{"dg-publish":true,"permalink":"/items/key-to-the-temple-of-tiamat/","tags":["item"],"noteIcon":"item"}
 ---
 
 ### Notes
