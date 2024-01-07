@@ -1,5 +1,5 @@
 ---
-{"bearer":"[[Doliat Dreameyes|Doliat]]","aliases":null,"dg-publish":true,"dg-icon":"item","tags":["item"],"permalink":"/items/ring-of-antimagic/","dgPassFrontmatter":true,"noteIcon":"item"}
+{"dg-publish":true,"permalink":"/items/ring-of-antimagic/","tags":["item"],"noteIcon":"item"}
 ---
 
 ### Found at
