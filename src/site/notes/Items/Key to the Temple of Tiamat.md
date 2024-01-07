@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/key-to-the-temple-of-tiamat/","tags":["item"],"noteIcon":"item","updated":"2024-01-06T14:45:02.982+01:00"}
+{"dg-publish":true,"permalink":"/items/key-to-the-temple-of-tiamat/","tags":["item"],"noteIcon":"item","created":"2024-01-06T13:32:16.425+01:00","updated":"2024-01-06T14:45:02.982+01:00"}
 ---
 
 ### Notes
