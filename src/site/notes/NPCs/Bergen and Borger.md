@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/bergen-and-borger/","tags":["npc"],"noteIcon":"npc","updated":"2024-01-06T13:06:22.728+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/bergen-and-borger/","tags":["npc"],"noteIcon":"npc","created":"2024-01-06T13:02:26.761+01:00","updated":"2024-01-06T13:06:22.728+01:00"}
 ---
 
 ### First met
