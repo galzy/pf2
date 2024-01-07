@@ -1,0 +1,10 @@
+<div class="properties">
+{%- for property in [aliases, attitude, bearer, date, groups, hq, in, near, players, race, status, type, when, where] -%}
+{%- if property and property.name -%}
+	<div class="heading">{{property.name}}</div>
+{%- endif -%}
+{%- if property and property.value -%}
+	<div class="property">{{value}}</div>
+{%- endif -%}
+{%- endfor -%}
+</div>
