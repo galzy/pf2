@@ -31,21 +31,13 @@ body {
 		}
 	}
 
-	.notelink {
-		img {
-			height: 16px;
-			width: auto;
-		}
-		margin-right: 8px;
-	}
-
     .giscus {
 		display: flex;
 		flex-direction: row;
 		gap: 10px;
 		margin-top: 20px;
+		width: 50%;
 		align-items: center;
-
 	}
 
 	h1 {
@@ -79,31 +71,11 @@ body {
 		font-weight: bolder !important;
 	}
 
-    // table {
-    //     width: 100% !important;
-    //     border: 1px solid lightgray !important;
-
-    //     td,
-    //     th {
-    //         padding: 5px 10px !important;
-
-    //         hr {
-    //             margin: 5px !important;
-    //         }
-    //     }
-    // }
-
     .graph {
         flex: unset !important;
         @media (max-width: 1490px) {
             display: block !important;
             order: 3;
-        }
-    }
-
-    .toc {
-        @media (max-width: 1490px) {
-            display: block !important;
         }
     }
 
@@ -166,71 +138,6 @@ body {
 		}
 	}
 
-    nav.toc {
-        ol {
-            list-style: none;
-            padding-left: 10px;
-            border-left: 2px solid var(--background-secondary);
-        }
-
-        & > ol {
-            padding-left: 0;
-            border-left: none;
-        }
-    }
-
-    header {
-        margin-bottom: 1.8em;
-    }
-
-    .cm-s-obsidian {
-        .table-wrapper {
-            overflow-x: scroll;
-        }
-
-        picture {
-            max-width: 100%;
-            height: auto;
-
-            img {
-                width: 100%;
-                height: auto;
-            }
-        }
-    }
-
-    .cm-s-obsidian > *[id] {
-        position: relative;
-        cursor: pointer;
-        &:hover {
-            border: 1px dotted;
-            border-color: var(--text-accent);
-            margin-left: -10px;
-            margin-right: -10px;
-            padding: 10px;
-        }
-        &:hover::before {
-            content: "Double-click to copy link";
-            position: absolute;
-            right: 0;
-            top: -1.55em;
-            font-weight: normal;
-            font-size: 12px;
-            color: var(--text-accent);
-            font-variant: initial;
-            letter-spacing: 0.24px;
-            line-height: 14px;
-        }
-    }
-
-    .referred {
-        border: 1px dashed;
-        border-color: var(--text-accent);
-        padding: 10px;
-        margin-left: -10px;
-        margin-right: -10px;
-    }
-
 	#floating-control {
 		position: fixed;
 		color: var(--link-color);
@@ -283,209 +190,6 @@ body {
 		}
 	}
 
-    .fnote {
-        display: none;
-        background-color: var(--background-primary);
-        border: 1px solid var(--text-accent);
-        position: fixed;
-        bottom: 10px;
-        left: 0;
-        right: 0;
-        padding: 10px;
-        text-align: center;
-        z-index: 999;
-}
-
-    .footnote-ref {
-        line-height: 85%;
-
-        .fnote-marker {
-            background-color: var(--text-accent);
-            padding: 2px 5px;
-            color: white;
-            border-radius: 4px;
-            text-decoration: none;
-            font-size: 0.7em;
-            margin-top: -3px;
-            &:hover {
-                opacity: 0.7;
-            }
-        }
-    }
-
-    .shownote {
-        display: block;
-    }
-
-    .toc-container li::before {
-        content: "" !important;
-    }
-
-    nav.navbar {
-        top: 10px;
-        right: 10px;
-        left: 10px;
-        width: calc(100% - 20px);
-        border-radius: 10px;
-        border: var(--cards-border-width) solid var(--background-modifier-border);
-        z-index: 99999;
-        .navbar-inner {
-            h1::before {
-                content: " ";
-                display: inline-block;
-                width: 1em;
-                height: 1.2em;
-                background-size: contain;
-                background-repeat: no-repeat;
-                background-image: url(/img/logo.svg);
-                margin-right: 5px;
-                background-position: bottom;
-            }
-
-            span {
-                margin-left: 10px;
-            }
-        }
-
-        .search-button {
-            border-radius: 10px;
-
-            @media (max-width: 800px) {
-                margin-right: 10px;
-            }
-        }
-    }
-
-    .cards {
-        table.dataview {
-            width: var(--table-width);
-        }
-        th,
-        td {
-            border: none !important;
-            flex-wrap: wrap;
-            gap: 5px;
-
-            a.tag {
-                padding: 3px !important;
-            }
-        }
-        table.dataview.table-view-table {
-            thead.table-view-thead {
-                display: none;
-
-                &::before {
-                    display: none;
-                }
-            }
-            tbody {
-                tr {
-                    position: relative;
-                    td {
-                        img.inset-cover {
-                            height: 70px;
-                            width: auto;
-                            position: absolute;
-                            top: 0px;
-                            right: 0px;
-                            padding: 0;
-                        }
-                    }
-                }
-            }
-        }
-    }
-
-    .cards-cover-no-border {
-        table.dataview.table-view-table {
-            tbody {
-                tr {
-                    td:first-child {
-                        width: 100%;
-                        img {
-                            padding: 0;
-                        }
-                    }
-                    // td:nth-child(2) {
-                    //     min-height: 70px;
-                    // }
-
-                    td {
-                        svg {
-                            width: 14px;
-                            height: auto;
-                        }
-
-                        display: flex;
-                        flex-direction: row;
-                        align-items: center;
-                    }
-                }
-            }
-        }
-    }
-
-    .cards-title-hide-icons {
-        table.dataview.table-view-table {
-            tbody {
-                tr {
-                    td:nth-child(2),
-                    td:first-child {
-                        a::before {
-                            display: none;
-                        }
-                    }
-                }
-            }
-        }
-    }
-
-    code[class*="language-"],
-    pre[class*="language-"] {
-        text-shadow: unset;
-    }
-}
-
-// .callout {
-//     background-color: transparent !important;
-//     border: 1px solid rgba(var(--callout-color), 1) !important;
-//     position: relative;
-//     overflow: visible;
-//     margin-top: calc(1em + 10px);
-
-//     .callout-title {
-//         display: inline-flex;
-//         position: absolute;
-//         top: -10px;
-//         background-color: var(--background-primary);
-//         padding-left: 5px;
-//         padding-right: 5px;
-//     }
-// }
-
-.align-icon {
-    display: inline-flex;
-    align-items: center;
-}
-
-.pill {
-    background-color: var(--tag-background);
-    border: var(--tag-border-width) solid var(--tag-border-color);
-    border-radius: var(--tag-radius);
-    color: var(--tag-color);
-    font-size: var(--tag-size);
-    text-decoration: var(--tag-decoration);
-    padding: var(--tag-padding-y) var(--tag-padding-x);
-    line-height: 1;
-
-    &:hover {
-        background-color: var(--tag-background-hover);
-        border: var(--tag-border-width) solid var(--tag-border-color-hover);
-        color: var(--tag-color-hover);
-        text-decoration: var(--tag-decoration-hover);
-    }
-}
-
 .properties {
     display: flex;
     flex-direction: row;
@@ -496,31 +200,5 @@ body {
 
     .heading:only-child {
         display: none;
-    }
-}
-
-.header-tags {
-    gap: 5px;
-    display: flex;
-}
-
-.fullpage-overlay {
-    position: fixed;
-}
-
-.sidebar {
-    .toc-container {
-        max-height: unset;
-
-        @media (max-width: 1400px) {
-            max-height: 320px;
-        }
-    }
-
-    .backlinks {
-        flex: unset;
-        @media (max-width: 1400px) {
-            order: 3;
-        }
     }
 }
