@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/hellion/","tags":["npc"],"noteIcon":"npc"}
+{"dg-publish":true,"permalink":"/np-cs/hellion/","tags":["npc"],"noteIcon":"npc","updated":"2024-01-06T14:10:11.564+01:00"}
 ---
 
 ### First met
