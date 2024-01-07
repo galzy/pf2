@@ -1,5 +1,5 @@
 ---
-{"type":"Area","in":null,"near":"[[Kyonin]]","aliases":null,"dg-publish":true,"dg-icon":"location","tags":["location"],"permalink":"/locations/stinky-swamp/","dgPassFrontmatter":true,"noteIcon":"location"}
+{"dg-publish":true,"permalink":"/locations/stinky-swamp/","tags":["location"],"noteIcon":"location"}
 ---
 
 ### First visited
