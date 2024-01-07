@@ -31,14 +31,15 @@ body {
     .giscus {
 		display: flex;
 		flex-direction: row;
-		color: var(--text-muted);
 		max-width: 30%;
 		gap: 10px;
 		margin-top: 20px;
+		align-items: center;
 
 		div {
 			display: flex;
 			flex-direction: row;
+			max-width: 28%;
 			gap: 3px;
 			align-items: center;
 		}
@@ -49,7 +50,6 @@ body {
 			height: 16px;
 			width: auto;
 		}
-
 		margin-right: 8px;
 	}
 
@@ -88,39 +88,11 @@ body {
 	}
 
 
-	.graph {
-		flex: unset !important;
-
-		@media (max-width: 1490px) {
-			display: block !important;
-			order: 3;
-		}
-	}
-
-	.toc {
-		@media (max-width: 1490px) {
-			display: block !important;
-		}
-	}
-
-	.sidebar-container {
-		&>div:not(.graph) {
-			overflow-y: auto;
-		}
-
-		@media (max-width: 1490px) {
-			flex-wrap: wrap;
-			flex-direction: row;
-			justify-content: space-between;
-		}
-	}
-
 	nav.filetree-sidebar {
 		display: flex;
 		flex-direction: column;
 		border-radius: 10px;
 		overflow-x: hidden;
-
 		.search-button {
 			margin: 10px;
 			min-width: 160px;
