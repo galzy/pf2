@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/leothin-mine/","tags":["location"],"noteIcon":"location"}
+{"dg-publish":true,"permalink":"/locations/leothin-mine/","tags":["location"],"noteIcon":"location","updated":"2024-01-06T13:17:12.736+01:00"}
 ---
 
 ### First visited
