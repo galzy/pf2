@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"noteIcon":"session","created":"2024-01-04T17:40:30.869+01:00","updated":"2024-01-06T16:40:30.733+01:00"}
+{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"noteIcon":"session","created":"2024-01-04T17:40:30.869+01:00","updated":"2024-01-07T02:10:33.773+01:00"}
 ---
 
 ### Recap of the last session
@@ -22,13 +22,12 @@
 </div></div>
 
 ### Summary
-- We were captured by [[NPCs/Hellion\|Hellion]], who is a follower of the [[Groups/Demon family\|Demon family]] and an admirer of [[NPCs/Kilgore the Warlock\|Killgore]]. He planned to sacrifice us at the [[Locations/creepy swamp temple\|creepy swamp temple]]. We escaped with [[NPCs/Zima\|Zima]]'s help.
+- We were captured by [[NPCs/Hellion\|Hellion]], who is a follower of the [[Groups/Demon family\|Demon family]] and an admirer of [[NPCs/Kilgore the Warlock\|Killgore]]. He planned to sacrifice us at the [[Locations/creepy swamp temple\|creepy swamp temple]]. We escaped with [[NPCs/Zima\|Zima]]'s charmed help, which cosy him his life.
 - We reached [[Locations/Killgore's cave\|Killgore's cave]] and found the [[Items/Medallion of confusion\|Medallion of confusion]], which [[NPCs/Kilgore the Warlock\|Killgore]] was using to forget his past.
-- The cave contained an [[Lore/Entrances to the Underdark\|Entrances to the Underdark]]
-- After we restored his memory he told us he the murder of Indigo's father was one of his finest works.
-- He said he doesn't know how to reach [[NPCs/Shissela\|Indigo's mom]], as she's imprisoned by her family, [[Groups/Demon family\|Demon family]]. They wanted her back, because she ran away from home.
-- We interrogated him to make sure he wasn't hiding anything. It escalated to torture, mainly perpetuated by [[Players/Johnra Kcir\|Johnra]].
-- [[Players/Indigo\|Indigo]] claimed his vengeance and killed [[NPCs/Kilgore the Warlock\|Killgore]] by slitting his throat. On the corpse we found a [[Items/Killgore's key\|small golden key]] and a small bag containing [[Items/Killgore's two magical rings\|two rings]], both of which were magical.
+- The cave contained an [[Lore/Entrances to the Underdark\|entrance to the underdark]]
+- After we restored his memory he told us he the murder of Indigo's father was one of his finest works and that he doesn't know how to reach Indigo's mom, as she's imprisoned by her [[Groups/Demon family\|family]]. They wanted her back, because she ran away from home.
+- We interrogated him to make sure he wasn't hiding anything. It escalated to severe torture, mainly perpetuated by [[Players/Johnra Kcir\|Johnra]].
+- [[Players/Indigo\|Indigo]] claimed his vengeance and killed [[NPCs/Kilgore the Warlock\|Killgore]] by slitting his throat. 
 - We looted from him a [[Items/Killgore's key\|key]] and [[Items/Killgore's two magical rings\|two magical rings]]
 ### Log
 - We woke up after a full night's rest.
