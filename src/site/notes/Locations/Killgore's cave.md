@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/killgore-s-cave/","tags":["location"],"noteIcon":"location","created":"2024-01-05T18:52:00.592+01:00","updated":"2024-01-06T10:19:13.275+01:00"}
+{"dg-publish":true,"permalink":"/locations/killgore-s-cave/","tags":["location"],"noteIcon":"location"}
 ---
 
 ### First visited
