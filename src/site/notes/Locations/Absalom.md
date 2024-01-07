@@ -1,5 +1,5 @@
 ---
-{"type":"City","in":null,"near":[null],"aliases":null,"dg-publish":true,"dg-icon":"location","tags":["location"],"permalink":"/locations/absalom/","dgPassFrontmatter":true,"noteIcon":"location"}
+{"dg-publish":true,"permalink":"/locations/absalom/","tags":["location"],"noteIcon":"location"}
 ---
 
 ### First visited
