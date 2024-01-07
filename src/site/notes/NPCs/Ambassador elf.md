@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/ambassador-elf/","tags":["npc"],"noteIcon":"npc"}
+{"dg-publish":true,"permalink":"/np-cs/ambassador-elf/","tags":["npc"],"noteIcon":"npc","updated":"2024-01-06T09:40:04.015+01:00"}
 ---
 
 ### First met
