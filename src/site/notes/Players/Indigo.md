@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/players/indigo/","tags":["player"],"noteIcon":"player"}
+{"race":"Elf?","aliases":"Indigo","dg-publish":true,"dg-icon":"player","tags":["player"],"permalink":"/players/indigo/","dgPassFrontmatter":true,"noteIcon":"player"}
 ---
 
 ### First met
