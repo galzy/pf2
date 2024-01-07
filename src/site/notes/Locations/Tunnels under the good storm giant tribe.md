@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/tunnels-under-the-good-storm-giant-tribe/","tags":["location"],"noteIcon":"location"}
+{"dg-publish":true,"permalink":"/locations/tunnels-under-the-good-storm-giant-tribe/","tags":["location"],"noteIcon":"location","updated":"2024-01-06T14:22:31.610+01:00"}
 ---
 
 ### First visited
