@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/twinkle/","tags":["npc"],"noteIcon":"npc"}
+{"dg-publish":true,"permalink":"/np-cs/twinkle/","tags":["npc"],"noteIcon":"npc","updated":"2024-01-06T13:00:00.229+01:00"}
 ---
 
 ### First met
