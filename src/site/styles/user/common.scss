@@ -15,38 +15,34 @@ body {
     --graph-main: var(--text-accent-hover);
     --graph-muted: rgba(126, 126, 126, 0.5);
 
-    .content cm-s-obsidian {
+    .cm-s-obsidian {
         /* reduce top spacing for paragraph */
-        .markdown-reading-view :is(p) {
+        p {
             margin-top: 0.5em !important;
         }
 
-        /* reduce top spacing for list */
-        .markdown-reading-view :is(ul, ol) {
+        /* reduce top spacing and top spacing between elements for list */
+        ol, ul {
             margin-block-start:0.5em !important;
-        }
-
-        /* reduce bottom and top spacing between list elements */
-        .markdown-reading-view :is(ul, ol) {
             margin-bottom:0 !important;
             margin-top:0 !important;
         }
 
         /* reduce bottom spacing for heading */
-        .markdown-reading-view :is(h1,h2,h3,h4,h5,h6) {
+        h1,h2,h3,h4,h5,h6 {
             margin-block-end:0.5em !important;
         }
     }
-
-    .content {
-        max-width: 700px;
-        margin: auto;
-        margin-top: 90px;
-        font-size: 17px;
-        line-height: 1.5;
-        position: relative;
-    }
-
+//
+//     .content {
+//         max-width: 700px;
+//         margin: auto;
+//         margin-top: 90px;
+//         font-size: 17px;
+//         line-height: 1.5;
+//         position: relative;
+//     }
+//
 //   .is-mobile .community-item {
 //     max-width: 600px;
 //   }
@@ -118,11 +114,6 @@ body {
 //   }
 // }
 //
-
-
-
-
-
 // 	.timestamps {
 // 		display: flex;
 // 		flex-direction: row;
@@ -178,7 +169,6 @@ body {
 //         }
 //     }
 //
-
 	nav.filetree-sidebar {
 		h1::before {
 			content: " ";
