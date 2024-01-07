@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/infernal-coins/","tags":["lore"],"noteIcon":"lore","created":"2023-12-30T13:23:05.053+01:00","updated":"2024-01-04T23:37:44.301+01:00"}
+{"dg-publish":true,"permalink":"/lore/infernal-coins/","tags":["lore"],"noteIcon":"lore"}
 ---
 
 Each goin represents a favor owned by a specific demon. Used as a sort of currency.
