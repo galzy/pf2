@@ -11,10 +11,6 @@ body.theme-light {
     --h1-color: var(--interactive-accent);
 }
 
-body.is-mobile {
-    width: 250vw;
-}
-
 body {
     --graph-main: var(--text-accent-hover);
     --graph-muted: rgba(126, 126, 126, 0.5);
@@ -102,11 +98,6 @@ body {
 //     }
 //
 	nav.filetree-sidebar {
-
-// 	   .notelink {
-//             display: none
-// 	   }
-
 		h1::before {
 			content: " ";
 			display: block;
