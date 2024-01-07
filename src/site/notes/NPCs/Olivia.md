@@ -1,5 +1,5 @@
 ---
-{"status":"Alive","attitude":"Friendly","race":"Human","groups":null,"aliases":null,"dg-publish":true,"dg-icon":"npc","tags":["npc"],"permalink":"/np-cs/olivia/","dgPassFrontmatter":true,"noteIcon":"npc"}
+{"dg-publish":true,"permalink":"/np-cs/olivia/","tags":["npc"],"noteIcon":"npc"}
 ---
 
 ### First met
