@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/tyrant-s-grasp/","tags":["location"],"noteIcon":"location"}
+{"type":"Area","in":null,"near":"[[Absalom]]","aliases":null,"dg-publish":true,"dg-icon":"location","tags":["location"],"permalink":"/locations/tyrant-s-grasp/","dgPassFrontmatter":true,"noteIcon":"location"}
 ---
 
 ### First visited
