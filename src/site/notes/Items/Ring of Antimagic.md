@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/ring-of-antimagic/","tags":["item"],"noteIcon":"item","updated":"2024-01-06T10:03:03.448+01:00"}
+{"dg-publish":true,"permalink":"/items/ring-of-antimagic/","tags":["item"],"noteIcon":"item","created":"2024-01-06T00:16:23.194+01:00","updated":"2024-01-06T10:03:03.448+01:00"}
 ---
 
 ### Found at
