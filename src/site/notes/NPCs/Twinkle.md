@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/twinkle/","tags":["npc"],"noteIcon":"npc"}
+{"status":"Alive","attitude":"Friendly","race":"Demon","groups":null,"aliases":null,"dg-publish":true,"dg-icon":"npc","tags":["npc"],"permalink":"/np-cs/twinkle/","dgPassFrontmatter":true,"noteIcon":"npc"}
 ---
 
 ### First met
