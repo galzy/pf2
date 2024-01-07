@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/absalom-city-council/","tags":["group"],"noteIcon":"group","created":"2024-01-06T13:55:36.781+01:00","updated":"2024-01-07T02:11:15.429+01:00"}
+{"dg-publish":true,"permalink":"/groups/absalom-city-council/","tags":["group"],"noteIcon":"group"}
 ---
 
 ### First met
