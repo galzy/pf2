@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","tags":["session"],"noteIcon":"session"}
+{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","contentClasses":"clean-embeds","tags":["session"],"noteIcon":"session"}
 ---
 
 ### Recap of the last session
