@@ -1,5 +1,5 @@
 ---
-{"status":"Alive","attitude":"Indifferent","race":"Denon","groups":null,"aliases":null,"dg-publish":true,"dg-icon":"npc","tags":["npc"],"permalink":"/np-cs/vallmozon/","dgPassFrontmatter":true,"noteIcon":"npc"}
+{"dg-publish":true,"permalink":"/np-cs/vallmozon/","tags":["npc"],"noteIcon":"npc"}
 ---
 
 ### First met
