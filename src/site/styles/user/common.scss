@@ -15,61 +15,69 @@ body {
     --graph-main: var(--text-accent-hover);
     --graph-muted: rgba(126, 126, 126, 0.5);
 
-	.timestamps {
-		display: flex;
-		flex-direction: row;
-		font-size: 0.8em;
-		color: var(--text-muted);
-		gap: 10px;
-		margin-top: 20px;
-
-		div {
-			display: flex;
-			flex-direction: row;
-			gap: 3px;
-			align-items: center;
-		}
-	}
-
-	h1 {
-        font-size: 2em !important; /* 40px/16=2.5em */
-		img {
-			height: 32px;
-			width: auto;
-		}
-	}
-
-	h2 {
-        font-size: 1.5em !important; /* 30px/16=1.875em */
-	}
-
-	h3 {
-		font-size: 1.17em !important;
-	}
-
-	h4 {
-		font-size: 1em !important;
-		font-weight: bolder !important;
-	}
-
-	h5 {
-		font-size: 0.83em !important;
-		font-weight: bolder !important;
-	}
-
-	h6 {
-		font-size: 0.67em !important;
-		font-weight: bolder !important;
-	}
-
-    .graph {
-        flex: unset !important;
-        @media (max-width: 1490px) {
-            display: block !important;
-            order: 3;
-        }
+    .content {
+        max-width: 90%;
+        margin: auto;
+        font-size: 17px;
+        line-height: 1.5;
     }
 
+
+// 	.timestamps {
+// 		display: flex;
+// 		flex-direction: row;
+// 		font-size: 0.8em;
+// 		color: var(--text-muted);
+// 		gap: 10px;
+// 		margin-top: 20px;
+//
+// 		div {
+// 			display: flex;
+// 			flex-direction: row;
+// 			gap: 3px;
+// 			align-items: center;
+// 		}
+// 	}
+//
+// 	h1 {
+//         font-size: 2em !important; /* 40px/16=2.5em */
+// 		img {
+// 			height: 32px;
+// 			width: auto;
+// 		}
+// 	}
+//
+// 	h2 {
+//         font-size: 1.5em !important; /* 30px/16=1.875em */
+// 	}
+//
+// 	h3 {
+// 		font-size: 1.17em !important;
+// 	}
+//
+// 	h4 {
+// 		font-size: 1em !important;
+// 		font-weight: bolder !important;
+// 	}
+//
+// 	h5 {
+// 		font-size: 0.83em !important;
+// 		font-weight: bolder !important;
+// 	}
+//
+// 	h6 {
+// 		font-size: 0.67em !important;
+// 		font-weight: bolder !important;
+// 	}
+//
+//     .graph {
+//         flex: unset !important;
+//         @media (max-width: 1490px) {
+//             display: block !important;
+//             order: 3;
+//         }
+//     }
+//
 
 	nav.filetree-sidebar {
 		h1::before {
