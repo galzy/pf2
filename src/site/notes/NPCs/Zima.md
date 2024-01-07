@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/zima/","tags":["npc"],"noteIcon":"npc","updated":"2024-01-06T14:13:23.976+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/zima/","tags":["npc"],"noteIcon":"npc","created":"2024-01-06T14:10:33.098+01:00","updated":"2024-01-06T14:13:23.976+01:00"}
 ---
 
 ### First met
