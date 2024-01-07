@@ -31,7 +31,7 @@ body {
 		}
 	}
 
-    .giscus-frame {
+    .giscus {
 		display: flex;
 		flex-direction: row;
 		gap: 10px;
@@ -42,14 +42,14 @@ body {
 		div {
 			display: flex;
 			flex-direction: row;
-		width: 200px;
+		    width: 200px;
 			align-items: center;
 		}
 
 		iframe {
 			display: flex;
 			flex-direction: row;
-		width: 200px;
+		    width: 200px;
 			align-items: center;
 		}
 	}
