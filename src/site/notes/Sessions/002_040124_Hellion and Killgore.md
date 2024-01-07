@@ -22,10 +22,10 @@
 </div></div>
 
 ### Summary
-- We were captured by [[NPCs/Hellion\|Hellion]], who is a follower of the [[Groups/Demon family\|Demon family]] and an admirer of [[NPCs/Kilgore the Warlock\|Killgore]]. He planned to sacrifice us at the [[Locations/creepy swamp temple\|creepy swamp temple]]. We escaped with [[NPCs/Zima\|Zima]]'s charmed help, which cosy him his life.
+- We were captured by [[NPCs/Hellion\|Hellion]], who is a follower of the [[Groups/Demon family\|Demon family]] and an admirer of [[NPCs/Kilgore the Warlock\|Killgore]]. He planned to sacrifice us at the [[Locations/creepy swamp temple\|creepy swamp temple]]. We escaped with [[NPCs/Zima\|Zima]]'s charmed help, which cost him his life.
 - We reached [[Locations/Killgore's cave\|Killgore's cave]] and found the [[Items/Medallion of confusion\|Medallion of confusion]], which [[NPCs/Kilgore the Warlock\|Killgore]] was using to forget his past.
 - The cave contained an [[Lore/Entrances to the Underdark\|entrance to the underdark]]
-- After we restored his memory he told us he the murder of Indigo's father was one of his finest works and that he doesn't know how to reach Indigo's mom, as she's imprisoned by her [[Groups/Demon family\|family]]. They wanted her back, because she ran away from home.
+- After we restored his memory, he told us that the murder of Indigo's father was one of his finest works and that he doesn't know how to reach [[NPCs/Shissela\|Indigo's mom]], as she's imprisoned by her [[Groups/Demon family\|family]]. They wanted her back, because she ran away from home.
 - We interrogated him to make sure he wasn't hiding anything. It escalated to severe torture, mainly perpetuated by [[Players/Johnra Kcir\|Johnra]].
 - [[Players/Indigo\|Indigo]] claimed his vengeance and killed [[NPCs/Kilgore the Warlock\|Killgore]] by slitting his throat. 
 - We looted from him a [[Items/Killgore's key\|key]] and [[Items/Killgore's two magical rings\|two magical rings]]
