@@ -1,5 +1,5 @@
 ---
-{"id":1,"date":"2023-12-26","players":["Gal","Dima","Dor","Rotem"],"cssclasses":["clean-embeds"],"dg-publish":true,"dg-icon":"session","tags":["session"],"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","dgPassFrontmatter":true,"noteIcon":"session"}
+{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","tags":["session"],"noteIcon":"session"}
 ---
 
 ### Recap of the last session
