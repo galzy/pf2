@@ -1,5 +1,5 @@
 ---
-{"where":"[[a pub near Kyonin]]","when":"Recently","aliases":null,"dg-publish":true,"dg-icon":"event","tags":["event"],"permalink":"/events/twinkle-s-second-song/","dgPassFrontmatter":true,"noteIcon":"event"}
+{"dg-publish":true,"permalink":"/events/twinkle-s-second-song/","tags":["event"],"noteIcon":"event"}
 ---
 
 ## The Song
