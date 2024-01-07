@@ -11,6 +11,10 @@ body.theme-light {
     --h1-color: var(--interactive-accent);
 }
 
+body.is-mobile {
+    width: 120vw;
+}
+
 body {
     --graph-main: var(--text-accent-hover);
     --graph-muted: rgba(126, 126, 126, 0.5);
@@ -120,25 +124,8 @@ body {
 //     --keyboard-background: var(--background-primary);
 //     --checkbox-size: 17px;
 //   }
-//   .is-tablet {
-//     --nav-item-padding: var(--size-2-3) var(--size-4-3);
-//     --tab-font-size: var(--font-ui-smaller);
-//   }
 //
-//   .is-phone {
-//     --border-width: 0.5pt;
-//     --divider-width: 0.5pt;
-//     --tab-outline-width: 0.5pt;
-//     --modal-header-height: 44px;
-//     --modal-community-sidebar-width: 100%;
-//     --nav-item-size: var(--font-ui-medium);
-//   }
-//   body.is-mobile {
-//     height: 100vh;
-//     width: 100vw;
-//     caret-color: var(--caret-color);
-//     padding-bottom: 50px;
-//   }
+
 // }
 //
 // 	.timestamps {
