@@ -1,5 +1,5 @@
 ---
-{"race":"Human","aliases":["Doliat"],"dg-publish":true,"dg-icon":"player","tags":["player"],"permalink":"/players/doliat-dreameyes/","dgPassFrontmatter":true,"noteIcon":"player"}
+{"dg-publish":true,"permalink":"/players/doliat-dreameyes/","tags":["player"],"noteIcon":"player"}
 ---
 
 ### First met
