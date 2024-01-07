@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/absalom-city-council/","tags":["group"],"noteIcon":"group"}
+{"hq":"[[Absalom]]","aliases":null,"dg-publish":true,"dg-icon":"group","tags":["group"],"permalink":"/groups/absalom-city-council/","dgPassFrontmatter":true,"noteIcon":"group"}
 ---
 
 ### First met
