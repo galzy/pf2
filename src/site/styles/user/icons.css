@@ -1,10 +1,10 @@
-body.filetree-note-icon .filename[data-note-icon="dice"]::before, body.links-note-icon .internal-link[data-note-icon="dice"]::before, body.backlinks-note-icon .backlink[data-note-icon="dice"]::before {
+body.filetree-note-icon .filename[data-note-icon="session"]::before, body.links-note-icon .internal-link[data-note-icon="session"]::before, body.backlinks-note-icon .backlink[data-note-icon="session"]::before {
   background-image: url(/img/session.svg);
   width: 1.5rem;
   height: 1.5rem;
   vertical-align: middle;
 }
-body.filetree-note-icon .filename[data-note-icon="dice_bw"]::before, body.links-note-icon .internal-link[data-note-icon="dice_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="dice_bw"]::before {
+body.filetree-note-icon .filename[data-note-icon="session_bw"]::before, body.links-note-icon .internal-link[data-note-icon="session_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="session_bw"]::before {
   background-image: url(/img/session_bw.svg);
   width: 1.5rem;
   height: 1.5rem;

@@ -19,6 +19,9 @@ body {
         /* reduce top spacing for paragraph */
         p {
             margin-top: 0.5em !important;
+            display: inline;
+            overflow-wrap: break-word;
+
         }
 
         /* reduce top spacing and top spacing between elements for list */
