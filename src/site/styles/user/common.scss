@@ -32,15 +32,19 @@ body {
 		display: flex;
 		flex-direction: row;
 		max-width: 30%;
-		gap: 10px;
-		margin-top: 20px;
 		align-items: center;
 
 		div {
 			display: flex;
 			flex-direction: row;
-			max-width: 28%;
-			gap: 3px;
+		    max-width: 30%;
+			align-items: center;
+		}
+
+		iframe {
+			display: flex;
+			flex-direction: row;
+		    max-width: 30%;
 			align-items: center;
 		}
 	}
