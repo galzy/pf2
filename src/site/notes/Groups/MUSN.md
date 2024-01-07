@@ -1,5 +1,5 @@
 ---
-{"hq":"[[creepy swamp temple]]","aliases":["Militaristic Undead Swamp Naga"],"dg-publish":true,"dg-icon":"group","tags":["group"],"permalink":"/groups/musn/","dgPassFrontmatter":true,"noteIcon":"group"}
+{"dg-publish":true,"permalink":"/groups/musn/","tags":["group"],"noteIcon":"group"}
 ---
 
 ### First met
