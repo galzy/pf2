@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/global/quests/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry"],"noteIcon":""}
+{"aliases":null,"dg-publish":true,"dg-home":true,"dg-show-backlinks":false,"dg-show-local-graph":false,"dg-pinned":true,"dg-hide-in-graph":true,"tags":["global","gardenEntry","gardenEntry"],"permalink":"/global/quests/","hideInGraph":true,"pinned":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Quests
