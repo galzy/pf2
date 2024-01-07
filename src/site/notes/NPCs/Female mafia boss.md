@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/female-mafia-boss/","tags":["npc"],"noteIcon":"npc"}
+{"dg-publish":true,"permalink":"/np-cs/female-mafia-boss/","tags":["npc"],"noteIcon":"npc","updated":"2024-01-06T09:39:50.598+01:00"}
 ---
 
 ### First met
