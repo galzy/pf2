@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/medallion-of-confusion/","tags":["item"],"noteIcon":"item"}
+{"dg-publish":true,"permalink":"/items/medallion-of-confusion/","tags":["item"],"noteIcon":"item","updated":"2024-01-06T10:03:07.593+01:00"}
 ---
 
 ### Found at
