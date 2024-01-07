@@ -1,5 +1,5 @@
 ---
-{"type":"City","in":null,"near":"[[Kyonin]]","aliases":null,"dg-publish":true,"dg-icon":"location","tags":["location"],"permalink":"/locations/greengold/","dgPassFrontmatter":true,"noteIcon":"location"}
+{"dg-publish":true,"permalink":"/locations/greengold/","tags":["location"],"noteIcon":"location"}
 ---
 
 ### First visited
