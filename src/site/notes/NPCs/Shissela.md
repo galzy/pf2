@@ -1,5 +1,5 @@
 ---
-{"status":"Imprisoned","attitude":"Helpful","race":"Demon","groups":null,"aliases":["Indigo's mom"],"dg-publish":true,"dg-icon":"npc","tags":["npc"],"permalink":"/np-cs/shissela/","dgPassFrontmatter":true,"noteIcon":"npc"}
+{"dg-publish":true,"permalink":"/np-cs/shissela/","tags":["npc"],"noteIcon":"npc"}
 ---
 
 ### First met
