@@ -28,10 +28,37 @@ body {
             margin-top:0 !important;
         }
 
-        /* reduce bottom spacing for heading */
-        h1,h2,h3,h4,h5,h6 {
+        h1 {
+            font-size: 1.125em !important; /* 40px/16=2.5em */
+            font-weight: 600 !important;
             margin-block-end:0.5em !important;
         }
+        h2 {
+            font-size: 1.05em !important; /* 30px/16=1.875em */
+            font-weight: 600 !important;
+            margin-block-end:0.5em !important;
+        }
+        h3 {
+            font-size: 1em !important;
+            font-weight: 500 !important;
+            margin-block-end:0.5em !important;
+        }
+        h4 {
+            font-size: 0.90em !important;
+            font-weight: 500 !important;
+            margin-block-end:0.5em !important;
+        }
+        h5 {
+            font-size: 0.85em !important;
+            font-weight: 500 !important;
+            margin-block-end:0.5em !important;
+        }
+        h6 {
+            font-size: 0.85em !important;
+            font-weight: 400 !important;
+            margin-block-end:0.5em !important;
+        }
+
     }
 //
 //     .content {
@@ -130,38 +157,6 @@ body {
 // 		}
 // 	}
 //
-	h1 {
-        font-size: 1.125em !important; /* 40px/16=2.5em */
-        font-weight: 600 !important;
-
-	}
-
-	h2 {
-        font-size: 1.05em !important; /* 30px/16=1.875em */
-        font-weight: 600 !important;
-
-	}
-
-	h3 {
-		font-size: 1em !important;
-        font-weight: 500 !important;
-
-	}
-
-	h4 {
-		font-size: 0.90em !important;
-        font-weight: 500 !important;
-	}
-
-	h5 {
-		font-size: 0.85em !important;
-        font-weight: 500 !important;
-	}
-
-	h6 {
-		font-size: 0.85em !important;
-        font-weight: 400 !important;
-	}
 //
 //     .graph {
 //         flex: unset !important;
