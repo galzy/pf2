@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/olivia/","tags":["npc"],"noteIcon":"npc","updated":"2024-01-06T13:57:56.906+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/olivia/","tags":["npc"],"noteIcon":"npc","created":"2024-01-06T13:56:46.169+01:00","updated":"2024-01-06T13:57:56.906+01:00"}
 ---
 
 ### First met
