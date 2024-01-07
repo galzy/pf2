@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/global/quests/","tags":["global","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-12-30T01:16:53.937+01:00","updated":"2024-01-06T17:11:59.881+01:00"}
+{"dg-publish":true,"permalink":"/global/quests/","tags":["global","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-12-30T01:16:53.937+01:00","updated":"2024-01-06T17:11:59.881+01:00"}
 ---
 
 # Quests
