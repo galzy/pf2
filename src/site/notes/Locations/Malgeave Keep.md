@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/malgeave-keep/","tags":["location"],"noteIcon":"location"}
+{"type":"Location","in":null,"near":["[[Greengold]]"],"aliases":null,"dg-publish":true,"dg-icon":"location","tags":["location"],"permalink":"/locations/malgeave-keep/","dgPassFrontmatter":true,"noteIcon":"location"}
 ---
 
 ### First visited
