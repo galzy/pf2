@@ -1,5 +1,5 @@
 ---
-{"bearer":"[[Indigo]]","aliases":null,"dg-publish":true,"dg-icon":"item","tags":["item"],"permalink":"/items/killgore-s-two-magical-rings/","dgPassFrontmatter":true,"noteIcon":"item"}
+{"dg-publish":true,"permalink":"/items/killgore-s-two-magical-rings/","tags":["item"],"noteIcon":"item"}
 ---
 
 ### Found at
