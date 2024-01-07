@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/vallmozon/","tags":["npc"],"noteIcon":"npc"}
+{"dg-publish":true,"permalink":"/np-cs/vallmozon/","tags":["npc"],"noteIcon":"npc","updated":"2024-01-06T09:40:07.757+01:00"}
 ---
 
 ### First met
