@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"noteIcon":"session"}
+{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","contentClasses":"clean-embeds","tags":["session"],"noteIcon":"session"}
 ---
 
 ### Recap of the last session
