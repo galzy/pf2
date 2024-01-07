@@ -151,19 +151,15 @@ body {
 }
 
 .giscus {
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
+    display: relative;
     margin-top: 20px;
     max-width: 50%;
-    align-items: center;
-    justify-content: center;
+    align: center;
 
     div {
-        display: flex;
-        flex-direction: row;
-        max-width: 50%;
-        align-items: center;
-        justify-content: center;
+    display: relative;
+    margin-top: 20px;
+    max-width: 50%;
+    align: center;
     }
 }
