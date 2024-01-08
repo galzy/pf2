@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/ambassador-elf/","tags":["npc"],"noteIcon":"npc"}
+{"dg-publish":true,"permalink":"/np-cs/ambassador-elf/","tags":["npc"],"noteIcon":"npc","created":"2023-12-29T23:26:13.713+01:00","updated":"2024-01-08T23:27:44.146+01:00"}
 ---
 
 | Status | Attitude | Race | Groups           | Aliases |
