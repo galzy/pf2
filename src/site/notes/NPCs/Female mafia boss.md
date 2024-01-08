@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/np-cs/female-mafia-boss/","tags":["npc"],"noteIcon":"npc"}
 ---
 
-| Status | Attitude | Race  | Groups                              | Aliases |
-| ------ | -------- | ----- | ----------------------------------- | ------- |
-| Alive  | Friendly | Human | <ul><li>[[Absalom mafia\|Absalom mafia]]</li></ul> | \-      |
+| Status | Attitude | Race  | Groups            | Aliases |
+| ------ | -------- | ----- | ----------------- | ------- |
+| Alive  | Friendly | Human | [[Absalom mafia\|Absalom mafia]] | \-      |
 
 { .block-language-dataview}
 ### First met
