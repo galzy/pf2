@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/zima/","tags":["npc"],"noteIcon":"npc"}
+{"dg-publish":true,"permalink":"/np-cs/zima/","tags":["npc"],"noteIcon":"npc","created":"2024-01-06T14:10:33.098+01:00","updated":"2024-01-08T12:44:33.238+01:00"}
 ---
 
 | Status | Attitude | Race  | Groups                               | Aliases |
