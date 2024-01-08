@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/np-cs/vallmozon/","tags":["npc"],"noteIcon":"npc"}
 ---
 
+| Status | Attitude    | Race  | Groups | Aliases |
+| ------ | ----------- | ----- | ------ | ------- |
+| Alive  | Indifferent | Denon | \-     | \-      |
+
+{ .block-language-dataview}
 ### First met
 Never
 ### Appearance
