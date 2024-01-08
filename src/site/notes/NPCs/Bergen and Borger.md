@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/np-cs/bergen-and-borger/","tags":["npc"],"noteIcon":"npc"}
 ---
 
+| Status | Attitude    | Race  | Groups | Aliases |
+| ------ | ----------- | ----- | ------ | ------- |
+| Alive  | Indifferent | Dwarf | \-     | \-      |
+
+{ .block-language-dataview}
 ### First met
 When we first arrived at [[Locations/Absalom\|Absalom]]
 ### Appearance
