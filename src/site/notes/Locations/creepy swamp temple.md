@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/creepy-swamp-temple/","tags":["location"],"noteIcon":"location"}
+{"dg-publish":true,"permalink":"/locations/creepy-swamp-temple/","tags":["location"],"noteIcon":"location","created":"2023-12-30T14:13:23.277+01:00","updated":"2024-01-08T23:27:47.145+01:00"}
 ---
 
 | Type | In               | Near                | Aliases |
