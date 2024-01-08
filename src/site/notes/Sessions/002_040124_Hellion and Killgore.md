@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"noteIcon":"session","created":"2024-01-04T17:40:30.869+01:00","updated":"2024-01-08T12:44:11.178+01:00"}
+{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"noteIcon":"session","created":"2024-01-04T17:40:30.869+01:00","updated":"2024-01-09T00:32:29.305+01:00"}
 ---
 
 | ID | Players                                      |
@@ -27,7 +27,7 @@
 </div></div>
 
 ### Summary
-- We were captured by [[NPCs/Hellion\|Hellion]], who is a follower of the [[Groups/Demon family\|Demon family]] and an admirer of [[NPCs/Kilgore the Warlock\|Killgore]]. He planned to sacrifice us at the [[Locations/creepy swamp temple\|creepy swamp temple]]. We escaped with [[NPCs/Zima\|Zima]]'s charmed help, which cost him his life.
+- We were captured by the necromancer [[NPCs/Hellion\|Hellion]], who is a follower of the [[Groups/Demon family\|Demon family]] and an admirer of [[NPCs/Kilgore the Warlock\|Killgore]]. He planned to sacrifice us at the [[Locations/creepy swamp temple\|creepy swamp temple]]. We escaped with [[NPCs/Zima\|Zima]]'s charmed help, which cost him his life.
 - We reached [[Locations/Killgore's cave\|Killgore's cave]] and found the [[Items/Medallion of confusion\|Medallion of confusion]], which [[NPCs/Kilgore the Warlock\|Killgore]] was using to forget his past.
 - The cave contained an [[Lore/Entrances to the Underdark\|entrance to the underdark]]
 - After we restored his memory, he told us that the murder of Indigo's father was one of his finest works and that he doesn't know how to reach [[NPCs/Shissela\|Indigo's mom]], as she's imprisoned by her [[Groups/Demon family\|family]]. They wanted her back, because she ran away from home.
