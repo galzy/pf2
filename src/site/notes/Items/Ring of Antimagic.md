@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/items/ring-of-antimagic/","tags":["item"],"noteIcon":"item"}
 ---
 
+| Bearer                       | Aliases |
+| ---------------------------- | ------- |
+| [[Players/Doliat Dreameyes\|Doliat]] | \-      |
+
+{ .block-language-dataview}
 ### Found at
 Purchased at [[Locations/Greengold\|Greengold]] during the search for [[NPCs/Kilgore the Warlock\|Killgore]]
 ### Appearance
