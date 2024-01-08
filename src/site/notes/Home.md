@@ -16,7 +16,7 @@
 | [[NPCs/Ambassador elf\|Ambassador elf]]           | Alive      | Friendly    | Elf       | [[Groups/Kyonin elves\|Kyonin elves]]                     |
 | [[NPCs/Bergen and Borger\|Bergen and Borger]]     | Alive      | Indifferent | Dwarf     | \-                                   |
 | [[NPCs/creepy old elf\|creepy old elf]]           | Alive      | Friendly    | Elf       | [[Groups/Kyonin elves\|Kyonin elves]]                     |
-| [[NPCs/Female mafia boss\|Female mafia boss]]     | Alive      | Friendly    | Human     | [[Absalom mafia\|Absalom mafia]]                    |
+| [[NPCs/Female mafia boss\|Female mafia boss]]     | Alive      | Friendly    | Human     | [[Groups/Absalom mafia\|Absalom mafia]]                    |
 | [[NPCs/Hellion\|Hellion]]                         | Alive      | Hostile     | Elf, High | [[Groups/Demon family\|Demon Family]], [[Groups/MUSN\|MUSN]]           |
 | [[NPCs/Kilgore the Warlock\|Kilgore the Warlock]] | Dead       | Hostile     | Drow      | [[Groups/Demon family\|Demon Family]]                     |
 | [[NPCs/Olivia\|Olivia]]                           | Alive      | Friendly    | Human     | \-                                   |
@@ -48,6 +48,7 @@
 | [[Locations/Leothin mine\|Leothin mine]]                                                         | Location | [[Locations/Tyrant's Grasp\|Tyrant's Grasp]]         | \-                                                         |
 | [[Locations/Malgeave Keep\|Malgeave Keep]]                                                       | Location | \-                         | [[Locations/Greengold\|Greengold]]                                              |
 | [[Locations/stinky swamp\|stinky swamp]]                                                         | Area     | \-                         | [[Locations/Kyonin\|Kyonin]]                                                 |
+| [[Locations/the Precipice\|the Precipice]]                                                       | Quarter  | [[Locations/Absalom\|Absalom]]                | \-                                                         |
 | [[Locations/Tunnels under the good storm giant tribe\|Tunnels under the good storm giant tribe]] | Location | [[Mountains near Absalom\|Mountains near Absalom]] |                                                            |
 | [[Locations/Tyrant's Grasp\|Tyrant's Grasp]]                                                     | Area     | \-                         | [[Locations/Absalom\|Absalom]]                                                |
 | [[Locations/Unnamed Drow city near Kyonin\|Unnamed Drow city near Kyonin]]                       | City     | Underdark                  | [[Locations/Kyonin\|Kyonin]]                                                 |
@@ -65,6 +66,7 @@
 | Name                                                           | HQ                      |
 | -------------------------------------------------------------- | ----------------------- |
 | [[Groups/Absalom city council\|Absalom city council]]       | [[Locations/Absalom\|Absalom]]             |
+| [[Groups/Absalom mafia\|Absalom mafia]]                     | [[Locations/the Precipice\|the Precipice]]       |
 | [[Groups/Demon family\|Demon family]]                       | \-                      |
 | [[Groups/Good storm giants tribe\|Good storm giants tribe]] | [[storm giant area\|storm giant area]]    |
 | [[Groups/Kyonin elves\|Kyonin elves]]                       | [[Locations/Kyonin\|Kyonin]]              |
