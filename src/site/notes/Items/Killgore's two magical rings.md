@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/killgore-s-two-magical-rings/","tags":["item"],"noteIcon":"item","created":"2024-01-06T01:05:55.311+01:00","updated":"2024-01-08T12:14:44.785+01:00"}
+{"dg-publish":true,"permalink":"/items/killgore-s-two-magical-rings/","tags":["item"],"noteIcon":"item"}
 ---
 
 | Bearer     | Aliases |
