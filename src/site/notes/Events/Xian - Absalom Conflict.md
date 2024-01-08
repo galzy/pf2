@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/xian-absalom-conflict/","tags":["event"],"noteIcon":"event","created":"2023-12-28T13:18:43.619+01:00","updated":"2024-01-08T23:28:04.026+01:00"}
+{"dg-publish":true,"permalink":"/events/xian-absalom-conflict/","tags":["event"],"noteIcon":"event","created":"2023-12-28T13:18:43.619+01:00","updated":"2024-01-09T00:25:27.397+01:00"}
 ---
 
 | Where       | When     | Aliases |
@@ -16,4 +16,4 @@ The [[Groups/Absalom city council\|council]] asked us to look for the legendary 
 We were captured by the [[bad storm giants tribe\|bad storm giants tribe]] and [[Balu\|Balu]] was killed. We met [[NPCs/Zima\|Zima]], who was studying them. We escaped by wining trial by combat. We first met [[Players/Doliat Dreameyes\|Doliat]], who led us to the [[Locations/Tunnels under the good storm giant tribe\|tunnels]] under the [[Groups/Good storm giants tribe\|Good storm giants tribe]].
 We convinced them to help us and they helped lift the siege off [[Locations/Absalom\|Absalom]]. 
 [[Female xian general\|Female xian general]] escaped
-We got a [[storm bringers castle\|castle]] and became members of the [[[Absalom city council\|council]]
+We got a [[storm bringers castle\|castle]] and became members of the [[Groups/Absalom city council\|council]]
