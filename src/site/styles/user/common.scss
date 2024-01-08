@@ -22,8 +22,11 @@ body {
         .giscus {
             display: block;
             margin-top: 20px;
-            margin-left: 1.5em;
-            margin-right: 1.5em;
+            margin-left: 5px;
+            margin-right: 5px;
+            padding-left: 0;
+            padding-right: 0;
+
             align: center;
 
             .giscus-frame {
@@ -31,6 +34,8 @@ body {
                 margin-top: 0;
                 margin-left: 0;
                 margin-right: 0;
+                padding-left: 0;
+                padding-right: 0;
                 width: 100%
                 align: center;
             }
