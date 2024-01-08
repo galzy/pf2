@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/locations/creepy-swamp-temple/","tags":["location"],"noteIcon":"location"}
 ---
 
+| Type | In               | Near                | Aliases |
+| ---- | ---------------- | ------------------- | ------- |
+| Area | [[Locations/stinky swamp\|stinky swamp]] | [[Locations/Killgore's cave\|Killgore's cave]] | \-      |
+
+{ .block-language-dataview}
 ### First visited
 [[Sessions/001_261223_MUSN (Militaristic Undead Swamp Naga) and Their Temple\|001_261223_MUSN (Militaristic Undead Swamp Naga) and Their Temple]]
 ### Appearance
