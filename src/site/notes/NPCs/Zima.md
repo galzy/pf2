@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/np-cs/zima/","tags":["npc"],"noteIcon":"npc"}
 ---
 
+| Status | Attitude | Race  | Groups                                                        | Aliases |
+| ------ | -------- | ----- | ------------------------------------------------------------- | ------- |
+| Dead   | Helpful  | Human | <ul><li>[[bad storm giants tribe\|bad storm giants tribe]]</li><li>[[Groups/MUSN\|MUSN]]</li></ul> | \-      |
+
+{ .block-language-dataview}
 ### First met
 [[Events/Xian - Absalom Conflict\|Xian - Absalom Conflict]]
 ### Appearance
