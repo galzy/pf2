@@ -1,9 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","contentClasses":"clean-embeds","tags":["session"],"noteIcon":"session"}
+{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","tags":["session"],"noteIcon":"session"}
 ---
 
+| ID | Players                                                      |
+| -- | ------------------------------------------------------------ |
+| 1  | <ul><li>Gal</li><li>Dima</li><li>Dor</li><li>Rotem</li></ul> |
+
+{ .block-language-dataview}
 ### Recap of the last session
-null
+TBD
 ### Summary
 - [[Players/Doliat Dreameyes\|Doliat]] researched the items we stole from [[NPCs/Twinkle\|Twinkle]]:  [[Items/Vallmozon's infernal coin\|Vallmozon's infernal coin]] and [[Items/Two sterile scrolls\|Two sterile scrolls]]
 - [[Players/Ron Mhuilinn\|Ron]] decided to investigate the source of [[Players/Doliat Dreameyes\|Doliat]]'s power. He couldn't tell anything special about them, expect that he hasn't seen anything overtly evil.
