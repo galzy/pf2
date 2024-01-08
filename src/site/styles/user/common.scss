@@ -52,8 +52,13 @@ body {
             margin-top:0 !important;
         }
 
+        table.dataview {
+            margin-block-start: 0 !important;
+            margin-block-end: 1em !important;
+        }
+
         header {
-            margin-block-end:1em !important;
+            margin-block-end:1.5em !important;
         }
 
         h1 {
