@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/items/two-sterile-scrolls/","tags":["item"],"noteIcon":"item"}
 ---
 
+| Bearer | Aliases |
+| ------ | ------- |
+| \-     | \-      |
+
+{ .block-language-dataview}
 ### Found at
 Stolen from [[NPCs/Twinkle\|Twinkle]]'s coat at [[a pub near Kyonin\|a pub near Kyonin]]
 ### Appearance
