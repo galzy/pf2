@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/np-cs/hellion/","tags":["npc"],"noteIcon":"npc"}
 ---
 
+| Status | Attitude | Race      | Groups                                              | Aliases |
+| ------ | -------- | --------- | --------------------------------------------------- | ------- |
+| Alive  | Hostile  | Elf, High | <ul><li>[[Groups/Demon family\|Demon Family]]</li><li>[[Groups/MUSN\|MUSN]]</li></ul> | \-      |
+
+{ .block-language-dataview}
 ### First met
 [[Sessions/002_040124_Hellion and Killgore\|002_040124_Hellion and Killgore]]
 ### Appearance
