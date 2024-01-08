@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/shissela/","tags":["npc"],"noteIcon":"npc"}
+{"dg-publish":true,"permalink":"/np-cs/shissela/","tags":["npc"],"noteIcon":"npc","created":"2023-12-30T13:35:18.796+01:00","updated":"2024-01-08T12:44:46.926+01:00"}
 ---
 
 | Status     | Attitude | Race  | Groups | Aliases                        |
