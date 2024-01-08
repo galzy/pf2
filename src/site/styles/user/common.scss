@@ -15,6 +15,11 @@ body {
     --graph-main: var(--text-accent-hover);
     --graph-muted: rgba(126, 126, 126, 0.5);
 
+    @media (max-width: 480px) {
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+
     .timestamps {
         display: flex;
         flex-direction: row;
@@ -64,43 +69,38 @@ body {
         h1 {
             font-size: 1.3em !important;
             font-weight: 600 !important;
-            margin-block-top:1.5em !important;
+            margin-block-top:2em !important;
             margin-block-end:0.25em !important;
         }
         h2 {
             font-size: 1.1em !important;
             font-weight: 600 !important;
-            margin-block-top:1.5em !important;
+            margin-block-top:2em !important;
             margin-block-end:0.25em !important;
         }
         h3 {
             font-size: 1em !important;
             font-weight: 600 !important;
-            margin-block-top:1.5em !important;
+            margin-block-top:2em !important;
             margin-block-end:0.25em !important;
         }
         h4 {
             font-size: 0.90em !important;
             font-weight: 600 !important;
-            margin-block-top:1.5em !important;
+            margin-block-top:2em !important;
             margin-block-end:0.25em !important;
         }
         h5 {
             font-size: 0.85em !important;
             font-weight: 600 !important;
-            margin-block-top:1.5em !important;
+            margin-block-top:2em !important;
             margin-block-end:0.25em !important;
         }
         h6 {
             font-size: 0.85em !important;
             font-weight: 600 !important;
-            margin-block-top:1.5em !important;
+            margin-block-top:2em !important;
             margin-block-end:0.25em !important;
-        }
-
-        .table-view-table {
-            margin-block-start: 0 !important;
-            margin-block-end: 1.5em !important;
         }
 
     }
