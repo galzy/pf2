@@ -2,9 +2,14 @@
 {"dg-publish":true,"permalink":"/locations/malgeave-keep/","tags":["location"],"noteIcon":"location"}
 ---
 
+| Type     | In | Near                            | Aliases |
+| -------- | -- | ------------------------------- | ------- |
+| Location | \- | <ul><li>[[Locations/Greengold\|Greengold]]</li></ul> | \-      |
+
+{ .block-language-dataview}
 ### First visited
-Bla
+TBD
 ### Appearance
-Bla
+TBD
 ### Notes
-Bla
+TBD
