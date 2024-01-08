@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","noteIcon":""}
+{"dg-publish":true,"permalink":"/home/","hideInGraph":true,"noteIcon":""}
 ---
 
 ```button
