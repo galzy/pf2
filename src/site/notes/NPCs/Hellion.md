@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/np-cs/hellion/","tags":["npc"],"noteIcon":"npc"}
 ---
 
-| Status | Attitude | Race      | Groups                                              | Aliases |
-| ------ | -------- | --------- | --------------------------------------------------- | ------- |
-| Alive  | Hostile  | Elf, High | <ul><li>[[Groups/Demon family\|Demon Family]]</li><li>[[Groups/MUSN\|MUSN]]</li></ul> | \-      |
+| Status | Attitude | Race      | Groups                     | Aliases |
+| ------ | -------- | --------- | -------------------------- | ------- |
+| Alive  | Hostile  | Elf, High | [[Groups/Demon family\|Demon Family]], [[Groups/MUSN\|MUSN]] | \-      |
 
 { .block-language-dataview}
 ### First met
