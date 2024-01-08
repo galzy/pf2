@@ -15,7 +15,7 @@ body {
     --graph-main: var(--text-accent-hover);
     --graph-muted: rgba(126, 126, 126, 0.5);
 
-    @media (max-width: 480px) {
+    @media (max-width: 800px) {
         margin-left: 0 !important;
         margin-right: 0 !important;
     }
