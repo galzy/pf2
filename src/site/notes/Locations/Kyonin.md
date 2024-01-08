@@ -2,8 +2,13 @@
 {"dg-publish":true,"permalink":"/locations/kyonin/","tags":["location"],"noteIcon":"location"}
 ---
 
+| Type    | In | Near             | Aliases |
+| ------- | -- | ---------------- | ------- |
+| Kingdom | \- | [[Locations/stinky swamp\|stinky swamp]] | \-      |
+
+{ .block-language-dataview}
 ### First visited
-Bla
+TBD
 ### Appearance
 Forest
 ### Notes
