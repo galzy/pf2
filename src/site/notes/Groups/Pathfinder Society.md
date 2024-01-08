@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/pathfinder-society/","tags":["group"],"noteIcon":"group","created":"2024-01-06T13:07:12.317+01:00","updated":"2024-01-08T12:15:46.001+01:00"}
+{"dg-publish":true,"permalink":"/groups/pathfinder-society/","tags":["group"],"noteIcon":"group"}
 ---
 
 | HQ          | Aliases |

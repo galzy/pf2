@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/killgore-s-key/","tags":["item"],"noteIcon":"item","created":"2024-01-06T01:05:02.790+01:00","updated":"2024-01-08T12:14:42.950+01:00"}
+{"dg-publish":true,"permalink":"/items/killgore-s-key/","tags":["item"],"noteIcon":"item"}
 ---
 
 | Bearer     | Aliases |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/bergen-and-borger/","tags":["npc"],"noteIcon":"npc","created":"2024-01-06T13:02:26.761+01:00","updated":"2024-01-08T12:45:04.546+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/bergen-and-borger/","tags":["npc"],"noteIcon":"npc"}
 ---
 
 | Status | Attitude    | Race  | Groups | Aliases |

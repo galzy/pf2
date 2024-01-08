@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/unnamed-drow-city-near-kyonin/","tags":["location"],"noteIcon":"location","created":"2024-01-05T18:49:38.652+01:00","updated":"2024-01-08T12:13:43.877+01:00"}
+{"dg-publish":true,"permalink":"/locations/unnamed-drow-city-near-kyonin/","tags":["location"],"noteIcon":"location"}
 ---
 
 | Type | In        | Near       | Aliases |
