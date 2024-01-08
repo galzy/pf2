@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/leothin-mine/","tags":["location"],"noteIcon":"location"}
+{"dg-publish":true,"permalink":"/locations/leothin-mine/","tags":["location"],"noteIcon":"location","created":"2024-01-06T13:13:21.147+01:00","updated":"2024-01-08T23:27:46.099+01:00"}
 ---
 
 | Type     | In                 | Near | Aliases |
