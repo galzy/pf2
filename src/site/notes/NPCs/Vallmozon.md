@@ -4,7 +4,7 @@
 
 | Status | Attitude    | Race  | Groups | Aliases |
 | ------ | ----------- | ----- | ------ | ------- |
-| Alive  | Indifferent | Denon | \-     | \-      |
+| Alive  | Indifferent | Demon | \-     | \-      |
 
 { .block-language-dataview}
 ### First met
