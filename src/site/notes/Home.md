@@ -25,7 +25,7 @@ https://pf2gal.vercel.app/
 | [[NPCs/Olivia\|Olivia]]                           | Alive      | Friendly    | Human     | \-                                   |
 | [[NPCs/Shissela\|Shissela]]                       | Imprisoned | Helpful     | Demon     | \-                                   |
 | [[NPCs/Twinkle\|Twinkle]]                         | Alive      | Friendly    | Demon     | \-                                   |
-| [[NPCs/Vallmozon\|Vallmozon]]                     | Alive      | Indifferent | Denon     | \-                                   |
+| [[NPCs/Vallmozon\|Vallmozon]]                     | Alive      | Indifferent | Demon     | \-                                   |
 | [[NPCs/Zima\|Zima]]                               | Dead       | Helpful     | Human     | [[bad storm giants tribe\|bad storm giants tribe]], [[Groups/MUSN\|MUSN]] |
 
 { .block-language-dataview}
