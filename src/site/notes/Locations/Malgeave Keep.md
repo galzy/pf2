@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/malgeave-keep/","tags":["location"],"noteIcon":"location"}
+{"dg-publish":true,"permalink":"/locations/malgeave-keep/","tags":["location"],"noteIcon":"location","created":"2024-01-04T17:38:37.749+01:00","updated":"2024-01-08T12:13:35.952+01:00"}
 ---
 
 | Type     | In | Near                            | Aliases |
