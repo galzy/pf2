@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/global/quests/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry","gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/global/quests/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry"],"noteIcon":""}
 ---
 
 # Quests
