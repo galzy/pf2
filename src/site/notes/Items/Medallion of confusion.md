@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/items/medallion-of-confusion/","tags":["item"],"noteIcon":"item"}
 ---
 
+| Bearer                  | Aliases |
+| ----------------------- | ------- |
+| [[Players/Johnra Kcir\|Johnra]] | \-      |
+
+{ .block-language-dataview}
 ### Found at
 [[Locations/Killgore's cave\|Killgore's cave]], taken from [[NPCs/Kilgore the Warlock\|Killgore]]
 ### Appearance
