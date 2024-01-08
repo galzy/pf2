@@ -7,7 +7,7 @@ body.theme-dark {
     nav.filetree-sidebar {
         h1::before
          {
-            background-color: #eeeeee;
+            fill: #eeeeee;
         }
     }
 }
@@ -19,7 +19,7 @@ body.theme-light {
 
     nav.filetree-sidebar {
         h1::before {
-            background-color: #444444;
+            fill: #444444;
         }
     }
 }
