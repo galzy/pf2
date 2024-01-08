@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/medallion-of-confusion/","tags":["item"],"noteIcon":"item"}
+{"dg-publish":true,"permalink":"/items/medallion-of-confusion/","tags":["item"],"noteIcon":"item","created":"2024-01-05T18:41:36.593+01:00","updated":"2024-01-08T12:14:46.540+01:00"}
 ---
 
 | Bearer                  | Aliases |
