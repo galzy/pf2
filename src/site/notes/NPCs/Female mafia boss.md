@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/female-mafia-boss/","tags":["npc"],"noteIcon":"npc"}
+{"dg-publish":true,"permalink":"/np-cs/female-mafia-boss/","tags":["npc"],"noteIcon":"npc","created":"2024-01-02T17:41:47.065+01:00","updated":"2024-01-08T23:27:42.555+01:00"}
 ---
 
 | Status | Attitude | Race  | Groups            | Aliases |
