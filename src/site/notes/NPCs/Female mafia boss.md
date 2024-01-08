@@ -4,7 +4,7 @@
 
 | Status | Attitude | Race  | Groups            | Aliases |
 | ------ | -------- | ----- | ----------------- | ------- |
-| Alive  | Friendly | Human | [[Absalom mafia\|Absalom mafia]] | \-      |
+| Alive  | Friendly | Human | [[Groups/Absalom mafia\|Absalom mafia]] | \-      |
 
 { .block-language-dataview}
 ### First met
@@ -12,4 +12,4 @@ TBD
 ### Appearance
 TBD
 ### Notes
-Lives in [[Locations/Absalom\|Absalom]]. Leader of the [[Absalom mafia\|Absalom mafia]]
+Lives in [[Locations/Absalom\|Absalom]]. Leader of the [[Groups/Absalom mafia\|Absalom mafia]]
