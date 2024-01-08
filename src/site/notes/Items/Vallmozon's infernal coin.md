@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/vallmozon-s-infernal-coin/","tags":["item"],"noteIcon":"item"}
+{"dg-publish":true,"permalink":"/items/vallmozon-s-infernal-coin/","tags":["item"],"noteIcon":"item","created":"2023-12-30T13:41:16.171+01:00","updated":"2024-01-08T23:27:47.612+01:00"}
 ---
 
 | Bearer                       | Aliases |
