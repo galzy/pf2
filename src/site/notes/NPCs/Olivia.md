@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/np-cs/olivia/","tags":["npc"],"noteIcon":"npc"}
 ---
 
+| Status | Attitude | Race  | Groups | Aliases |
+| ------ | -------- | ----- | ------ | ------- |
+| Alive  | Friendly | Human | \-     | \-      |
+
+{ .block-language-dataview}
 ### First met
 [[Events/Xian - Absalom Conflict\|Xian - Absalom Conflict]]
 ### Appearance
