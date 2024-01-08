@@ -12,4 +12,4 @@ At the party after we won the [[Events/Xian - Absalom Conflict\|Xian - Absalom C
 ### Appearance
 Fancy
 ### Notes
-Ambassador of [[Groups/Kyonin elves\|Kyonin elves]] to [[Locations/Absalom\|Absalom]]hide-dataview
+Ambassador of [[Groups/Kyonin elves\|Kyonin elves]] to [[Locations/Absalom\|Absalom]]
