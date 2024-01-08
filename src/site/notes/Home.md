@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","hideInGraph":true,"pinned":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -7,11 +7,11 @@
 
 
 
-[[Global/Quests\|Quests]]
+### [[Global/Quests\|Quests]]
 
-[[Global/Map\|Map]]
+### [[Global/Map\|Map]]
 
-https://pf2gal.vercel.app/
+
 
 ### NPCs
 | Name                                                 | Status     | Attitude    | Race      | Groups                               |
