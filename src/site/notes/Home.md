@@ -6,12 +6,9 @@
 
 
 
-
-### [[Global/Quests\|Quests]]
-
-### [[Global/Map\|Map]]
-
-
+## [[Global/Quests\|Quests]]
+## [[Global/Map\|Map]]
+## [Website](https://pf2gal.vercel.app)
 
 ### NPCs
 | Name                                                 | Status     | Attitude    | Race      | Groups                               |
