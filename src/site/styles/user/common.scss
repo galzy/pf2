@@ -20,11 +20,20 @@ body {
         padding-right: 1em !important;
 
         .giscus {
-            display: relative;
+            display: block;
             margin-top: 20px;
             margin-left: 1.5em;
             margin-right: 1.5em;
             align: center;
+
+            .giscus-frame {
+                display: block;
+                margin-top: 0;
+                margin-left: 0;
+                margin-right: 0;
+                width: 100%
+                align: center;
+            }
          }
     }
 
