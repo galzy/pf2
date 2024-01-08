@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/locations/unnamed-drow-city-near-kyonin/","tags":["location"],"noteIcon":"location"}
 ---
 
+| Type | In        | Near       | Aliases |
+| ---- | --------- | ---------- | ------- |
+| City | Underdark | [[Locations/Kyonin\|Kyonin]] | \-      |
+
+{ .block-language-dataview}
 ### First visited
 [[Sessions/002_040124_Hellion and Killgore\|002_040124_Hellion and Killgore]]
 ### Appearance
