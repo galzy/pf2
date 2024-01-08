@@ -5,7 +5,8 @@ body.theme-dark {
     --h1-color: var(--interactive-accent);
 
     nav.filetree-sidebar {
-        h1 {
+        h1::before
+         {
             color: #eeeeee;
         }
     }
@@ -17,7 +18,7 @@ body.theme-light {
     --h1-color: var(--interactive-accent);
 
     nav.filetree-sidebar {
-        h1 {
+        h1::before {
             color: #444444;
         }
     }
