@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/events/twinkle-s-second-song/","tags":["event"],"noteIcon":"event"}
 ---
 
+| Where                 | When     | Aliases |
+| --------------------- | -------- | ------- |
+| [[a pub near Kyonin\|a pub near Kyonin]] | Recently | \-      |
+
+{ .block-language-dataview}
 ## The Song
 TBD
 
