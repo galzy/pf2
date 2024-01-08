@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/hellion/","tags":["npc"],"noteIcon":"npc","created":"2024-01-06T00:57:05.456+01:00","updated":"2024-01-08T23:27:42.395+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/hellion/","tags":["npc"],"noteIcon":"npc","created":"2024-01-06T00:57:05.456+01:00","updated":"2024-01-09T00:33:09.177+01:00"}
 ---
 
 | Status | Attitude | Race      | Groups                     | Aliases |
@@ -21,4 +21,4 @@ Was briefly associated with [[NPCs/Zima\|Zima]]
 - Antimagic sphere
 - Sphere of force
 - Raising and controlling the [[Groups/MUSN\|MUSN]]s.
-- Magically creating the [[Locations/creepy swamp temple\|creepy swamp temple]] and a cage
+- Magically creating the [[Locations/creepy swamp temple\|creepy swamp temple]] and a cage.
