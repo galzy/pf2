@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/locations/killgore-s-cave/","tags":["location"],"noteIcon":"location"}
 ---
 
+| Type     | In               | Near                                                                                | Aliases |
+| -------- | ---------------- | ----------------------------------------------------------------------------------- | ------- |
+| Location | [[Locations/stinky swamp\|stinky swamp]] | <ul><li>[[Locations/Unnamed Drow city near Kyonin\|Unnamed Drow city near Kyonin]]</li><li>[[Locations/creepy swamp temple\|creepy swamp temple]]</li></ul> | \-      |
+
+{ .block-language-dataview}
 ### First visited
 [[Sessions/002_040124_Hellion and Killgore\|002_040124_Hellion and Killgore]]
 ### Appearance
