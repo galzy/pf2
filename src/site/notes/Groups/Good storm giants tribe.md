@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/good-storm-giants-tribe/","tags":["group"],"noteIcon":"group"}
+{"dg-publish":true,"permalink":"/groups/good-storm-giants-tribe/","tags":["group"],"noteIcon":"group","created":"2023-12-30T00:49:09.937+01:00","updated":"2024-01-08T12:15:27.417+01:00"}
 ---
 
 | HQ                   | Aliases |
