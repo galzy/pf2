@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/locations/tunnels-under-the-good-storm-giant-tribe/","tags":["location"],"noteIcon":"location"}
 ---
 
+| Type     | In                         | Near      | Aliases |
+| -------- | -------------------------- | --------- | ------- |
+| Location | [[Mountains near Absalom\|Mountains near Absalom]] | <ul></ul> | \-      |
+
+{ .block-language-dataview}
 ### First visited
 [[Events/Xian - Absalom Conflict\|Xian - Absalom Conflict]]
 ### Appearance
