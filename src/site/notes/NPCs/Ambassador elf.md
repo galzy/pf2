@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/np-cs/ambassador-elf/","tags":["npc"],"noteIcon":"npc"}
 ---
 
-| Status | Attitude | Race | Groups                             | Aliases |
-| ------ | -------- | ---- | ---------------------------------- | ------- |
-| Alive  | Friendly | Elf  | <ul><li>[[Groups/Kyonin elves\|Kyonin elves]]</li></ul> | \-      |
+| Status | Attitude | Race | Groups           | Aliases |
+| ------ | -------- | ---- | ---------------- | ------- |
+| Alive  | Friendly | Elf  | [[Groups/Kyonin elves\|Kyonin elves]] | \-      |
 
 { .block-language-dataview}
 ### First met
