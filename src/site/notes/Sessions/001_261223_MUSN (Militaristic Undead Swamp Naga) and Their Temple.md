@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","tags":["session"],"noteIcon":"session"}
 ---
 
-| ID | Players                                                      |
-| -- | ------------------------------------------------------------ |
-| 1  | <ul><li>Gal</li><li>Dima</li><li>Dor</li><li>Rotem</li></ul> |
+| ID | Players               |
+| -- | --------------------- |
+| 1  | Gal, Dima, Dor, Rotem |
 
 { .block-language-dataview}
 ### Recap of the last session
