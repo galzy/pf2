@@ -1,9 +1,7 @@
 require("dotenv").config();
 const settings = require("../../helpers/constants");
-const properties = require("../../helpers/properties");
 
 const allSettings = settings.ALL_NOTE_SETTINGS;
-const allProperties = properties.ALL_PROPERTIES;
 
 module.exports = {
   eleventyComputed: {
@@ -31,17 +29,5 @@ module.exports = {
       });
       return noteSettings;
     },
-    properties: (data) => {
-      const noteProperties = {};
-      allProperties.forEach((property) => {
-        if (property in data) {
-          let noteProperty = data[property];
-          let propertyValue = noteSetting;
-          noteProperties[property] = propertyValue;
-        }
-      });
-      return noteProperties;
-    },
-}
-
+  },
 };
