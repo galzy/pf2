@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/kilgore-the-warlock/","tags":["npc"],"noteIcon":"npc","created":"2023-12-30T13:30:12.413+01:00","updated":"2024-01-08T12:44:53.583+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/kilgore-the-warlock/","tags":["npc"],"noteIcon":"npc"}
 ---
 
-| Status | Attitude | Race | Groups           | Aliases                                    |
-| ------ | -------- | ---- | ---------------- | ------------------------------------------ |
-| Dead   | Hostile  | Drow | [[Groups/Demon family\|Demon Family]] | <ul><li>Zeligar</li><li>Killgore</li></ul> |
+| Status | Attitude | Race | Groups           | Aliases           |
+| ------ | -------- | ---- | ---------------- | ----------------- |
+| Dead   | Hostile  | Drow | [[Groups/Demon family\|Demon Family]] | Zeligar, Killgore |
 
 { .block-language-dataview}
 ### First met
