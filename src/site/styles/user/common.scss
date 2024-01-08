@@ -1,14 +1,17 @@
 body.theme-dark {
-    --text-accent: #006f8b;
-    --text-accent-hover: #0084a5;
-    --interactive-accent: #006f8b;
-    --h1-color: var(--interactive-accent);
+    nav.filetree-sidebar {
+        h1::before
+         {
+            fill: #eeeeee;
+        }
+    }
 }
 body.theme-light {
-    --text-accent: #004d61;
-    --text-accent-hover: #006f8b;
-    --interactive-accent: #004d61;
-    --h1-color: var(--interactive-accent);
+    nav.filetree-sidebar {
+        h1::before {
+            fill: #444444;
+        }
+    }
 }
 
 body {
@@ -29,21 +32,21 @@ body {
          }
     }
 
-    .timestamps {
-        display: flex;
-        flex-direction: row;
-        font-size: 0.8em;
-        color: var(--text-muted);
-        gap: 10px;
-        margin-top: 20px;
-
-        div {
-            display: flex;
-            flex-direction: row;
-            gap: 3px;
-            align-items: center;
-        }
-    }
+//     .timestamps {
+//         display: flex;
+//         flex-direction: row;
+//         font-size: 0.8em;
+//         color: var(--text-muted);
+//         gap: 10px;
+//         margin-top: 20px;
+//
+//         div {
+//             display: flex;
+//             flex-direction: row;
+//             gap: 3px;
+//             align-items: center;
+//         }
+//     }
 
     .notelink {
         img {
@@ -55,6 +58,7 @@ body {
 
     .cm-s-obsidian {
         p {
+            font-size: 16px !important;
             margin-top: 0.25em !important;
             display: inline;
             overflow-wrap: break-word;
@@ -69,6 +73,7 @@ body {
         table.dataview {
             margin-block-start: 0 !important;
             margin-block-end: 1em !important;
+            white-space: nowrap !important;
         }
 
         header {
@@ -76,69 +81,49 @@ body {
         }
 
         h1 {
-            font-size: 1.3em !important;
+            font-size: 18px !important;
             font-weight: 600 !important;
-            margin-block-top:3em !important;
+            margin-block-top:36px !important;
             margin-block-end:0.25em !important;
         }
         h2 {
-            font-size: 1.1em !important;
+            font-size: 16.8px !important;
             font-weight: 600 !important;
-            margin-block-top:3em !important;
+            margin-block-top:33.6px !important;
             margin-block-end:0.25em !important;
         }
         h3 {
-            font-size: 1em !important;
+            font-size: 16px !important;
             font-weight: 600 !important;
-            margin-block-top:3em !important;
+            margin-block-top:32px !important;
             margin-block-end:0.25em !important;
         }
         h4 {
-            font-size: 0.90em !important;
+            font-size: 14.4px !important;
             font-weight: 600 !important;
-            margin-block-top:3em !important;
+            margin-block-top:28.8px !important;
             margin-block-end:0.25em !important;
         }
         h5 {
-            font-size: 0.85em !important;
+            font-size: 13.6px !important;
             font-weight: 600 !important;
-            margin-block-top:3em !important;
+            margin-block-top:27.2px !important;
             margin-block-end:0.25em !important;
         }
         h6 {
-            font-size: 0.85em !important;
+            font-size: 13.6px !important;
             font-weight: 600 !important;
-            margin-block-top:3em !important;
+            margin-block-top:27.2px !important;
             margin-block-end:0.25em !important;
         }
 
     }
-
-    // table {
-    //     width: 100% !important;
-    //     border: 1px solid lightgray !important;
-
-    //     td,
-    //     th {
-    //         padding: 5px 10px !important;
-
-    //         hr {
-    //             margin: 5px !important;
-    //         }
-    //     }
-    // }
 
     .graph {
         flex: unset !important;
         @media (max-width: 1490px) {
             display: block !important;
             order: 3;
-        }
-    }
-
-    .toc {
-        @media (max-width: 1490px) {
-            display: block !important;
         }
     }
 
@@ -188,7 +173,7 @@ body {
         }
 
         .notelink.active-note {
-            transform: unset;
+            display: none !important;
         }
 
         .fa-sticky-note {
@@ -203,6 +188,7 @@ body {
             background-size: contain;
             background-repeat: no-repeat;
             background-image: url(/img/logo.svg);
+            vertical-align: middle;
             background-position: center;
         }
     }
@@ -270,92 +256,6 @@ body {
         padding: 10px;
         margin-left: -10px;
         margin-right: -10px;
-    }
-
-    #floating-control {
-        position: fixed;
-        color: var(--link-color);
-        bottom: 1vmax;
-        right: 1vmax;
-        font-size: 24px;
-        z-index: 999999;
-        display: flex;
-        flex-direction: row;
-        justify-content: flex-end;
-        gap: 10px;
-
-        .svg-icon,
-        i {
-            cursor: pointer;
-            height: 24px;
-            width: auto;
-        }
-
-        #theme-switch {
-            .light {
-                display: none;
-            }
-
-            .dark {
-                display: none;
-            }
-
-            .auto {
-                display: none;
-            }
-        }
-
-        #theme-switch.light {
-            .light {
-                display: inline;
-            }
-        }
-
-        #theme-switch.dark {
-            .dark {
-                display: inline;
-            }
-        }
-
-        #theme-switch.auto {
-            .auto {
-                display: inline;
-            }
-        }
-    }
-
-    .fnote {
-        display: none;
-        background-color: var(--background-primary);
-        border: 1px solid var(--text-accent);
-        position: fixed;
-        bottom: 10px;
-        left: 0;
-        right: 0;
-        padding: 10px;
-        text-align: center;
-        z-index: 999;
-    }
-
-    .footnote-ref {
-        line-height: 85%;
-
-        .fnote-marker {
-            background-color: var(--text-accent);
-            padding: 2px 5px;
-            color: white;
-            border-radius: 4px;
-            text-decoration: none;
-            font-size: 0.7em;
-            margin-top: -3px;
-            &:hover {
-                opacity: 0.7;
-            }
-        }
-    }
-
-    .shownote {
-        display: block;
     }
 
     nav.navbar {
