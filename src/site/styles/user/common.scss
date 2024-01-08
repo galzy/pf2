@@ -16,8 +16,16 @@ body {
     --graph-muted: rgba(126, 126, 126, 0.5);
 
     @media (max-width: 1400px) {
-        padding-left: 0.5em !important;
-        padding-right: 0.5em !important;
+        padding-left: 1em !important;
+        padding-right: 1em !important;
+
+        .giscus {
+            display: relative;
+            margin-top: 20px;
+            margin-left: 1.5em;
+            margin-right: 1.5em;
+            align: center;
+         }
     }
 
     .timestamps {
@@ -533,15 +541,6 @@ body {
     margin-right: 15%;
     max-width: 70%;
     align: center;
-
-    div {
-    display: relative;
-    margin-top: 20px;
-    margin-left: 15%;
-    margin-right: 15%;
-    max-width: 70%;
-    align: center;
-    }
  }
 
 .header-tags {
