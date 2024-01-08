@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/items/key-to-the-temple-of-tiamat/","tags":["item"],"noteIcon":"item"}
 ---
 
+| Bearer           | Aliases |
+| ---------------- | ------- |
+| It's complicated | \-      |
+
+{ .block-language-dataview}
 ### Notes
 The key to the legendry [[Temple of Tiamat\|Temple of Tiamat]].
 It is divided into three parts:
