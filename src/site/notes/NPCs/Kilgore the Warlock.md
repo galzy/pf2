@@ -3,8 +3,10 @@
 ---
 
 ### First met
-Never
+[[Sessions/002_040124_Hellion and Killgore\|002_040124_Hellion and Killgore]]
 ### Appearance
-Bla
+Old frail drow wearing tattered cloths and covered in "junky sores". Had the air of an upper class upbringing.
+
 ### Notes
-Lived at [[Locations/Malgeave Keep\|Malgeave Keep]]
+TBD
+Lived at [[Locations/Malgeave Keep\|Malgeave Keep]] and later at [[Locations/Killgore's cave\|Killgore's cave]].
