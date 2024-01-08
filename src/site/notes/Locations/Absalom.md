@@ -2,9 +2,14 @@
 {"dg-publish":true,"permalink":"/locations/absalom/","tags":["location"],"noteIcon":"location"}
 ---
 
+| Type | In | Near                 | Aliases |
+| ---- | -- | -------------------- | ------- |
+| City | \- | <ul><li>\-</li></ul> | \-      |
+
+{ .block-language-dataview}
 ### First visited
-Bla
+TBD
 ### Appearance
-Bla
+TBD
 ### Notes
-Bla
+TBD
