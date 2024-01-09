@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/vallmozon-s-infernal-coin/","tags":["item"],"dgShowLocalGraph":true,"noteIcon":"item","created":"2023-12-30T13:41:16.171+01:00","updated":"2024-01-10T00:13:23.725+01:00"}
+{"dg-publish":true,"permalink":"/items/vallmozon-s-infernal-coin/","tags":["item"],"dgShowLocalGraph":true,"noteIcon":"item","created":"2023-12-30T13:41:16.171+01:00","updated":"2024-01-10T00:50:56.401+01:00"}
 ---
 
 | Bearer                       | Aliases |
@@ -8,7 +8,7 @@
 
 { .block-language-dataview}
 ### Found at
-Stolen from [[NPCs/Twinkle\|Twinkle]]'s coat at [[a pub near Kyonin\|a pub near Kyonin]]
+Stolen from [[NPCs/Twinkle\|Twinkle]]'s coat at [[Locations/Pub near Greengold\|Pub near Greengold]]
 ### Appearance
 Evil coin
 ### Notes
