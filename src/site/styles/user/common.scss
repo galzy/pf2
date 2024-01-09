@@ -20,10 +20,10 @@ body {
     --graph-muted: rgba(126, 126, 126, 0.5);
 
     @media (max-width: 1400px) {
-        padding-left: 0 !important;
-        padding-right: 0 !important;
-        margin-left: 24px !important;
-        margin-right: 24px !important;
+        padding-left: 24px !important;
+        padding-right: 24px !important;
+        margin-left: 0;
+        margin-right: 0;
 
     }
 
