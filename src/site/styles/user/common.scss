@@ -65,7 +65,7 @@ body {
             margin-block-start:0.25em;
             margin-bottom: 0;
             margin-top: 0;
-            ///padding-inline-start: 32px;
+            /padding-inline-start: 32px;
             ///padding-left: 32px;
             li {
                 ol, ul {
@@ -157,8 +157,8 @@ body {
             border-radius: 10px;
             padding: 5px 0 5px 8px;
 
-            a::before {
-                margin-left: 4px;
+            a.filename {
+                padding-left: 2.5px;
             }
         }
 
