@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/creepy-old-elf/","tags":["npc"],"noteIcon":"npc","created":"2023-12-28T13:22:24.884+01:00","updated":"2024-01-08T23:27:42.984+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/creepy-old-elf/","tags":["npc"],"dgShowLocalGraph":true,"noteIcon":"npc","created":"2023-12-28T13:22:24.884+01:00","updated":"2024-01-10T00:15:38.073+01:00"}
 ---
 
 | Status | Attitude | Race | Groups           | Aliases |
