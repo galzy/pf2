@@ -69,11 +69,13 @@ body {
 
         div.block-language-dataview {
             table.dataview {
+                display: block;
                 margin-block-start: 0;
                 margin-block-end: 1em;
-                max-width: fit-content;
-                white-space: nowrap;
                 border-collapse: collapse;
+                max-width: fit-content !important;
+                overflow-x: auto !important;
+                white-space: nowrap !important;
             }
         }
 
