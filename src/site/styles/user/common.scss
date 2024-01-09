@@ -21,15 +21,6 @@ body {
     @media (max-width: 1400px) {
         padding-left: 1em !important;
         padding-right: 1em !important;
-
-        .giscus {
-            display: block;
-            margin-left: 5px !important;
-            margin-right: 5px !important;
-            max-width: 100% !important;
-            width: 100% !important;
-            align: center !important;
-         }
     }
 
     .timestamps {
@@ -174,7 +165,7 @@ body {
         }
 
         .notelink.active-note {
-            display: none !important;
+            transform: unset;
         }
 
         .fa-sticky-note {
@@ -189,7 +180,6 @@ body {
             background-size: contain;
             background-repeat: no-repeat;
             background-image: url(/img/logo.svg);
-            vertical-align: middle;
             background-position: center;
         }
     }
@@ -354,31 +344,28 @@ body {
 }
 
 .giscus {
-    display: relative;
+    flex: unset;
     margin-top: 20px;
     margin-left: 15%;
     margin-right: 15%;
     max-width: 70%;
-    align: center;
+    align: center !important;
+    @media (max-width: 1400px) {
+        .giscus {
+            order: 4;
+            margin-left: 5px !important;
+            margin-right: 5px !important;
+            max-width: 100% !important;
+            width: 100% !important;
+         }
+    }
  }
 
-.header-tags {
-    gap: 5px;
-    display: flex;
-}
 
 .fullpage-overlay {
     position: fixed;
 }
 
-.sidebar {
-    .toc-container {
-        max-height: unset;
-
-        @media (max-width: 1400px) {
-            max-height: 320px;
-        }
-    }
 
     .backlinks {
         flex: unset;
