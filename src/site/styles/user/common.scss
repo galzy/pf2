@@ -76,6 +76,7 @@ body {
                 margin-block-end: 1em;
                 border-collapse: collapse;
                 .td {
+                    white-space: nowrap;
                     text-wrap: nowrap;
                     white-space-collapse: collapse
                 }
