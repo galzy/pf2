@@ -69,17 +69,16 @@ body {
 
         div.block-language-dataview {
             overflow-y: auto;
+            overflow-x:auto;
             text-overflow: clip;
             overflow-wrap: break-word;
+            text-wrap: nowrap;
+            white-space: nowrap;
+            white-space-collapse: collapse;
             table.dataview {
                 margin-block-start: 0;
                 margin-block-end: 1em;
                 border-collapse: collapse;
-                .td {
-                    white-space: nowrap;
-                    text-wrap: nowrap;
-                    white-space-collapse: collapse
-                }
             }
         }
 
