@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/olivia/","tags":["npc"],"noteIcon":"npc","created":"2024-01-06T13:56:46.169+01:00","updated":"2024-01-08T23:27:41.562+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/olivia/","tags":["npc"],"dgShowLocalGraph":true,"noteIcon":"npc","created":"2024-01-06T13:56:46.169+01:00","updated":"2024-01-10T00:15:59.061+01:00"}
 ---
 
 | Status | Attitude | Race  | Groups | Aliases |
