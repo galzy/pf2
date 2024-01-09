@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/absalom-mafia/","tags":["group"],"noteIcon":"group","created":"2024-01-09T00:23:43.893+01:00","updated":"2024-01-09T00:24:39.305+01:00"}
+{"dg-publish":true,"permalink":"/groups/absalom-mafia/","tags":["group"],"dgShowLocalGraph":true,"noteIcon":"group","created":"2024-01-09T00:23:43.893+01:00","updated":"2024-01-10T00:10:59.013+01:00"}
 ---
 
 | HQ                | Aliases |
