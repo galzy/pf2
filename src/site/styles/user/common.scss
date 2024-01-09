@@ -68,13 +68,13 @@ body {
         }
 
         div.block-language-dataview {
-            overflow-y: auto;
-            overflow-x:auto;
-            text-overflow: clip;
-            overflow-wrap: break-word;
-            text-wrap: nowrap;
-            white-space: nowrap;
-            white-space-collapse: collapse;
+            overflow-y: auto !important;
+            overflow-x:auto !important;
+            text-overflow: clip !important;
+            overflow-wrap: break-word !important;
+            text-wrap: nowrap !important;
+            white-space: nowrap !important;
+            white-space-collapse: collapse !important;
             table.dataview {
                 margin-block-start: 0;
                 margin-block-end: 1em;
