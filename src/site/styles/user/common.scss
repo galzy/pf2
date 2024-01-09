@@ -20,8 +20,8 @@ body {
     --graph-muted: rgba(126, 126, 126, 0.5);
 
     @media (max-width: 1400px) {
-        padding-left: 1em;
-        padding-right: 1em;
+        padding-left: 24.4375px;
+        padding-right: 24.4375px;
     }
 
     .notelink {
@@ -63,8 +63,10 @@ body {
 
         ol, ul {
             margin-block-start:0.25em;
-            margin-bottom:0;
-            margin-top:0;
+            margin-bottom: 0;
+            margin-top: 0;
+            padding-inline-start: 32px;
+            padding-left: 32px;
         }
 
         div.block-language-dataview {
