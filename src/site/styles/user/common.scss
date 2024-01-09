@@ -57,21 +57,19 @@ body {
         p {
             font-size: 16px;
             margin-top: 0.25em;
-            display: inline;
-            overflow-wrap: break-word;
         }
 
         ol, ul {
             margin-block-start:0.25em;
             margin-bottom: 0;
             margin-top: 0;
-            padding-inline-start: 28px;
-            padding-left: 28px;
+            padding-inline-start: 0;
+            padding-left: 0;
         }
 
         li {
-            padding-inline-start: 12px;
-            padding-left: 12px;
+            padding-inline-start: 0;
+            padding-left: 0;
         }
 
         div.block-language-dataview {
