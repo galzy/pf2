@@ -272,16 +272,14 @@ body {
     align-items: center;
 }
 
-
-
 .fullpage-overlay {
     position: fixed;
 }
 
-    .backlinks {
-        flex: unset;
-        @media (max-width: 1400px) {
-            order: 3;
-        }
+.backlinks {
+    flex: unset;
+    @media (max-width: 1400px) {
+        order: 3;
     }
 }
+
