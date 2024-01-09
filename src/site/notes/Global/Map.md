@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/global/map/","tags":["global"],"noteIcon":"","created":"2024-01-02T17:00:02.065+01:00","updated":"2024-01-02T23:18:09.149+01:00"}
+{"dg-publish":true,"permalink":"/global/map/","hideInGraph":true,"tags":["global"],"noteIcon":"","created":"2024-01-02T17:00:02.065+01:00","updated":"2024-01-10T00:55:12.185+01:00"}
 ---
 
 ```leaflet
