@@ -68,30 +68,12 @@ body {
         }
 
         div.block-language-dataview {
-            overflow-y: auto !important;
-            overflow-x:auto !important;
-            text-overflow: clip !important;
-            overflow-wrap: break-word !important;
-            text-wrap: nowrap !important;
-            white-space: nowrap !important;
-            white-space-collapse: collapse !important;
             table.dataview {
                 margin-block-start: 0;
                 margin-block-end: 1em;
+                max-width: fit-content;
+                white-space: nowrap;
                 border-collapse: collapse;
-                text-overflow: clip !important;
-                overflow-wrap: break-word !important;
-                text-wrap: nowrap !important;
-                white-space: nowrap !important;
-                white-space-collapse: collapse !important;
-
-                .td {
-                    text-overflow: clip !important;
-                    overflow-wrap: break-word !important;
-                    text-wrap: nowrap !important;
-                    white-space: nowrap !important;
-                    white-space-collapse: collapse !important;
-                }
             }
         }
 
