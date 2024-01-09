@@ -74,7 +74,9 @@ body {
                 margin-block-end: 1em;
                 border-collapse: collapse;
                 max-width: fit-content !important;
-                overflow-x: auto !important;
+                max-width: -moz-fit-content !important;
+                block-size: fit-content !important;
+                overflow-x: scroll !important;
                 white-space: nowrap !important;
             }
         }
