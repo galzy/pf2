@@ -14,15 +14,19 @@ body.theme-light {
     }
 }
 
+body.markdown-preview-view {
+    @media (max-width: 1400px) {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 12px !important;
+        margin-right: 12px !important;
+    }
+}
+
 /* START OF BODY */
 body {
     --graph-main: var(--text-accent-hover);
     --graph-muted: rgba(126, 126, 126, 0.5);
-
-    @media (max-width: 1400px) {
-        padding-left: 24.4375px !important;
-        padding-right: 24.4375px !important;
-    }
 
     .notelink {
         img {
@@ -63,8 +67,8 @@ body {
             margin-block-start:0.25em;
             margin-bottom: 0;
             margin-top: 0;
-            padding-inline-start: 18px;
-            padding-left: 18px;
+            padding-inline-start: 24px;
+            padding-left: 24px;
         }
 
         li {
