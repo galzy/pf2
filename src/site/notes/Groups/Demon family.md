@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/demon-family/","tags":["group"],"noteIcon":"group","created":"2024-01-06T01:03:22.295+01:00","updated":"2024-01-08T23:28:02.051+01:00"}
+{"dg-publish":true,"permalink":"/groups/demon-family/","tags":["group"],"dgShowLocalGraph":true,"noteIcon":"group","created":"2024-01-06T01:03:22.295+01:00","updated":"2024-01-10T00:11:06.089+01:00"}
 ---
 
 | HQ | Aliases |
