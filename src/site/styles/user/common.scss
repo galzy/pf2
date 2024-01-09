@@ -69,14 +69,23 @@ body {
 
         div.block-language-dataview {
             overflow-x: auto !important;
-            word-break: normal !important;
-            overflow-wrap: normal !important;
-            table.dataview {
+            table {
                 margin-block-start: 0;
                 margin-block-end: 1em;
                 word-break: normal !important;
                 overflow-wrap: normal !important;
                 white-space: nowrap !important;
+                tbody {
+                    word-break: normal !important;
+                    overflow-wrap: normal !important;
+                    white-space: nowrap !important;
+                    td {
+                        word-break: normal !important;
+                        overflow-wrap: normal !important;
+                        white-space: nowrap !important;
+                    }
+                }
+
             }
         }
 
