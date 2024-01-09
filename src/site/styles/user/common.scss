@@ -79,6 +79,19 @@ body {
                 margin-block-start: 0;
                 margin-block-end: 1em;
                 border-collapse: collapse;
+                text-overflow: clip !important;
+                overflow-wrap: break-word !important;
+                text-wrap: nowrap !important;
+                white-space: nowrap !important;
+                white-space-collapse: collapse !important;
+
+                .td {
+                    text-overflow: clip !important;
+                    overflow-wrap: break-word !important;
+                    text-wrap: nowrap !important;
+                    white-space: nowrap !important;
+                    white-space-collapse: collapse !important;
+                }
             }
         }
 
