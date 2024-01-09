@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/vallmozon/","tags":["npc"],"noteIcon":"npc","created":"2023-12-30T13:25:24.577+01:00","updated":"2024-01-08T23:27:40.739+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/vallmozon/","tags":["npc"],"dgShowLocalGraph":true,"noteIcon":"npc","created":"2023-12-30T13:25:24.577+01:00","updated":"2024-01-10T00:16:15.353+01:00"}
 ---
 
 | Status | Attitude    | Race  | Groups | Aliases |
