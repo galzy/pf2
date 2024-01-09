@@ -68,15 +68,10 @@ body {
         }
 
         div.block-language-dataview {
+            overflow-x: scroll !important;
             table.dataview {
-                display: block;
                 margin-block-start: 0;
                 margin-block-end: 1em;
-                border-collapse: collapse;
-                max-width: fit-content !important;
-                max-width: -moz-fit-content !important;
-                block-size: fit-content !important;
-                overflow-x: scroll !important;
                 white-space: nowrap !important;
             }
         }
