@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/ring-of-antimagic/","tags":["item"],"noteIcon":"item","created":"2024-01-06T00:16:23.194+01:00","updated":"2024-01-08T23:27:49.259+01:00"}
+{"dg-publish":true,"permalink":"/items/ring-of-antimagic/","tags":["item"],"dgShowLocalGraph":true,"noteIcon":"item","created":"2024-01-06T00:16:23.194+01:00","updated":"2024-01-10T00:13:11.345+01:00"}
 ---
 
 | Bearer                       | Aliases |
