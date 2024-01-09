@@ -68,17 +68,22 @@ body {
         }
 
         div.block-language-dataview {
-            overflow-x: auto !important;
+            overflow-x: auto;
             table {
                 margin-block-start: 0;
                 margin-block-end: 1em;
-                word-break: normal !important;
-                overflow-wrap: normal !important;
-                white-space: nowrap !important;
+                word-break: normal;
+                overflow-wrap: normal;
+                white-space: nowrap;
                 tbody {
-                    word-break: normal !important;
-                    overflow-wrap: normal !important;
-                    white-space: nowrap !important;
+                    word-break: normal;
+                    overflow-wrap: normal;
+                    white-space: nowrap;
+                    td {
+                        word-break: normal;
+                        overflow-wrap: normal;
+                        white-space: nowrap;
+                    }
                 }
             }
         }
