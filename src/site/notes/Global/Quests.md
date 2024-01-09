@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/global/quests/","hideInGraph":true,"tags":["global"],"noteIcon":"","created":"2023-12-30T01:16:53.937+01:00","updated":"2024-01-08T12:41:46.166+01:00"}
+{"dg-publish":true,"permalink":"/global/quests/","hideInGraph":true,"tags":["global"],"noteIcon":"","created":"2023-12-30T01:16:53.937+01:00","updated":"2024-01-10T00:54:39.309+01:00"}
 ---
 
 # Quests
