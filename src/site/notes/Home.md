@@ -47,6 +47,7 @@
 | [[Locations/Kyonin\|Kyonin]]                                                                     | Kingdom  | \-                         | [[Locations/stinky swamp\|stinky swamp]]                                           |
 | [[Locations/Leothin mine\|Leothin mine]]                                                         | Location | [[Locations/Tyrant's Grasp\|Tyrant's Grasp]]         | \-                                                         |
 | [[Locations/Malgeave Keep\|Malgeave Keep]]                                                       | Location | \-                         | [[Locations/Greengold\|Greengold]]                                              |
+| [[Locations/Pub near Greengold\|Pub near Greengold]]                                             | Location | \-                         | [[Locations/Greengold\|Greengold]]                                              |
 | [[Locations/stinky swamp\|stinky swamp]]                                                         | Area     | \-                         | [[Locations/Kyonin\|Kyonin]]                                                 |
 | [[Locations/the Precipice\|the Precipice]]                                                       | Quarter  | [[Locations/Absalom\|Absalom]]                | \-                                                         |
 | [[Locations/Tunnels under the good storm giant tribe\|Tunnels under the good storm giant tribe]] | Location | [[Mountains near Absalom\|Mountains near Absalom]] |                                                            |
@@ -56,10 +57,10 @@
 
 { .block-language-dataview}
 ### Events
-| Name                                                           | Where                 | When     |
-| -------------------------------------------------------------- | --------------------- | -------- |
-| [[Events/Twinkle's second song\|Twinkle's second song]]     | [[a pub near Kyonin\|a pub near Kyonin]] | Recently |
-| [[Events/Xian - Absalom Conflict\|Xian - Absalom Conflict]] | [[Locations/Absalom\|Absalom]]           | Recently |
+| Name                                                           | Where                  | When     |
+| -------------------------------------------------------------- | ---------------------- | -------- |
+| [[Events/Twinkle's second song\|Twinkle's second song]]     | [[Locations/Pub near Greengold\|Pub near Greengold]] | Recently |
+| [[Events/Xian - Absalom Conflict\|Xian - Absalom Conflict]] | [[Locations/Absalom\|Absalom]]            | Recently |
 
 { .block-language-dataview}
 ### Groups
