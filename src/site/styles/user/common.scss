@@ -71,12 +71,10 @@ body {
             table {
                 margin-block-start: 0;
                 margin-block-end: 1em;
-                tbody {
-                    td {
-                        word-break: normal;
-                        overflow-wrap: normal;
-                        white-space: nowrap;
-                    }
+                td {
+                    word-break: normal;
+                    overflow-wrap: normal;
+                    white-space: nowrap;
                 }
             }
         }
