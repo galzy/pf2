@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/tunnels-under-the-good-storm-giant-tribe/","tags":["location"],"noteIcon":"location","created":"2024-01-06T14:19:21.224+01:00","updated":"2024-01-08T23:27:45.235+01:00"}
+{"dg-publish":true,"permalink":"/locations/tunnels-under-the-good-storm-giant-tribe/","tags":["location"],"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-06T14:19:21.224+01:00","updated":"2024-01-10T00:14:26.245+01:00"}
 ---
 
 | Type     | In                         | Near      | Aliases |
