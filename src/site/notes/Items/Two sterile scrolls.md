@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/two-sterile-scrolls/","tags":["item"],"dgShowLocalGraph":true,"noteIcon":"item","created":"2023-12-30T14:07:53.941+01:00","updated":"2024-01-10T00:13:17.773+01:00"}
+{"dg-publish":true,"permalink":"/items/two-sterile-scrolls/","tags":["item"],"dgShowLocalGraph":true,"noteIcon":"item","created":"2023-12-30T14:07:53.941+01:00","updated":"2024-01-10T00:50:56.373+01:00"}
 ---
 
 | Bearer                       | Aliases |
@@ -8,7 +8,7 @@
 
 { .block-language-dataview}
 ### Found at
-Stolen from [[NPCs/Twinkle\|Twinkle]]'s coat at [[a pub near Kyonin\|a pub near Kyonin]]
+Stolen from [[NPCs/Twinkle\|Twinkle]]'s coat at [[Locations/Pub near Greengold\|Pub near Greengold]]
 ### Appearance
 Normal sealed scrolls
 ### Notes
