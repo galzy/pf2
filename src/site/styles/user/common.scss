@@ -352,6 +352,9 @@ body {
     align: center !important;
     @media (max-width: 1400px) {
         .giscus {
+             flex-wrap: wrap;
+            flex-direction: column;
+            justify-content: space-between;
             order: 4;
             margin-left: 5px !important;
             margin-right: 5px !important;
@@ -361,11 +364,9 @@ body {
     }
  }
 
-
 .fullpage-overlay {
     position: fixed;
 }
-
 
     .backlinks {
         flex: unset;
