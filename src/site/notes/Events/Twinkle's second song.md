@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/events/twinkle-s-second-song/","tags":["event"],"dgShowLocalGraph":true,"noteIcon":"event","created":"2024-01-06T12:51:31.026+01:00","updated":"2024-01-10T00:10:31.489+01:00"}
+{"dg-publish":true,"permalink":"/events/twinkle-s-second-song/","tags":["event"],"dgShowLocalGraph":true,"noteIcon":"event","created":"2024-01-06T12:51:31.026+01:00","updated":"2024-01-10T00:50:56.005+01:00"}
 ---
 
-| Where                 | When     | Aliases |
-| --------------------- | -------- | ------- |
-| [[a pub near Kyonin\|a pub near Kyonin]] | Recently | \-      |
+| Where                  | When     | Aliases |
+| ---------------------- | -------- | ------- |
+| [[Locations/Pub near Greengold\|Pub near Greengold]] | Recently | \-      |
 
 { .block-language-dataview}
 ## The Song
