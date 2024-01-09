@@ -20,8 +20,8 @@ body {
     --graph-muted: rgba(126, 126, 126, 0.5);
 
     @media (max-width: 1400px) {
-        padding-left: 1em !important;
-        padding-right: 1em !important;
+        padding-left: 1em;
+        padding-right: 1em;
     }
 
     .notelink {
@@ -55,64 +55,68 @@ body {
         }
 
         p {
-            font-size: 16px !important;
-            margin-top: 0.25em !important;
+            font-size: 16px;
+            margin-top: 0.25em;
             display: inline;
             overflow-wrap: break-word;
         }
 
         ol, ul {
-            margin-block-start:0.25em !important;
-            margin-bottom:0 !important;
-            margin-top:0 !important;
+            margin-block-start:0.25em;
+            margin-bottom:0;
+            margin-top:0;
         }
 
         table.dataview {
-            margin-block-start: 0 !important;
-            margin-block-end: 1em !important;
-            white-space: pre !important;
-            overflow-wrap: break-word !important;;
+            margin-block-start: 0;
+            margin-block-end: 1em;
+            border-collapse: collapse;
+            overflow-wrap: break-word;
+            .td {
+                text-wrap: nowrap;
+                white-space-collapse: collapse
+            }
         }
 
         header {
-            margin-block-end:1.5em !important;
+            margin-block-end:1.5em;
         }
 
         h1 {
-            font-size: 18px !important;
-            font-weight: 600 !important;
-            margin-block-top:36px !important;
-            margin-block-end:0.25em !important;
+            font-size: 18px;
+            font-weight: 600;
+            margin-block-top:36px;
+            margin-block-end:0.25em;
         }
         h2 {
-            font-size: 16.8px !important;
-            font-weight: 600 !important;
-            margin-block-top:33.6px !important;
-            margin-block-end:0.25em !important;
+            font-size: 16.8px;
+            font-weight: 600;
+            margin-block-top:33.6px;
+            margin-block-end:0.25em;
         }
         h3 {
-            font-size: 16px !important;
-            font-weight: 600 !important;
-            margin-block-top:32px !important;
-            margin-block-end:0.25em !important;
+            font-size: 16px;
+            font-weight: 600;
+            margin-block-top:32px;
+            margin-block-end:0.25em;
         }
         h4 {
-            font-size: 14.4px !important;
-            font-weight: 600 !important;
-            margin-block-top:28.8px !important;
-            margin-block-end:0.25em !important;
+            font-size: 14.4px;
+            font-weight: 600;
+            margin-block-top:28.8px;
+            margin-block-end:0.25em;
         }
         h5 {
-            font-size: 13.6px !important;
-            font-weight: 600 !important;
-            margin-block-top:27.2px !important;
-            margin-block-end:0.25em !important;
+            font-size: 13.6px;
+            font-weight: 600;
+            margin-block-top:27.2px;
+            margin-block-end:0.25em;
         }
         h6 {
-            font-size: 13.6px !important;
-            font-weight: 600 !important;
-            margin-block-top:27.2px !important;
-            margin-block-end:0.25em !important;
+            font-size: 13.6px;
+            font-weight: 600;
+            margin-block-top:27.2px;
+            margin-block-end:0.25em;
         }
 
     }
@@ -155,7 +159,7 @@ body {
         }
 
         .fa-sticky-note {
-            display: none !important;
+            display: none;
         }
 
         h1::before {
@@ -244,13 +248,13 @@ body {
         margin-left: 15%;
         margin-right: 15%;
         max-width: 70%;
-        align: center !important;
+        align: center;
         @media (max-width: 1400px) {
             margin-top: 60px;
-            margin-left: 5px !important;
-            margin-right: 5px !important;
-            max-width: 100% !important;
-            width: 100% !important;
+            margin-left: 5px;
+            margin-right: 5px;
+            max-width: 100%;
+            width: 100%;
         }
     }
 
@@ -324,7 +328,4 @@ body {
         position: fixed;
     }
 }
-
 /* END OF BODY */
-
-
