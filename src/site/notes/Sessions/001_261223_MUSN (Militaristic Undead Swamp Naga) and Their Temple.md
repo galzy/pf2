@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","tags":["session"],"noteIcon":"session","created":"2023-12-28T17:45:59.809+01:00","updated":"2024-01-08T12:44:00.472+01:00"}
+{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","tags":["session"],"dgShowLocalGraph":true,"noteIcon":"session","created":"2023-12-28T17:45:59.809+01:00","updated":"2024-01-10T00:17:16.045+01:00"}
 ---
 
 | ID | Players               |
