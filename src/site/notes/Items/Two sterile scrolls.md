@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/two-sterile-scrolls/","tags":["item"],"noteIcon":"item","created":"2023-12-30T14:07:53.941+01:00","updated":"2024-01-08T23:28:24.300+01:00"}
+{"dg-publish":true,"permalink":"/items/two-sterile-scrolls/","tags":["item"],"dgShowLocalGraph":true,"noteIcon":"item","created":"2023-12-30T14:07:53.941+01:00","updated":"2024-01-10T00:13:17.773+01:00"}
 ---
 
 | Bearer                       | Aliases |
