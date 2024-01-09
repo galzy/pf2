@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/key-to-the-temple-of-tiamat/","tags":["item"],"noteIcon":"item","created":"2024-01-06T13:32:16.425+01:00","updated":"2024-01-09T00:21:37.609+01:00"}
+{"dg-publish":true,"permalink":"/items/key-to-the-temple-of-tiamat/","tags":["item"],"dgShowLocalGraph":true,"noteIcon":"item","created":"2024-01-06T13:32:16.425+01:00","updated":"2024-01-10T00:12:46.573+01:00"}
 ---
 
 | Bearer           | Aliases |
