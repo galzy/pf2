@@ -20,10 +20,10 @@ body {
     --graph-muted: rgba(126, 126, 126, 0.5);
 
     @media (max-width: 1400px) {
-        padding-left: 24px !important;
-        padding-right: 24px !important;
-        margin-left: 0;
-        margin-right: 0;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 24px !important;
+        margin-right: 24px !important;
 
     }
 
@@ -74,7 +74,7 @@ body {
             margin-block-start:0.25em;
             margin-bottom: 0;
             margin-top: 0;
-            padding-inline-start: 6px;
+            padding-inline-start: 18px;
             padding-left: 6px;
         }
 
