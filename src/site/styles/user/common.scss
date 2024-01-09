@@ -67,14 +67,18 @@ body {
             margin-top:0;
         }
 
-        table.dataview {
-            margin-block-start: 0;
-            margin-block-end: 1em;
-            border-collapse: collapse;
+        div.block-language-dataview {
+            overflow-y: auto;
+            text-overflow: clip;
             overflow-wrap: break-word;
-            .td {
-                text-wrap: nowrap;
-                white-space-collapse: collapse
+            table.dataview {
+                margin-block-start: 0;
+                margin-block-end: 1em;
+                border-collapse: collapse;
+                .td {
+                    text-wrap: nowrap;
+                    white-space-collapse: collapse
+                }
             }
         }
 
