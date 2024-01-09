@@ -68,10 +68,14 @@ body {
         }
 
         div.block-language-dataview {
-            overflow-x: scroll !important;
+            overflow-x: auto !important;
+            word-break: normal !important;
+            overflow-wrap: normal !important;
             table.dataview {
                 margin-block-start: 0;
                 margin-block-end: 1em;
+                word-break: normal !important;
+                overflow-wrap: normal !important;
                 white-space: nowrap !important;
             }
         }
