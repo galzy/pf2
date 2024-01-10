@@ -71,7 +71,7 @@ body {
             li.task-list-item {
                 padding-top: 1.2px;
                 padding-bottom: 1.2px;
-                text-indent: -12px;
+                text-indent: -24px;
 
             }
         }
@@ -215,7 +215,7 @@ body {
                 margin-right: 5px;
                 background-position: bottom;
                 @media (max-width: 1400px) {
-                    background-position: center;
+                    background-position-y: top 60%;
                 }
             }
 
