@@ -75,6 +75,14 @@ body {
                 padding-left: 20px;
                 text-indent: -24px;
                 div {
+                    margin: 0;
+                    padding: 0;
+                    input {
+                        border: none;
+                    }
+                    label {
+                        padding-right: -5px;
+                    }
                 }
             }
         }
@@ -219,6 +227,8 @@ body {
                 background-position: bottom;
                 @media (max-width: 1400px) {
                     background-position: center !important;
+                        height: 1em !important;
+
                 }
             }
 
