@@ -216,9 +216,9 @@ body {
                 background-size: contain;
                 background-repeat: no-repeat;
                 background-image: url(/img/logo.svg);
+                background-color: rgba(0,0,0,0.73);
                 margin-right: 5px;
                 background-position: bottom;
-                filter: invert(26%) sepia(2%) saturate(11%) hue-rotate(327deg) brightness(95%) contrast(92%);
                 @media (max-width: 1000px) {
                     background-position: center;
                 }
