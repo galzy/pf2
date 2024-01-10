@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/global/quests/","hideInGraph":true,"tags":["global"],"noteIcon":"","created":"2023-12-30T01:16:53.937+01:00","updated":"2024-01-10T00:54:39.309+01:00"}
+{"dg-publish":true,"permalink":"/global/quests/","hideInGraph":true,"tags":["global"],"noteIcon":"","created":"2023-12-30T01:16:53.937+01:00","updated":"2024-01-10T12:58:35.775+01:00"}
 ---
 
 # Quests
@@ -23,6 +23,18 @@
 - [ ] Investigate the [[Forest Corruption\|Forest Corruption]] of [[Locations/Kyonin\|Kyonin]]
 ### Necromancer near [[Locations/Absalom\|Absalom]] ruins
 - TBD
+
+### TEST 
+- TEST  
+	- TEST 
+- TEST 
+	- TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST 
+- TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST 
+	- TEST 
+- TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST 
+	- TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST 
+- TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST 
+	 
 
 # Loose Ends
 - [ ] Exploit the [[Locations/Leothin mine\|Leothin mine]]
