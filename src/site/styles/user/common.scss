@@ -1,3 +1,17 @@
+body.theme-dark {
+    --bg: #262626;
+    --text-accent: #006f8b;
+    --text-accent-hover: #0084a5;
+    --interactive-accent: #006f8b;
+    --h1-color: var(--interactive-accent);
+}
+body.theme-light {
+    --bg: #FFFFFF;
+    --text-accent: #004d61;
+    --text-accent-hover: #006f8b;
+    --interactive-accent: #004d61;
+    --h1-color: var(--interactive-accent);
+}
 /* START OF BODY */
 body {
     --graph-main: var(--text-accent-hover);
@@ -6,9 +20,8 @@ body {
     @media (max-width: 1000px) {
         padding-left: 24px !important;
         padding-right: 24px !important;
-        margin-left: 0;
-        margin-right: 0;
-
+        margin-left: 0 !important;
+        margin-right: 0 !important;
     }
 
     .notelink {
@@ -21,7 +34,6 @@ body {
 
     /* START OF cm-s-obsidian */
     .cm-s-obsidian {
-
         header {
             margin-bottom: 1.8em;
         }
@@ -80,13 +92,7 @@ body {
                         position: sticky;
                         top: 0;
                         z-index: 1;
-                        background-color: #FFFFFF;
-                        @media (prefers-color-scheme: light) {
-                            background-color: #FFFFFF;
-                        }
-                        @media (prefers-color-scheme: dark) {
-                            background-color: #262626;
-                        }
+                        background-color: var(--bg);
                     }
                 }
                 tr {
