@@ -73,7 +73,7 @@ body {
                 padding-bottom: 1.2px;
                 padding-inline-start: 20px;
                 padding-left: 20px;
-                text-indent: -20px;
+                text-indent: -28px;
 
             }
         }
@@ -217,7 +217,7 @@ body {
                 margin-right: 5px;
                 background-position: bottom;
                 @media (max-width: 1400px) {
-                    background-position-y: top 75%;
+                    background-position-y: top 75% !important;
                 }
             }
 
