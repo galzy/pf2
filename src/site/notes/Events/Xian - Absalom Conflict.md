@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/xian-absalom-conflict/","tags":["event"],"dgShowLocalGraph":true,"noteIcon":"event","created":"2023-12-28T13:18:43.619+01:00","updated":"2024-01-10T00:10:41.153+01:00"}
+{"dg-publish":true,"permalink":"/events/xian-absalom-conflict/","tags":["event"],"dgShowLocalGraph":true,"noteIcon":"event","created":"2023-12-28T13:18:43.619+01:00","updated":"2024-01-10T13:58:13.891+01:00"}
 ---
 
 | Where       | When     | Aliases |
@@ -7,6 +7,7 @@
 | [[Locations/Absalom\|Absalom]] | Recently | \-      |
 
 { .block-language-dataview}
+## Notes
 The [[Groups/Xian Ninja Army\|Xians]] attacked [[Locations/Absalom\|Absalom]] by surprise and the [[Groups/Storm Bringers\|Storm Bringers]] helped repel the initial attack. We then started investigating the attack, at the behest of [[NPCs/Olivia\|Olivia]]. 
 It turned out they have been infiltrating [[Locations/Absalom\|Absalom]] for some time. They also killed and kidnaped an elder that had one of three keys to the legendry [[Temple of Tiamat\|Temple of Tiamat]], which they might be trying to reassemble.
  
