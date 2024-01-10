@@ -62,13 +62,18 @@ body {
             margin-top: 0.25em;
         }
 
-       ul.task-list {
+        ul.task-list {
             margin-block-start:0.25em;
             margin-bottom: 0;
             margin-top: 0;
-           padding-inline-start: 12px !important;
-           padding-left: 12px !important;
-          //  text-indent: -28px !important;
+            padding-inline-start: 12px;
+            padding-left: 12px;
+            //  text-indent: -28px !important;
+            li.task-list-item {
+                position: relative;
+                padding-top: 1.2px;
+                padding-bottom: 1.2px;
+            }
         }
 
         li {
