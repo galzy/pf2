@@ -1,16 +1,18 @@
 body.theme-dark {
-    --bg: #262626;
+    --bg1: #262626;
+    --bg2: #3b3b3b;
     --text-accent: #006f8b;
     --text-accent-hover: #0084a5;
     --interactive-accent: #006f8b;
-    --h1-color: var(--interactive-accent);
+//     --h1-color: var(--interactive-accent);
 }
 body.theme-light {
-    --bg: #FFFFFF;
+    --bg1: #FFFFFF;
+    --bg2: ##f3f6f4;
     --text-accent: #004d61;
     --text-accent-hover: #006f8b;
     --interactive-accent: #004d61;
-    --h1-color: var(--interactive-accent);
+//     --h1-color: var(--interactive-accent);
 }
 /* START OF BODY */
 body {
@@ -42,7 +44,7 @@ body {
             display: flex;
             flex-direction: row;
             font-size: 0.8em;
-            color: var(--text-muted);
+//             color: var(--text-muted);
             gap: 10px;
             margin-top: 20px;
             div {
@@ -92,7 +94,7 @@ body {
                         position: sticky;
                         top: 0;
                         z-index: 1;
-                        background-color: var(--bg);
+                        background-color: var(--bg2);
                     }
                 }
                 tr {
@@ -212,7 +214,7 @@ body {
         left: 10px;
         width: calc(100% - 20px);
         border-radius: 10px;
-        border: var(--cards-border-width) solid var(--background-modifier-border);
+//         border: var(--cards-border-width) solid var(--background-modifier-border);
         z-index: 99999;
         .navbar-inner {
             h1::before {
@@ -290,12 +292,18 @@ body {
             max-width: 100%;
             width: 100%;
         }
+         summary.link-secondary, .color-bg-primary {
+            background-color: var(--bg1);
+        }
+        .color-bg-tertiary, textarea.form-control, div.form-control {
+            background-color: var(--bg2);
+        }
     }
 
     /* START OF floating-control */
     #floating-control {
         position: fixed;
-        color: var(--link-color);
+//         color: var(--link-color);
         bottom: 1vmax;
         right: 1vmax;
         font-size: 24px;
@@ -348,7 +356,7 @@ body {
 
     .referred {
         border: 1px dashed;
-        border-color: var(--text-accent);
+//         border-color: var(--text-accent);
         padding: 10px;
         margin-left: -10px;
         margin-right: -10px;
