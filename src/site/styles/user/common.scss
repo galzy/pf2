@@ -95,7 +95,9 @@ body {
 //         }
 
         div.block-language-dataview {
-            data-note-icon: unset !important;
+            a.internal-link {
+                data-note-icon: unset !important;
+            }
             table {
                 margin-block-start: 0;
                 margin-block-end: 1em;
