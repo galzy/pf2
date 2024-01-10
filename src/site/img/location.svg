@@ -1,15 +1,29 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <path fill="#EA5A47" stroke="none" d="M35.9717,9.7197c-6.4217,0-11.6459,5.2242-11.6459,11.6459S29.55,33.0115,35.9717,33.0115 c6.4216,0,11.6459-5.2242,11.6459-11.6459S42.3933,9.7197,35.9717,9.7197z"/>
-    <path fill="#D22F27" stroke="none" d="M39.1689,32.3818c1.7258-0.6456,3.289-0.8166,4.8143-2.212c2.1013-1.9223,3.9035-5.3398,3.9035-8.0238 c0-2.4449-0.578-5.3031-2.3421-7.6335c-1.6276-2.15-4.3608-3.8416-6.3757-4.554c0,0,3.5175,5.6512,3.5175,11.3739 S39.1689,32.3818,39.1689,32.3818z"/>
-    <path fill="#D0CFCE" stroke="none" d="M35.837,63.4888l2.8467-7.6704c0,0-0.8248-19.5768-0.3788-19.6775h-5.1693 c0.4459,0.1007-0.2244,19.5589-0.2244,19.5589L35.837,63.4888z"/>
-    <path fill="#9B9B9A" stroke="none" d="M35.9556,62.7376l2.649-7.0773c0,0,0.1045-19.0577,0.0622-19.5266l-2.9331,0.0072L35.9556,62.7376z"/>
-  </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <circle cx="35.9715" cy="21.3656" r="11.8084" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="38.5196,37.0981 38.5196,55.7135 35.9356,64.2191 32.9209,55.7135 32.9209,37.0981"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="emoji" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 25.6 56.7" style="enable-background:new 0 0 25.6 56.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EA5A47;}
+	.st1{fill:#D22F27;}
+	.st2{fill:#D0CFCE;}
+	.st3{fill:#9B9B9A;}
+	.st4{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="color">
+	<path class="st0" d="M12.8,1.2C6.4,1.2,1.2,6.4,1.2,12.8s5.2,11.6,11.6,11.6c6.4,0,11.6-5.2,11.6-11.6S19.2,1.2,12.8,1.2z"/>
+	<path class="st1" d="M16,23.8c1.7-0.6,3.3-0.8,4.8-2.2c2.1-1.9,3.9-5.3,3.9-8c0-2.4-0.6-5.3-2.3-7.6C20.8,3.8,18,2.1,16,1.4
+		c0,0,3.5,5.7,3.5,11.4S16,23.8,16,23.8z"/>
+	<path class="st2" d="M12.7,54.9l2.8-7.7c0,0-0.8-19.6-0.4-19.7H10c0.4,0.1-0.2,19.6-0.2,19.6L12.7,54.9z"/>
+	<path class="st3" d="M12.8,54.2l2.6-7.1c0,0,0.1-19.1,0.1-19.5l-2.9,0L12.8,54.2z"/>
+</g>
+<g id="hair">
+</g>
+<g id="skin">
+</g>
+<g id="skin-shadow">
+</g>
+<g id="line">
+	<circle class="st4" cx="12.8" cy="12.8" r="11.8"/>
+	<polyline class="st4" points="15.4,28.5 15.4,47.2 12.8,55.7 9.8,47.2 9.8,28.5 	"/>
+</g>
 </svg>
