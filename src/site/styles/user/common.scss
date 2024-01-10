@@ -83,9 +83,6 @@ body {
 
         }
         div.block-language-dataview {
-            a::before {
-                display: none;
-            }
             table {
                 margin-block-start: 0;
                 margin-block-end: 1em;
@@ -95,6 +92,9 @@ body {
                 }
                 td {
                     white-space: nowrap;
+                    .internal-link::before {
+                        display: none;
+                    }
                 }
             }
         }
