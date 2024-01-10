@@ -102,6 +102,9 @@ body {
                     word-break: normal;
                     overflow-wrap: normal;
                     white-space: nowrap;
+                    a {
+                        data-note-icon: unset;
+                    }
                 }
             }
         }
