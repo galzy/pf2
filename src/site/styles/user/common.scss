@@ -94,6 +94,7 @@ body {
                 td {
                     white-space: nowrap;
 overflow: auto;
+max-width: 0;
                     .internal-link::before {
                         display: none;
                     }
