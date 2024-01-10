@@ -1,10 +1,12 @@
 body.theme-dark {
-    --bg1: #262626;
-    --bg2: #3b3b3b;
+    --background-color-1: #262626;
+    --background-color-2: #3b3b3b;
+    --text-color-2: #a2a2a2
 }
 body.theme-light {
-    --bg1: #FFFFFF;
-    --bg2: #f3f6f4;
+    --background-color-1: #FFFFFF;
+    --background-color-2: #f3f6f4;
+    --text-color-2: #a2a2a2
 }
 /* START OF BODY */
 body {
@@ -83,12 +85,15 @@ body {
                         position: sticky;
                         top: 0;
                         z-index: 1;
-                        background-color: var(--bg2);
+                        background-color: var(--background-color-2);
                     }
                 }
                 tr {
                     height: 26.2px;
                     line-height: 20.8px;
+                    .table-view-tr-header {
+                        color: var(--text-color-2);;
+                    }
                 }
                 td {
                     white-space: nowrap;
