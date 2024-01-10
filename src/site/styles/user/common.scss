@@ -5,6 +5,15 @@ body.theme-dark {
             fill: #eeeeee;
         }
     }
+    div.block-language-dataview {
+            table {
+                thead {
+                    th {
+                       background-color: #262626;
+                    }
+                }
+            }
+        }
 }
 body.theme-light {
     nav.filetree-sidebar {
@@ -12,6 +21,16 @@ body.theme-light {
             fill: #444444;
         }
     }
+div.block-language-dataview {
+            table {
+                thead {
+                    th {
+                       background-color: 	
+#FFFFFF;
+                    }
+                }
+            }
+        }
 }
 
 /* START OF BODY */
