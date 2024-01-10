@@ -62,12 +62,12 @@ body {
             margin-top: 0.25em;
         }
 
-        ol, ul {
+       ul.task-list {
             margin-block-start:0.25em;
             margin-bottom: 0;
             margin-top: 0;
-          //  padding-inline-start: 28px !important;
-          //  padding-left: 28px !important;
+           padding-inline-start: 32px !important;
+           padding-left: 32px !important;
           //  text-indent: -28px !important;
         }
 
