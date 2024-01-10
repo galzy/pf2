@@ -82,20 +82,10 @@ body {
             text-indent: -26px;
 
         }
-
-
-
-//         li {
-//             margin-block-start:0.25em;
-//             margin-bottom: 0;
-//             margin-top: 0;
-//            padding-inline-start: 6px !important;
-//            padding-left: 6px !important;
-//            text-indent: -6px !important;
-//         }
-
         div.block-language-dataview {
-            overflow: auto;
+            a::before {
+                display: none;
+            }
             table {
                 margin-block-start: 0;
                 margin-block-end: 1em;
