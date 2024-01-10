@@ -71,7 +71,10 @@ body {
             li.task-list-item {
                 padding-top: 1.2px;
                 padding-bottom: 1.2px;
-                text-indent: -24px;
+                padding-inline-start: 28px;
+                padding-left: 28px;
+
+                text-indent: -28px;
 
             }
         }
