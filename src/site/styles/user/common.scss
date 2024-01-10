@@ -84,9 +84,11 @@ body {
         }
         div.block-language-dataview {
             table {
+                warp: auto;
                 margin-block-start: 0;
                 margin-block-end: 1em;
                 tr {
+                    warp: auto;
                     height: 26.2px;
                     line-height: 20.8px;
                 }
