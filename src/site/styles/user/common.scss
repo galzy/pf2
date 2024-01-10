@@ -86,8 +86,6 @@ body {
             table {
                 margin-block-start: 0;
                 margin-block-end: 1em;
-                tbody {
-                }
                 tr {
                     height: 26.2px;
                     line-height: 20.8px;
@@ -170,7 +168,7 @@ body {
         }
         .notelink {
             border-radius: 10px;
-            padding: 5px 0 5px 24px;
+            padding: 2.5px 0 2.5px 24px;
 
             a::before {
                 margin-right: 2px;
