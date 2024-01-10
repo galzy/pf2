@@ -84,6 +84,8 @@ body {
         }
         div.block-language-dataview {
 //             max-height: 10em;
+ overflow-x: auto;
+    white-space: nowrap;
             table {
                 margin-block-start: 0;
                 margin-block-end: 1em;
