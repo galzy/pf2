@@ -91,7 +91,7 @@ body {
                 tr {
                     height: 26.2px;
                     line-height: 20.8px;
-                    .table-view-tr-header {
+                    .table-view-th {
                         color: var(--text-color-2);;
                     }
                 }
@@ -210,6 +210,7 @@ body {
         border-radius: 10px;
         border: var(--cards-border-width) solid var(--background-modifier-border);
         z-index: 99999;
+        background-color: var(--background-color-2);
         .navbar-inner {
             h1::before {
                 content: " ";
