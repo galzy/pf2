@@ -74,12 +74,6 @@ body {
                 padding-inline-start: 20px;
                 padding-left: 20px;
                 text-indent: -22px;
-                input {
-                    border: none;
-                }
-                label {
-                    padding-right: -5px;
-                }
             }
         }
 
@@ -222,8 +216,7 @@ body {
                 margin-right: 5px;
                 background-position: bottom;
                 @media (max-width: 1400px) {
-                    padding-top: 0.25em;
-
+                    background-position: center;
                 }
             }
 
