@@ -90,16 +90,12 @@ overflow-x: auto;
     white-space: nowrap;
                 margin-block-start: 0;
                 margin-block-end: 1em;
-width: 100%;
                 tr {
                     height: 26.2px;
                     line-height: 20.8px;
-max-width: 100%;
                 }
                 td {
-                    white-space: nowrap;
-overflow: auto;
-max-width: 100%;
+                    //white-space: nowrap;
                     .internal-link::before {
                         display: none;
                     }
