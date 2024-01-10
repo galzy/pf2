@@ -95,19 +95,15 @@ body {
 //         }
 
         div.block-language-dataview {
-            .internal-link {
-                data-note-icon: unset !important;
-            }
             table {
                 margin-block-start: 0;
                 margin-block-end: 1em;
                 tr {
                     height: 26.2px;
                     line-height: 20.8px;
-                    margin-top: 16px;
-                    margin-bottom: 16px;
                 }
                 td {
+                    word-break: keep-all;
                     white-space: nowrap;
                 }
             }
