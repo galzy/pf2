@@ -108,6 +108,7 @@ body.filetree-note-icon .filename[data-note-icon="npc"]::before, body.links-note
   width: 1.5em;
   height: 1.5em;
   vertical-align: middle;
+  margin-right: -0.1em;
   margin-left: 0;
   padding-left: 0;
 }
@@ -116,6 +117,7 @@ body.filetree-note-icon .filename[data-note-icon="npc_bw"]::before, body.links-n
   width: 1.5em;
   height: 1.5em;
   vertical-align: middle;
+  margin-right: -0.1em;
   margin-left: 0;
   padding-left: 0;
 }
