@@ -83,18 +83,21 @@ body {
 
         }
         div.block-language-dataview {
-            warp: auto !important;
+            warp: scroll !important;
             table {
-                warp: auto !important;
+                warp: scroll !important;
                 margin-block-start: 0;
                 margin-block-end: 1em;
+                tbody {
+                    warp: scroll !important;
+                }
                 tr {
-                    warp: auto !important;
+                    warp: scroll !important;
                     height: 26.2px;
                     line-height: 20.8px;
                 }
                 td {
-                    warp: auto !important;
+                    warp: scroll !important;
                     white-space: nowrap;
                     .internal-link::before {
                         display: none;
