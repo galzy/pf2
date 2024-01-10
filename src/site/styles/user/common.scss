@@ -87,9 +87,11 @@ body {
             table {
                 margin-block-start: 0;
                 margin-block-end: 1em;
+max-width: 0;
                 tr {
                     height: 26.2px;
                     line-height: 20.8px;
+max-width: 0;
                 }
                 td {
                     white-space: nowrap;
