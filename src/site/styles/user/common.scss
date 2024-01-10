@@ -19,7 +19,7 @@ body {
     --graph-main: var(--text-accent-hover);
     --graph-muted: rgba(126, 126, 126, 0.5);
 
-    @media (max-width: 1400px) {
+    @media (max-width: 1000px) {
         padding-left: 24px !important;
         padding-right: 24px !important;
         margin-left: 0;
@@ -218,7 +218,8 @@ body {
                 background-image: url(/img/logo.svg);
                 margin-right: 5px;
                 background-position: bottom;
-                @media (max-width: 1400px) {
+                filter: invert(26%) sepia(2%) saturate(11%) hue-rotate(327deg) brightness(95%) contrast(92%);
+                @media (max-width: 1000px) {
                     background-position: center;
                 }
             }
@@ -230,7 +231,7 @@ body {
 
         .search-button {
             border-radius: 10px;
-            @media (max-width: 1400px) {
+            @media (max-width: 1000px) {
                 margin-right: 10px;
             }
         }
@@ -245,7 +246,7 @@ body {
                 max-height: 365px;
                 overflow-y: auto;
             }
-            @media (max-width: 1400px) {
+            @media (max-width: 1000px) {
                 flex-wrap: wrap;
                 flex-direction: row;
                 justify-content: space-between;
@@ -253,14 +254,14 @@ body {
 
             .backlinks {
                 flex: unset;
-                @media (max-width: 1400px) {
+                @media (max-width: 1000px) {
                     order: 2;
                 }
             }
 
             .graph {
                 flex: unset;
-                @media (max-width: 1400px) {
+                @media (max-width: 1000px) {
                     order: 3;
                 }
             }
@@ -275,7 +276,7 @@ body {
         margin-right: 15%;
         max-width: 70%;
         align: center;
-        @media (max-width: 1400px) {
+        @media (max-width: 1000px) {
             margin-top: 80px;
             margin-left: 5px;
             margin-right: 5px;
