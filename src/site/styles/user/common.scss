@@ -91,12 +91,12 @@ max-width: 100%;
                 tr {
                     height: 26.2px;
                     line-height: 20.8px;
-max-width: 0;
+max-width: 100%;
                 }
                 td {
                     white-space: nowrap;
 overflow: auto;
-max-width: 0;
+max-width: 100%;
                     .internal-link::before {
                         display: none;
                     }
