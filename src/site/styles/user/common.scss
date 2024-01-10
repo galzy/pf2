@@ -83,8 +83,12 @@ body {
 
         }
         div.block-language-dataview {
+            display: block;
+            warp: auto;
             max-height: 10em;
             table {
+                display: block;
+                warp: auto;
                 width: 100%;
                 overflow: auto;
                 border-collapse: collapse;
