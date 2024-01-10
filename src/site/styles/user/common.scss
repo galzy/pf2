@@ -8,7 +8,7 @@ body.theme-dark {
 }
 body.theme-light {
     --bg1: #FFFFFF;
-    --bg2: ##f3f6f4;
+    --bg2: #f3f6f4;
     --text-accent: #004d61;
     --text-accent-hover: #006f8b;
     --interactive-accent: #004d61;
@@ -16,8 +16,8 @@ body.theme-light {
 }
 /* START OF BODY */
 body {
-    --graph-main: var(--text-accent-hover);
-    --graph-muted: rgba(126, 126, 126, 0.5);
+//     --graph-main: var(--text-accent-hover);
+//     --graph-muted: rgba(126, 126, 126, 0.5);
 
     @media (max-width: 1000px) {
         padding-left: 24px !important;
@@ -291,12 +291,6 @@ body {
             margin-right: 5px;
             max-width: 100%;
             width: 100%;
-        }
-         summary.link-secondary, .color-bg-primary {
-            background-color: var(--bg1);
-        }
-        .color-bg-tertiary, textarea.form-control, div.form-control {
-            background-color: var(--bg2);
         }
     }
 
