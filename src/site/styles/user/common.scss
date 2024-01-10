@@ -10,6 +10,8 @@ body.theme-light {
 }
 /* START OF BODY */
 body {
+    background-color: var(--background-color-1);
+
     @media (max-width: 1000px) {
         padding-left: 24px !important;
         padding-right: 24px !important;
@@ -86,14 +88,12 @@ body {
                         top: 0;
                         z-index: 1;
                         background-color: var(--background-color-2);
+                        color: var(--text-color-2);;
                     }
                 }
                 tr {
                     height: 26.2px;
                     line-height: 20.8px;
-                    .table-view-th {
-                        color: var(--text-color-2);;
-                    }
                 }
                 td {
                     white-space: nowrap;
