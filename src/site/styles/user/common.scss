@@ -68,21 +68,22 @@ body {
             margin-top: 0;
             padding-inline-start: 12px;
             padding-left: 12px;
-            //  text-indent: -28px !important;
             li.task-list-item {
                 padding-top: 1.2px;
                 padding-bottom: 1.2px;
+                text-indent: -12px;
+
             }
         }
 
-        li {
+//         li {
 //             margin-block-start:0.25em;
 //             margin-bottom: 0;
 //             margin-top: 0;
-          //  padding-inline-start: 6px !important;
-           // padding-left: 6px !important;
-           // text-indent: -6px !important;
-        }
+//            padding-inline-start: 6px !important;
+//            padding-left: 6px !important;
+//            text-indent: -6px !important;
+//         }
 
         div.block-language-dataview {
             table {
@@ -211,9 +212,11 @@ body {
                 background-size: contain;
                 background-repeat: no-repeat;
                 background-image: url(/img/logo.svg);
-                background-position-y;
                 margin-right: 5px;
                 background-position: bottom;
+                @media (max-width: 1400px) {
+                    background-position: center;
+                }
             }
 
             span {
@@ -223,7 +226,7 @@ body {
 
         .search-button {
             border-radius: 10px;
-            @media (max-width: 800px) {
+            @media (max-width: 1400px) {
                 margin-right: 10px;
             }
         }
