@@ -1,24 +1,13 @@
 body.theme-dark {
     --bg1: #262626;
     --bg2: #3b3b3b;
-    --text-accent: #006f8b;
-    --text-accent-hover: #0084a5;
-    --interactive-accent: #006f8b;
-//     --h1-color: var(--interactive-accent);
 }
 body.theme-light {
     --bg1: #FFFFFF;
     --bg2: #f3f6f4;
-    --text-accent: #004d61;
-    --text-accent-hover: #006f8b;
-    --interactive-accent: #004d61;
-//     --h1-color: var(--interactive-accent);
 }
 /* START OF BODY */
 body {
-//     --graph-main: var(--text-accent-hover);
-//     --graph-muted: rgba(126, 126, 126, 0.5);
-
     @media (max-width: 1000px) {
         padding-left: 24px !important;
         padding-right: 24px !important;
@@ -44,7 +33,7 @@ body {
             display: flex;
             flex-direction: row;
             font-size: 0.8em;
-//             color: var(--text-muted);
+            color: var(--text-muted);
             gap: 10px;
             margin-top: 20px;
             div {
@@ -214,7 +203,7 @@ body {
         left: 10px;
         width: calc(100% - 20px);
         border-radius: 10px;
-//         border: var(--cards-border-width) solid var(--background-modifier-border);
+        border: var(--cards-border-width) solid var(--background-modifier-border);
         z-index: 99999;
         .navbar-inner {
             h1::before {
@@ -297,7 +286,7 @@ body {
     /* START OF floating-control */
     #floating-control {
         position: fixed;
-//         color: var(--link-color);
+        color: var(--link-color);
         bottom: 1vmax;
         right: 1vmax;
         font-size: 24px;
@@ -350,7 +339,7 @@ body {
 
     .referred {
         border: 1px dashed;
-//         border-color: var(--text-accent);
+        border-color: var(--text-accent);
         padding: 10px;
         margin-left: -10px;
         margin-right: -10px;
