@@ -74,7 +74,7 @@ body {
                 padding-inline-start: 20px;
                 padding-left: 20px;
                 text-indent: -24px;
-                div {
+                .div {
                     margin: 0;
                     padding: 0;
                     input {
@@ -226,8 +226,7 @@ body {
                 margin-right: 5px;
                 background-position: bottom;
                 @media (max-width: 1400px) {
-                    background-position: center !important;
-                        height: 1em !important;
+                    height: 1em !important;
 
                 }
             }
