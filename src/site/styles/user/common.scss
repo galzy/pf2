@@ -78,7 +78,6 @@ body {
         }
         div.block-language-dataview {
             max-height: 10em;
-            overflow-x: auto;
             table {
                 margin-block-start: 0;
                 margin-block-end: 1em; 
@@ -95,8 +94,7 @@ body {
                 }
                 td {
                     white-space: nowrap;
-                    overflow-x: auto;
-                    .internal-link::before {
+                 .internal-link::before {
                         display: none;
                     }
                 }
