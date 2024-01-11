@@ -54,30 +54,26 @@ body {
             font-size: 16px;
             margin-block-start: 0.25em;
         }
-
-        ul {
-            list-style-position: outside;
-            margin-block-start:0.25em;
-            margin-bottom: 0;
-            margin-top: 0;
-            margin-left: 16px;
-            padding-left: 0;
-            text-indent: 0;
-
-        }
-
-        li.task-list-item {
-            list-style-position: outside;
-            padding-top: 1.2px;
-            padding-bottom: 1.2px;
-            margin-left: 0;
-            padding-left: 16px;
-            text-indent: -26px;
-            input {
-                line-height: 27px;
-            }
-
-        }
+//
+//         ul {
+//             list-style-position: outside;
+//             margin-block-start:0.25em;
+//             margin-bottom: 0;
+//             margin-top: 0;
+//             margin-left: 16px;
+//             padding-left: 0;
+//             text-indent: 0;
+//
+//         }
+//
+//         li.task-list-item {
+//             list-style-position: outside;
+//             padding-top: 1.2px;
+//             padding-bottom: 1.2px;
+//             margin-left: 0;
+//             padding-left: 16px;
+//             text-indent: -26px;
+//         }
         div.block-language-dataview {
             overflow: auto;
             max-height: 10em;
