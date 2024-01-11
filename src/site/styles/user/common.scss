@@ -217,7 +217,7 @@ body {
             h1::before {
                 content: " ";
                 display: inline-block;
-                width: 2em;
+                width: 1em;
                 height: 1.2em;
                 background-size: contain;
                 background-repeat: no-repeat;
@@ -227,6 +227,12 @@ body {
                 filter: var(--icon-filter) !important;
 
             }
+@media (max-width: 1000px) {
+                    width: 2em;
+margin-right: -0.5em;
+margin-left: -1em;
+
+                }
 
             span {
                 margin-left: 10px;
