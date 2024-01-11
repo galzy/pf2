@@ -56,9 +56,6 @@ body {
         }
 
         ul {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
             list-style-position: outside;
             margin-block-start:0.25em;
             margin-bottom: 0;
@@ -70,9 +67,6 @@ body {
         }
 
         li.task-list-item {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
             list-style-position: outside;
             padding-top: 1.2px;
             padding-bottom: 1.2px;
