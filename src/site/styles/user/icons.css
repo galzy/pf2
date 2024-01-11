@@ -6,6 +6,7 @@ body.filetree-note-icon .filename[data-note-icon="session"]::before, body.links-
     height: 1em;
     width: 1em;
 }
+
 body.filetree-note-icon .filename[data-note-icon="session_bw"]::before, body.links-note-icon .internal-link[data-note-icon="session_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="session_bw"]::before {
   background-image: url(/img/session_bw.svg);
     position: relative;
@@ -14,6 +15,7 @@ body.filetree-note-icon .filename[data-note-icon="session_bw"]::before, body.lin
     height: 1em;
     width: 1em;
 }
+
 body.filetree-note-icon .filename[data-note-icon="event"]::before, body.links-note-icon .internal-link[data-note-icon="event"]::before, body.backlinks-note-icon .backlink[data-note-icon="event"]::before {
   background-image: url(/img/event.svg);
     position: relative;
@@ -23,12 +25,14 @@ body.filetree-note-icon .filename[data-note-icon="event"]::before, body.links-no
     width: 1em;
     margin-right: -4px;
 }
+
 body.filetree-note-icon .filename[data-note-icon="event_bw"]::before, body.links-note-icon .internal-link[data-note-icon="event_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="event_bw"]::before {
   background-image: url(/img/event_bw.svg);
   width: 1em;
   height: 1em;
   margin-right: -4px;
 }
+
 body.filetree-note-icon .filename[data-note-icon="group"]::before, body.links-note-icon .internal-link[data-note-icon="group"]::before, body.backlinks-note-icon .backlink[data-note-icon="group"]::before {
   background-image: url(/img/group.svg);
     position: relative;
@@ -37,6 +41,7 @@ body.filetree-note-icon .filename[data-note-icon="group"]::before, body.links-no
     height: 1em;
     width: 1em;
 }
+
 body.filetree-note-icon .filename[data-note-icon="group_bw"]::before, body.links-note-icon .internal-link[data-note-icon="group_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="group_bw"]::before {
   background-image: url(/img/group_bw.svg);
     position: relative;
@@ -45,6 +50,7 @@ body.filetree-note-icon .filename[data-note-icon="group_bw"]::before, body.links
     height: 1em;
     width: 1em;
 }
+
 body.filetree-note-icon .filename[data-note-icon="item"]::before, body.links-note-icon .internal-link[data-note-icon="item"]::before, body.backlinks-note-icon .backlink[data-note-icon="item"]::before {
   background-image: url(/img/item.svg);
     position: relative;
@@ -53,6 +59,7 @@ body.filetree-note-icon .filename[data-note-icon="item"]::before, body.links-not
     height: 1em;
     width: 1em;
 }
+
 body.filetree-note-icon .filename[data-note-icon="item_bw"]::before, body.links-note-icon .internal-link[data-note-icon="item_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="item_bw"]::before {
   background-image: url(/img/item_bw.svg);
     position: relative;
@@ -61,6 +68,7 @@ body.filetree-note-icon .filename[data-note-icon="item_bw"]::before, body.links-
     height: 1em;
     width: 1em;
 }
+
 body.filetree-note-icon .filename[data-note-icon="location"]::before, body.links-note-icon .internal-link[data-note-icon="location"]::before, body.backlinks-note-icon .backlink[data-note-icon="location"]::before {
   background-image: url(/img/location.svg);
     position: relative;
@@ -70,6 +78,7 @@ body.filetree-note-icon .filename[data-note-icon="location"]::before, body.links
     width: 1em;
     margin-right: -4px;
 }
+
 body.filetree-note-icon .filename[data-note-icon="location_bw"]::before, body.links-note-icon .internal-link[data-note-icon="location_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="location_bw"]::before {
   background-image: url(/img/location_bw.svg);
     position: relative;
@@ -79,6 +88,7 @@ body.filetree-note-icon .filename[data-note-icon="location_bw"]::before, body.li
     width: 1em;
     margin-right: -4px;
 }
+
 body.filetree-note-icon .filename[data-note-icon="lore"]::before, body.links-note-icon .internal-link[data-note-icon="lore"]::before, body.backlinks-note-icon .backlink[data-note-icon="lore"]::before {
   background-image: url(/img/lore.svg);
     position: relative;
@@ -87,6 +97,7 @@ body.filetree-note-icon .filename[data-note-icon="lore"]::before, body.links-not
     height: 1em;
     width: 1em;
 }
+
 body.filetree-note-icon .filename[data-note-icon="lore_bw"]::before, body.links-note-icon .internal-link[data-note-icon="lore_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="lore_bw"]::before {
   background-image: url(/img/lore_bw.svg);
     position: relative;
@@ -95,6 +106,7 @@ body.filetree-note-icon .filename[data-note-icon="lore_bw"]::before, body.links-
     height: 1em;
     width: 1em;
 }
+
 body.filetree-note-icon .filename[data-note-icon="npc"]::before, body.links-note-icon .internal-link[data-note-icon="npc"]::before, body.backlinks-note-icon .backlink[data-note-icon="npc"]::before {
   background-image: url(/img/npc.svg);
     position: relative;
@@ -102,7 +114,9 @@ body.filetree-note-icon .filename[data-note-icon="npc"]::before, body.links-note
     flex-shrink: 0;
     height: 1em;
     width: 1em;
+    margin-right: 1px;
 }
+
 body.filetree-note-icon .filename[data-note-icon="npc_bw"]::before, body.links-note-icon .internal-link[data-note-icon="npc_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="npc_bw"]::before {
   background-image: url(/img/npc_bw.svg);
     position: relative;
@@ -110,7 +124,9 @@ body.filetree-note-icon .filename[data-note-icon="npc_bw"]::before, body.links-n
     flex-shrink: 0;
     height: 1em;
     width: 1em;
+    margin-right: 1px;
 }
+
 body.filetree-note-icon .filename[data-note-icon="player"]::before, body.links-note-icon .internal-link[data-note-icon="player"]::before, body.backlinks-note-icon .backlink[data-note-icon="player"]::before {
   background-image: url(/img/player.svg);
     position: relative;
@@ -119,6 +135,7 @@ body.filetree-note-icon .filename[data-note-icon="player"]::before, body.links-n
     height: 1em;
     width: 1em;
 }
+
 body.filetree-note-icon .filename[data-note-icon="player_bw"]::before, body.links-note-icon .internal-link[data-note-icon="player_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="player_bw"]::before {
   background-image: url(/img/player_bw.svg);
     position: relative;
@@ -127,4 +144,3 @@ body.filetree-note-icon .filename[data-note-icon="player_bw"]::before, body.link
     height: 1em;
     width: 1em;
 }
-
