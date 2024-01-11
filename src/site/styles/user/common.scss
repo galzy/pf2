@@ -77,12 +77,9 @@ body {
             text-indent: -26px;
         }
         div.block-language-dataview {
-            overflow: auto;
             max-height: 10em;
             table {
                 width: 100%;
-                overflow: auto;
-                border-collapse: collapse;
                 margin-block-start: 0;
                 margin-block-end: 1em;
                 thead {
@@ -99,9 +96,7 @@ body {
                     line-height: 18px;
                 }
                 td {
-                    //white-space: nowrap;
-text-wrap: balance;
-white-space-collapse: collapse;
+                    white-space: nowrap;
                     .internal-link::before {
                         display: none;
                     }
