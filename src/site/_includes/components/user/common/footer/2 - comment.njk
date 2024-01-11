@@ -1,3 +1,4 @@
+<script>
 function getGiscusTheme() {
   const siteTheme = window.localStorage.getItem('site-theme');
   const giscusTheme = siteTheme === "alternate" ? "dark" : "light";
@@ -46,3 +47,4 @@ document.addEventListener('DOMContentLoaded', function () {
     toggle.addEventListener('click', setGiscusTheme);
   }
 });
+</script>
