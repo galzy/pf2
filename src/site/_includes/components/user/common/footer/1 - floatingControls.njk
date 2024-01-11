@@ -6,8 +6,8 @@
     </span>
 </aside>
 
-    
 <script>
+     // Set theme icon theme based on input theme
     function setThemeIcon(theme) {
         let toAdd;
         switch (theme) {
@@ -25,6 +25,8 @@
         document.getElementById('theme-switch').classList.add(theme);
         document.getElementById('theme-switch').classList.remove(...toRemove);
     }
+
+    // Set body css theme based on input theme. Also, use setThemeIcon based on input icon
     function setTheme(theme, setIcon) {
         if (setIcon) {
             setThemeIcon(theme);
@@ -41,11 +43,14 @@
         }
         
     }
+
+    // Use existing site-theme value to set theme
     let theme = window.localStorage.getItem('site-theme') || "auto";
     setTheme(theme, true);
     window.theme = theme;
     window.localStorage.setItem('site-theme', theme);
 
+    // Update theme when prefers-color-scheme is changed
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(event) {
         const settings = window.localStorage.getItem('site-theme');
         if (!settings || settings == "auto") {
@@ -53,6 +58,8 @@
             setTheme("auto", true);
         }
     });
+
+    // Update theme when theme switch is clicked
     document.getElementById('theme-switch').addEventListener('click', function() {
         let theme;
         if (window.theme == 'auto') {
