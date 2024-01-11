@@ -224,7 +224,7 @@ body {
                 background-image: url(/img/logo.svg);
                 margin-right: 5px;
                 background-position: bottom;
-                filter: var(--icon-filter);
+                filter: var(--icon-filter) !important;
 
             }
 
