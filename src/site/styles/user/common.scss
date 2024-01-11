@@ -52,7 +52,7 @@ body {
 
         p {
             font-size: 16px;
-            margin-top: 0.25em;
+            margin-block-start: 0.25em;
         }
 
         ul {
@@ -63,7 +63,6 @@ body {
             margin-left: 16px;
             padding-left: 0;
             text-indent: 0;
-            line-highet: 1em;
 
         }
 
@@ -74,7 +73,6 @@ body {
             margin-left: 0;
             padding-left: 16px;
             text-indent: -26px;
-            line-highet: 1em;
 
         }
         div.block-language-dataview {
