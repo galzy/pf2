@@ -99,7 +99,9 @@ body {
                     line-height: 18px;
                 }
                 td {
-                    white-space: nowrap;
+                    //white-space: nowrap;
+text-wrap: balance;
+white-space-collapse: collapse;
                     .internal-link::before {
                         display: none;
                     }
