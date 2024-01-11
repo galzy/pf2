@@ -78,30 +78,27 @@ body {
         }
         div.block-language-dataview {
             max-height: 10em;
-            max-width: 0;
+            white-space: nowrap;
+            overflow-x: auto
             table {
-                max-width: 0;
                 margin-block-start: 0;
                 margin-block-end: 1em;
                 thead {
-                max-width: 0;
                     th {
-                        max-width: 0;
                         position: sticky;
                         top: 0;
                         z-index: 1;
                         background-color: var(--background-color-2);
-                        color: var(--text-color-2);;
+                        color: var(--text-color-2);
                     }
                 }
                 tr {
-                    max-width: 0;
                     height: 26.2px;
                     line-height: 18px;
                 }
                 td {
-                    max-width: 0;
                     white-space: nowrap;
+                    overflow-x: auto
                     .internal-link::before {
                         display: none;
                     }
