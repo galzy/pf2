@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"dgShowLocalGraph":true,"noteIcon":"session","created":"2024-01-04T17:40:30.869+01:00","updated":"2024-01-10T00:17:21.573+01:00"}
+{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"dgShowLocalGraph":true,"noteIcon":"session","created":"2024-01-04T17:40:30.869+01:00","updated":"2024-01-12T01:16:29.465+01:00"}
 ---
 
 | ID | Players                                      |
@@ -46,7 +46,7 @@
 - When we entered, we saw tracks of a single humanoid and some items: A newspaper piece about [[Players/Indigo\|Indigo]]'s father murder, old cutlery, a [[Items/Medallion of confusion\|medallion]] (thin metal chain with a many faceted gem, the size of an an acorn, with odd patterns). [[Players/Doliat Dreameyes\|Doliat]] felt emotions of confusion from it. He put it on and felt very confused. He also forgot why he was there and who were the others. He tried to dispel the effect with his [[Items/Ring of Antimagic\|antimagic ring]] and managed to do it, beating a will DC of probably 40. 
 - There were cultivated edible mushrooms that have been harvested both recently and years ago. We met an old frail elf wearing tattered cloths and covered in "junky sores". He had the air of an upper class upbringing.
 - We cuffed him and asked for his identity. He said his name was Zeligar, but [[Players/Johnra Kcir\|Johnra]] recognized it was actually [[NPCs/Kilgore the Warlock\|Killgore]]. He claimed to have no knowledge about [[NPCs/Kilgore the Warlock\|Killgore]] asked for his chain or [[Players/Indigo\|Indigo]] and got very agitated when he discovered we had his chain. We let him put it on, and he calmed down.
-- We kept going down the cave and came upon cavern with a stream in the middle. [[NPCs/Kilgore the Warlock\|Killgore]] said it led to an [[Lore/Entrances to the Underdark\|entrance to the underdark]] and that a few hours' walk from there was a [[Locations/Unnamed Drow city near Kyonin\|Drow city]], with whom he had traded in the past. There were tracks of a large many-legged creature, as well as ordered tunnels to the underdark.
+- We kept going down the cave and came upon cavern with a stream in the middle. [[NPCs/Kilgore the Warlock\|Killgore]] said it led to an [[Lore/Entrances to the Underdark\|entrance to the underdark]] and that a few hours' walk from there was a [[Locations/Unnamed Drow city\|Drow city]], with whom he had traded in the past. There were tracks of a large many-legged creature, as well as ordered tunnels to the underdark.
 -  We had a full night's rest.
 -  [[Players/Doliat Dreameyes\|Doliat]] felt even better after the first night, but was still recovering. He tried to dispel [[NPCs/Kilgore the Warlock\|Killgore]]'s amnesia but failed.
 - We had a full night's rest.
