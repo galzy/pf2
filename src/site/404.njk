@@ -1,31 +1,33 @@
-
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
     <head>
-        <title>He be dragons</title>
+        <title>Here be dragons</title>
         {%include "components/pageheader.njk"%}
     </head>
-  <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
-    {%include "components/notegrowthhistory.njk"%}
-    {% if settings.dgShowFileTree !== true %}
-      {%include "components/navbar.njk"%}
-    {%else%}
-      {%include "components/filetree.njk"%}
-    {% endif %}
-    {% if settings.dgEnableSearch === true %}
-      {%include "components/searchContainer.njk"%}
-    {% endif %}
-        <div class="content centered">
+    <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
+        {%include "components/notegrowthhistory.njk"%}
+        {% if settings.dgShowFileTree !== true %}
+            {%include "components/navbar.njk"%}
+        {%else%}
+            {%include "components/filetree.njk"%}
+        {% endif %}
+        {% if settings.dgEnableSearch === true %}
+            {%include "components/searchContainer.njk"%}
+        {% endif %}
 
-            {%-if not meta.themeStyle%}
-                <div class="font-bg"> &#x1F60E; </div>
-            {%endif%}
-            <h1>There is nothing here</h1>
-            <p>If you got here from a link, this note is probably not made public</p>
-            <a href="/">Go back home</a>
-        </div>
-    {% for imp in dynamics.index.footer %}
-      {% include imp %}
-    {% endfor %}
+        <main class="content cm-s-obsidian {{contentClasses}}">
+            <div class="content centered">
+
+                {%-if not meta.themeStyle%}
+                    <div class="font-bg"> &#x1F60E; </div>
+                {%endif%}
+                <h1>Here be dragons</h1>
+                <p>This page hasn't been written yet.</p>
+                <a href="/">Go back home</a>
+                    </div>
+        </main>
+        {% for imp in dynamics.common.footer %}
+            {% include imp %}
+        {% endfor %}
     </body>
 </html>
