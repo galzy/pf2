@@ -67,14 +67,15 @@ body {
         }
 
         li.task-list-item {
-            div.list-bullet {
-            }
             list-style-position: outside;
             padding-top: 1.2px;
             padding-bottom: 1.2px;
             margin-left: 0;
             padding-left: 16px;
             text-indent: -26px;
+            input {
+                position-bottom: -0.2em;
+            }
         }
         div.block-language-dataview {
             max-height: 10em;
