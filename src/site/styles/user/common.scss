@@ -223,9 +223,6 @@ body {
                 filter: var(--icon-filter) !important;
 
             }
-@media (max-width: 1000px) {
-                    //width: 2em;
-                }
 
             span {
                 margin-left: 10px;
@@ -359,4 +356,15 @@ body {
         position: fixed;
     }
 }
+
+    .dragon {
+        content: " ";
+        display: block;
+        width: auto;
+        height: 25%;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-image: url(/img/dragon.svg);
+        background-position: center;
+    }
 /* END OF BODY */
