@@ -221,7 +221,6 @@ body {
                 margin-right: 5px;
                 background-position: bottom;
                 filter: var(--icon-filter) !important;
-
             }
 
             span {
@@ -359,12 +358,13 @@ body {
 
     .dragon {
         content: " ";
-        display: block;
+        display: inline-block;
         width: auto;
-        height: 25%;
+        height: 50%;
         background-size: contain;
         background-repeat: no-repeat;
         background-image: url(/img/dragon.svg);
         background-position: center;
+        filter: var(--icon-filter) !important;
     }
 /* END OF BODY */
