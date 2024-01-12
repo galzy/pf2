@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/locations/killgore-s-cave/","tags":["location"],"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-05T18:52:00.592+01:00","updated":"2024-01-10T00:13:51.421+01:00"}
+{"dg-publish":true,"permalink":"/locations/killgore-s-cave/","tags":["location"],"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-05T18:52:00.592+01:00","updated":"2024-01-12T01:16:29.145+01:00"}
 ---
 
-| Type     | In               | Near                                                                                | Aliases |
-| -------- | ---------------- | ----------------------------------------------------------------------------------- | ------- |
-| Location | [[Locations/stinky swamp\|stinky swamp]] | <ul><li>[[Locations/Unnamed Drow city near Kyonin\|Unnamed Drow city near Kyonin]]</li><li>[[Locations/creepy swamp temple\|creepy swamp temple]]</li></ul> | \-      |
+| Type     | In               | Near                                                                    | Aliases |
+| -------- | ---------------- | ----------------------------------------------------------------------- | ------- |
+| Location | [[Locations/stinky swamp\|stinky swamp]] | <ul><li>[[Locations/Unnamed Drow city\|Unnamed Drow city]]</li><li>[[Locations/creepy swamp temple\|creepy swamp temple]]</li></ul> | \-      |
 
 { .block-language-dataview}
 ### First visited
@@ -12,4 +12,4 @@
 ### Appearance
 A cave
 ### Notes
-Full of  cultivated edible mushrooms. Going down it leads to a cavern with a stream in the middle. According to [[NPCs/Kilgore the Warlock\|Killgore]], it is an [[Lore/Entrances to the Underdark\|entrance to the underdark]] and a few hours' walk leads to a [[Locations/Unnamed Drow city near Kyonin\|Drow city]]. There were tracks of a large many-legged creature, as well as ordered tunnels to the underdark
+Full of  cultivated edible mushrooms. Going down it leads to a cavern with a stream in the middle. According to [[NPCs/Kilgore the Warlock\|Killgore]], it is an [[Lore/Entrances to the Underdark\|entrance to the underdark]] and a few hours' walk leads to a [[Locations/Unnamed Drow city\|Drow city]]. There were tracks of a large many-legged creature, as well as ordered tunnels to the underdark
