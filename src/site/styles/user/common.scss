@@ -1,13 +1,15 @@
 body.theme-dark {
     --background-color-1: #262626;
     --background-color-2: #3b3b3b;
-    --icon-filter: invert(80%);
+    --icon-filter-1: invert(80%);
+    --icon-filter-2: invert(80%);
     --text-color-2: #ababab
 }
 body.theme-light {
     --background-color-1: #FFFFFF;
     --background-color-2: #f3f6f4;
-     --icon-filter: invert(60%);
+     --icon-filter-1: invert(60%);
+     --icon-filter-2: invert(20%);
     --text-color-2: #818181
 }
 /* START OF BODY */
@@ -220,7 +222,7 @@ body {
                 background-image: url(/img/logo.svg);
                 margin-right: 5px;
                 background-position: bottom;
-                filter: var(--icon-filter) !important;
+                filter: var(--icon-filter-1) !important;
             }
 
             span {
@@ -357,14 +359,12 @@ body {
 }
 
     .dragon {
-        content: " ";
-        display: inline-block;
+        display: block;
         width: auto;
         height: 50%;
         background-size: contain;
         background-repeat: no-repeat;
-        background-image: url(/img/dragon.svg);
         background-position: center;
-        filter: var(--icon-filter) !important;
+        filter: var(--icon-filter-2) !important;
     }
 /* END OF BODY */
