@@ -60,22 +60,22 @@
 
 { .block-language-dataview}
 ### Locations
-| Name                                                                                                | Type     | In                         | Near                                                       |
-| --------------------------------------------------------------------------------------------------- | -------- | -------------------------- | ---------------------------------------------------------- |
-| [[Locations/Absalom\|Absalom]]                                                                   | City     | \-                         | \-                                                         |
-| [[Locations/creepy swamp temple\|creepy swamp temple]]                                           | Area     | [[Locations/stinky swamp\|stinky swamp]]           | [[Locations/Killgore's cave\|Killgore's cave]]                                        |
-| [[Locations/Greengold\|Greengold]]                                                               | City     | \-                         | [[Locations/Kyonin\|Kyonin]]                                                 |
-| [[Locations/Killgore's cave\|Killgore's cave]]                                                   | Location | [[Locations/stinky swamp\|stinky swamp]]           | [[Locations/Unnamed Drow city near Kyonin\|Unnamed Drow city near Kyonin]], [[Locations/creepy swamp temple\|creepy swamp temple]] |
-| [[Locations/Kyonin\|Kyonin]]                                                                     | Kingdom  | \-                         | [[Locations/stinky swamp\|stinky swamp]]                                           |
-| [[Locations/Leothin mine\|Leothin mine]]                                                         | Location | [[Locations/Tyrant's Grasp\|Tyrant's Grasp]]         | \-                                                         |
-| [[Locations/Malgeave Keep\|Malgeave Keep]]                                                       | Location | \-                         | [[Locations/Greengold\|Greengold]]                                              |
-| [[Locations/Pub near Greengold\|Pub near Greengold]]                                             | Location | \-                         | [[Locations/Greengold\|Greengold]]                                              |
-| [[Locations/stinky swamp\|stinky swamp]]                                                         | Area     | \-                         | [[Locations/Kyonin\|Kyonin]]                                                 |
-| [[Locations/the Precipice\|the Precipice]]                                                       | Quarter  | [[Locations/Absalom\|Absalom]]                | \-                                                         |
-| [[Locations/Tunnels under the good storm giant tribe\|Tunnels under the good storm giant tribe]] | Location | [[Mountains near Absalom\|Mountains near Absalom]] |                                                            |
-| [[Locations/Tyrant's Grasp\|Tyrant's Grasp]]                                                     | Area     | \-                         | [[Locations/Absalom\|Absalom]]                                                |
-| [[Locations/Unnamed Drow city near Kyonin\|Unnamed Drow city near Kyonin]]                       | City     | Underdark                  | [[Locations/Kyonin\|Kyonin]]                                                 |
-| [[Locations/Xian\|Xian]]                                                                         | Kingdom  | \-                         | \-                                                         |
+| Name                                                                  | Type     | In                         | Near                                           |
+| --------------------------------------------------------------------- | -------- | -------------------------- | ---------------------------------------------- |
+| [[Locations/Absalom\|Absalom]]                                     | City     | \-                         | \-                                             |
+| [[Locations/creepy swamp temple\|creepy swamp temple]]             | Area     | [[Locations/stinky swamp\|stinky swamp]]           | [[Locations/Killgore's cave\|Killgore's cave]]                            |
+| [[Locations/Good storm giants tunnels\|Good storm giants tunnels]] | Location | [[Mountains near Absalom\|Mountains near Absalom]] |                                                |
+| [[Locations/Greengold\|Greengold]]                                 | City     | \-                         | [[Locations/Kyonin\|Kyonin]]                                     |
+| [[Locations/Killgore's cave\|Killgore's cave]]                     | Location | [[Locations/stinky swamp\|stinky swamp]]           | [[Locations/Unnamed Drow city\|Unnamed Drow city]], [[Locations/creepy swamp temple\|creepy swamp temple]] |
+| [[Locations/Kyonin\|Kyonin]]                                       | Kingdom  | \-                         | [[Locations/stinky swamp\|stinky swamp]]                               |
+| [[Locations/Leothin mine\|Leothin mine]]                           | Location | [[Locations/Tyrant's Grasp\|Tyrant's Grasp]]         | \-                                             |
+| [[Locations/Malgeave Keep\|Malgeave Keep]]                         | Location | \-                         | [[Locations/Greengold\|Greengold]]                                  |
+| [[Locations/Pub near Greengold\|Pub near Greengold]]               | Location | \-                         | [[Locations/Greengold\|Greengold]]                                  |
+| [[Locations/stinky swamp\|stinky swamp]]                           | Area     | \-                         | [[Locations/Kyonin\|Kyonin]]                                     |
+| [[Locations/the Precipice\|the Precipice]]                         | Quarter  | [[Locations/Absalom\|Absalom]]                | \-                                             |
+| [[Locations/Tyrant's Grasp\|Tyrant's Grasp]]                       | Area     | \-                         | [[Locations/Absalom\|Absalom]]                                    |
+| [[Locations/Unnamed Drow city\|Unnamed Drow city]]                 | City     | Underdark                  | [[Locations/Kyonin\|Kyonin]]                                     |
+| [[Locations/Xian\|Xian]]                                           | Kingdom  | \-                         | \-                                             |
 
 { .block-language-dataview}
 ### Events
