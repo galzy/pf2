@@ -3,6 +3,12 @@
     <head>
         <title>Here be dragons</title>
         {%include "src/site/_includes/components/pageheader.njk"%}
+        {% for imp in dynamics.common.head %}
+            {% include imp %}
+        {% endfor %}
+        {% for imp in dynamics.index.head %}
+            {% include imp %}
+        {% endfor %}
     </head>
     <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
         {% if allSettings.dgShowFileTree !== true %}
@@ -13,8 +19,21 @@
         {% if allSettings.dgEnableSearch === true %}
             {%include "src/site/_includes/components/searchContainer.njk"%}
         {% endif %}
-
         <main class="content cm-s-obsidian {{contentClasses}}">
+            <header>
+                {% for imp in dynamics.common.header %}
+                    {% include imp %}
+                {% endfor %}
+                {% for imp in dynamics.index.header %}
+                    {% include imp %}
+                {% endfor %}
+            </header>
+            {% for imp in dynamics.common.beforeContent %}
+                {% include imp %}
+            {% endfor %}
+            {% for imp in dynamics.index.beforeContent %}
+                {% include imp %}
+            {% endfor %}
             <div class="content centered">
                 {%-if not meta.themeStyle%}
                     <div class="font-bg"> &#x1F60E; </div>
