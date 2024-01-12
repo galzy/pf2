@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","tags":["session"],"dgShowLocalGraph":true,"noteIcon":"session","created":"2023-12-28T17:45:59.809+01:00","updated":"2024-01-10T00:17:16.045+01:00"}
+{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","tags":["session"],"dgShowLocalGraph":true,"noteIcon":"session","created":"2023-12-28T17:45:59.809+01:00","updated":"2024-01-12T14:43:02.884+01:00"}
 ---
 
 | ID | Players               |
@@ -12,7 +12,7 @@ TBD
 ### Summary
 - [[Players/Doliat Dreameyes\|Doliat]] researched the items we stole from [[NPCs/Twinkle\|Twinkle]]:  [[Items/Vallmozon's infernal coin\|Vallmozon's infernal coin]] and [[Items/Two sterile scrolls\|Two sterile scrolls]]
 - [[Players/Ron Mhuilinn\|Ron]] decided to investigate the source of [[Players/Doliat Dreameyes\|Doliat]]'s power. He couldn't tell anything special about them, expect that he hasn't seen anything overtly evil.
-- On the way to the cave where the [[NPCs/Kilgore the Warlock\|Kilgore the Warlock]] is hiding, we fought more [[Groups/MUSN\|MUSN]]s. A few escaped.
+- On the way to the cave where  [[NPCs/Kilgore the Warlock\|Killgore]] is hiding, we fought more [[Groups/MUSN\|MUSN]]s. A few escaped.
 - It turned out there are two MUSN camps, with the path to the cave being between them. 
 - We detoured around one of them and saw a [[Locations/creepy swamp temple\|creepy temple]] where humanoid sacrifice take place.
 - When [[Players/Doliat Dreameyes\|Doliat]] stepped unto the temple platform ​he was contacted by an unseen voice. It seemed to expect a sacrifice and when Doliat panicked and ran away, it tried to stop him. A huge blue lighting struck the temple and he had to fight off a mental effect to escape.
