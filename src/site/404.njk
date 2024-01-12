@@ -2,16 +2,16 @@
 <html lang="{{ meta.mainLanguage }}">
     <head>
         <title>Here be dragons</title>
-        {%include "components/pageheader.njk"%}
+        {%include "src/site/_includes/components/pageheader.njk"%}
     </head>
     <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {{meta.bodyClasses}}">
         {% if allSettings.dgShowFileTree !== true %}
-            {%include "components/navbar.njk"%}
+            {%include "src/site/_includes/components/navbar.njk"%}
         {%else%}
-            {%include "components/filetree.njk"%}
+            {%include "src/site/_includes/components/filetree.njk"%}
         {% endif %}
         {% if allSettings.dgEnableSearch === true %}
-            {%include "components/searchContainer.njk"%}
+            {%include "src/site/_includes/components/searchContainer.njk"%}
         {% endif %}
 
         <main class="content cm-s-obsidian {{contentClasses}}">
