@@ -5,6 +5,7 @@ eleventyExcludeFromCollections: true
 <!DOCTYPE html>
 <html lang="{{ meta.mainLanguage }}">
     <head>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
         <title>Here be dragons</title>
         {%include "src/site/_includes/components/pageheader.njk"%}
         {% for imp in dynamics.common.head %}
@@ -40,8 +41,8 @@ eleventyExcludeFromCollections: true
             {% endfor %}
 
             <div class="content centered">
+                <h1 class="centered font-fancy">Here be dragons</h1>
                 <img class="dragon centered" src="/img/dragon.svg" alt="Dragon">
-                <h1 class="centered">Here be dragons</h1>
                 <p class="centered">This page hasn't been written yet.</p>
                 <a class="centered" href="/">Go back home</a>
             </div>

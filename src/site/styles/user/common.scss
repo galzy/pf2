@@ -1,3 +1,6 @@
+@import 'https://fonts.googleapis.com/css?family=UnifrakturMaguntia:400';
+@import 'https://fonts.googleapis.com/css?family=Luckiest+Guy:400';
+
 body.theme-dark {
     --background-color-1: #262626;
     --background-color-2: #3b3b3b;
@@ -360,11 +363,17 @@ body {
 
     .dragon {
         display: block;
-        width: auto;
-        height: 50%;
+        width: 50%;
+        height: auto;
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
         filter: var(--icon-filter-2) !important;
+    }
+    .font-fancy {
+        font-family: "UnifrakturMaguntia", serif;
+    }
+    .font-loud {
+        font-family: "Luckiest+Guy", serif;
     }
 /* END OF BODY */
