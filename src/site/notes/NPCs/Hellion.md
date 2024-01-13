@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/hellion/","tags":["npc"],"dgShowLocalGraph":true,"noteIcon":"npc","created":"2024-01-06T00:57:05.456+01:00","updated":"2024-01-10T00:15:47.681+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/hellion/","tags":["npc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"npc","created":"2024-01-06T00:57:05.456+01:00","updated":"2024-01-13T10:23:56.991+01:00"}
 ---
 
 | Status | Attitude | Race      | Groups                     | Aliases |
