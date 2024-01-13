@@ -12,4 +12,4 @@ TBD
 ### Appearance
 TBD
 ### Notes
-Lives in [[Locations/Absalom\|Absalom]]. Leader of the [[Groups/Absalom mafia\|Absalom mafia]]
+Lives in [[Absalom\|Absalom]]. Leader of the [[Groups/Absalom mafia\|Absalom mafia]]
