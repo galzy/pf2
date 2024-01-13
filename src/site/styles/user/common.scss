@@ -362,36 +362,8 @@ body {
 
     .dragon {
         display: block;
-        font-size: 1.5em !important;
+        font-size: 2em !important;
         text-position: center;
         font-family: "MedievalSharp", serif !important;
     }
-    .dragon::before {
-        content: " ";
-        display: inline-block;
-        height: 1.5em;
-        width: 1.5em;
-        margin: 0;
-        padding: 0;
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-image: url(/img/dragon.svg);
-        background-position: bottom;
-        filter: var(--icon-filter-2) !important;
-    }
-    .dragon::after {
-        content: " ";
-        display: inline-block;
-        height: 1.5em;
-        width: 1.5em;
-        margin: 0;
-        padding: 0;
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-image: url(/img/dragon.svg);
-        background-position: bottom;
-        filter: var(--icon-filter-2) !important;
-    }
-
-
 /* END OF BODY */
