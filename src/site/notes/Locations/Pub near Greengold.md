@@ -4,7 +4,7 @@
 
 | Type     | In | Near                            | Aliases |
 | -------- | -- | ------------------------------- | ------- |
-| Location | \- | <ul><li>[[Locations/Greengold\|Greengold]]</li></ul> | \-      |
+| Location | \- | <ul><li>[[Greengold\|Greengold]]</li></ul> | \-      |
 
 { .block-language-dataview}
 ### First visited
