@@ -363,11 +363,12 @@ body {
     .dragon {
         display: block;
         text-position: center;
+        font-size: 1.5em;
         font-family: "UnifrakturMaguntia", serif !important;
     }
 
     .drgaon::before {
-      background-image: url(/img/pc.svg);
+        content: " ";
         position: relative;
         width: 1em;
         height: 1.2em;
