@@ -4,7 +4,7 @@
 
 | Bearer                       | Aliases |
 | ---------------------------- | ------- |
-| [[Players/Doliat Dreameyes\|Doliat]] | \-      |
+| [[PCs/Doliat Dreameyes\|Doliat]] | \-      |
 
 { .block-language-dataview}
 ### Found at
