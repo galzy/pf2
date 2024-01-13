@@ -4,7 +4,7 @@
 
 | Type     | In               | Near                                                                    | Aliases |
 | -------- | ---------------- | ----------------------------------------------------------------------- | ------- |
-| Location | [[Locations/stinky swamp\|stinky swamp]] | <ul><li>[[Locations/Unnamed Drow city\|Unnamed Drow city]]</li><li>[[Locations/creepy swamp temple\|creepy swamp temple]]</li></ul> | \-      |
+| Location | [[stinky swamp\|stinky swamp]] | <ul><li>[[Locations/Unnamed Drow city\|Unnamed Drow city]]</li><li>[[Locations/creepy swamp temple\|creepy swamp temple]]</li></ul> | \-      |
 
 { .block-language-dataview}
 ### First visited
