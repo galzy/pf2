@@ -4,7 +4,7 @@
 
 | Status | Attitude | Race | Groups           | Aliases |
 | ------ | -------- | ---- | ---------------- | ------- |
-| Alive  | Friendly | Elf  | [[Groups/Kyonin elves\|Kyonin elves]] | \-      |
+| Alive  | Friendly | Elf  | [[Kyonin elves\|Kyonin elves]] | \-      |
 
 { .block-language-dataview}
 ### First met
@@ -12,4 +12,4 @@ At the party after we won the [[Events/Xian - Absalom Conflict\|Xian - Absalom C
 ### Appearance
 Fancy
 ### Notes
-Ambassador of [[Groups/Kyonin elves\|Kyonin elves]] to [[Locations/Absalom\|Absalom]]
+Ambassador of [[Kyonin elves\|Kyonin elves]] to [[Absalom\|Absalom]]
