@@ -4,7 +4,7 @@
 
 | Type     | In                 | Near | Aliases |
 | -------- | ------------------ | ---- | ------- |
-| Location | [[Locations/Tyrant's Grasp\|Tyrant's Grasp]] | \-   | \-      |
+| Location | [[Tyrant's Grasp\|Tyrant's Grasp]] | \-   | \-      |
 
 { .block-language-dataview}
 ### First visited
