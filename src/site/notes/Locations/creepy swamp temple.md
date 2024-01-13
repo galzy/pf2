@@ -4,7 +4,7 @@
 
 | Type | In               | Near                | Aliases |
 | ---- | ---------------- | ------------------- | ------- |
-| Area | [[Locations/stinky swamp\|stinky swamp]] | [[Locations/Killgore's cave\|Killgore's cave]] | \-      |
+| Area | [[stinky swamp\|stinky swamp]] | [[Locations/Killgore's cave\|Killgore's cave]] | \-      |
 
 { .block-language-dataview}
 ### First visited
