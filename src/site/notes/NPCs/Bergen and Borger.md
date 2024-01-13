@@ -8,8 +8,8 @@
 
 { .block-language-dataview}
 ### First met
-When we first arrived at [[Locations/Absalom\|Absalom]]
+When we first arrived at [[Absalom\|Absalom]]
 ### Appearance
 Two dwarfs
 ### Notes
-They helped [[Groups/Xian Ninja Army\|Xian Ninja Army]] buy properties in [[Locations/Absalom\|Absalom]], so they could invade through tunnels. They escaped [[Locations/Absalom\|Absalom]] before [[Events/Xian - Absalom Conflict\|the attack]]  took place.
+They helped [[Groups/Xian Ninja Army\|Xian Ninja Army]] buy properties in [[Absalom\|Absalom]], so they could invade through tunnels. They escaped [[Absalom\|Absalom]] before [[Events/Xian - Absalom Conflict\|the attack]]  took place.
