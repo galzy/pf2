@@ -8,7 +8,7 @@
 
 { .block-language-dataview}
 ### Found at
-Purchased at [[Locations/Greengold\|Greengold]] during the search for [[NPCs/Kilgore the Warlock\|Killgore]]
+Purchased at [[Greengold\|Greengold]] during the search for [[NPCs/Kilgore the Warlock\|Killgore]]
 ### Appearance
 A simple gold ring
 ### Notes
