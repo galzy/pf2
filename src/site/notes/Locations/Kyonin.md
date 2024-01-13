@@ -12,4 +12,4 @@ TBD
 ### Appearance
 Forest
 ### Notes
-The Forbidden Realm of the [[Groups/Kyonin elves\|Kyonin elves]]. There is a gateway to the planet of the elves there
+The Forbidden Realm of the [[Kyonin elves\|Kyonin elves]]. There is a gateway to the planet of the elves there
