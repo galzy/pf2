@@ -361,29 +361,33 @@ body {
 }
 
     .dragon {
-        display: block;
         font-size: 1.5em !important;
         text-position: center;
         font-family: "UnifrakturMaguntia", serif !important;
         ::before {
-            content: "";
+            content: " ";
             display: inline-block !important;
             height: 1em;
             width: 1em;
-            padding-right: 0.5em
+            padding-right: 1em;
+            padding-bottom: 0.5em;
             background-size: contain;
             background-repeat: no-repeat;
             background-image: url(/img/dragon.svg);
+            background-position: center;
         }
         ::after {
-            content: "";
+            content: " ";
             display: inline-block !important;
             height: 1em;
             width: 1em;
-            padding-left: 0.5em;
+            padding-left: 1em;
+            padding-bottom: 0.5em;
             background-size: contain;
             background-repeat: no-repeat;
             background-image: url(/img/dragon.svg);
+            background-position: center;
+
         }
     }
 
