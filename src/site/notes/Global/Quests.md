@@ -21,7 +21,7 @@
 - [ ] [[Female xian general\|Female xian general]]
 ### Big Trouble in Little Kyonin
 - [ ] Investigate the [[Forest Corruption\|Forest Corruption]] of [[Locations/Kyonin\|Kyonin]]
-### Necromancer near [[Locations/Absalom\|Absalom]] ruins
+### Necromancer near [[Absalom\|Absalom]] ruins
 - TBD
 
 # Loose Ends
