@@ -4,7 +4,7 @@
 
 | HQ                | Aliases |
 | ----------------- | ------- |
-| [[Locations/the Precipice\|the Precipice]] | \-      |
+| [[the Precipice\|the Precipice]] | \-      |
 
 { .block-language-dataview}
 ### First met
