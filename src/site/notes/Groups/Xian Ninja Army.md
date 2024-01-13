@@ -4,7 +4,7 @@
 
 | HQ       | Aliases |
 | -------- | ------- |
-| [[Locations/Xian\|Xian]] | \-      |
+| [[Xian\|Xian]] | \-      |
 
 { .block-language-dataview}
 ### First met
@@ -12,4 +12,4 @@ During the [[Events/Xian - Absalom Conflict\|Xian - Absalom Conflict]]
 ### Notes
 Assholes
 Scary ninjas
-Probably from [[Locations/Xian\|Xian]]
+Probably from [[Xian\|Xian]]
