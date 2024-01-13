@@ -369,10 +369,12 @@ body {
 
     .dragon::after {
         content: "";
+        height: 1em;
+        width: 1em;
         background-size: contain;
         background-repeat: no-repeat;
         background-image: url(/img/dragon.svg);
-        display: block;
+
     }
 
 /* END OF BODY */
