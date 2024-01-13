@@ -127,8 +127,8 @@ body.filetree-note-icon .filename[data-note-icon="npc_bw"]::before, body.links-n
     margin-right: 1px;
 }
 
-body.filetree-note-icon .filename[data-note-icon="player"]::before, body.links-note-icon .internal-link[data-note-icon="player"]::before, body.backlinks-note-icon .backlink[data-note-icon="player"]::before {
-  background-image: url(/img/player.svg);
+body.filetree-note-icon .filename[data-note-icon="pc"]::before, body.links-note-icon .internal-link[data-note-icon="pc"]::before, body.backlinks-note-icon .backlink[data-note-icon="pc"]::before {
+  background-image: url(/img/pc.svg);
     position: relative;
     top: .125em;
     flex-shrink: 0;
@@ -136,8 +136,8 @@ body.filetree-note-icon .filename[data-note-icon="player"]::before, body.links-n
     width: 1em;
 }
 
-body.filetree-note-icon .filename[data-note-icon="player_bw"]::before, body.links-note-icon .internal-link[data-note-icon="player_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="player_bw"]::before {
-  background-image: url(/img/player_bw.svg);
+body.filetree-note-icon .filename[data-note-icon="pc_bw"]::before, body.links-note-icon .internal-link[data-note-icon="pc_bw"]::before, body.backlinks-note-icon .backlink[data-note-icon="pc_bw"]::before {
+  background-image: url(/img/pc_bw.svg);
     position: relative;
     top: .125em;
     flex-shrink: 0;
