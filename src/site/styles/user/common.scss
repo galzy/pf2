@@ -360,22 +360,22 @@ body {
     }
 }
 
-    h1.dragon {
+    .dragon {
         display: block;
         text-position: center;
         font-family: "UnifrakturMaguntia", serif !important;
-            ::before {
-                content: " ";
-                display: inline-block;
-                width: 1em;
-                height: 1.2em;
-                background-size: contain;
-                background-repeat: no-repeat;
-                background-image: url(/img/dragon.svg);
-                padding-right: 2px;
-                padding-left: 2px;
-                background-position: bottom;
-                filter: var(--icon-filter-2) !important;
+        h1::before {
+            content: " ";
+            display: inline-block;
+            width: 1em;
+            height: 1.2em;
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-image: url(/img/dragon.svg);
+            padding-right: 2px;
+            padding-left: 2px;
+            background-position: bottom;
+            filter: var(--icon-filter-2) !important;
             }
     }
 /* END OF BODY */
