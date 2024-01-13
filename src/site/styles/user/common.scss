@@ -359,24 +359,19 @@ body {
         position: fixed;
     }
 }
-/* END OF BODY */
-.dragon {
-    display: block;
-    text-position: center !important;
-    font-size: 1.5em !important;
-    font-family: "UnifrakturMaguntia", serif !important;
-}
 
-.drgaon::before {
-    content: " " !important;
-    display: inline-block !important;
-    width: 1em!important;
-    height: 1.2em!important;
-    background-size: contain!important;
-    background-repeat: no-repeat!important;
-    background-image: url(/img/dragon.svg) !important;
-    padding-right: 2px!important;
-    padding-left: 2px!important;
-    background-position: center !important;
-    filter: var(--icon-filter-2) !important;
-}
+    .dragon {
+        display: block;
+        font-size: 1.5em !important;
+        text-position: center;
+        font-family: "UnifrakturMaguntia", serif !important;
+    }
+
+    .dragon::before {
+        content: "";
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-image: url(/img/dragon.svg);
+    }
+
+/* END OF BODY */
