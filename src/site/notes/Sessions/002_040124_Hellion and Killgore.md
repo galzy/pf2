@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"session","created":"2024-01-04T17:40:30.869+01:00","updated":"2024-01-13T16:37:29.325+01:00"}
+{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"session","created":"2024-01-04T17:40:30.869+01:00","updated":"2024-01-13T16:51:06.036+01:00"}
 ---
 
-| ID | Players                                      |
-| -- | -------------------------------------------- |
-| 2  | Rotem, Gal, Yarden, Dima, Itamar, Eldad, Uri |
+| Players                                      |
+| -------------------------------------------- |
+| Rotem, Gal, Yarden, Dima, Itamar, Eldad, Uri |
 
 { .block-language-dataview}
 ### Recap of the last session
