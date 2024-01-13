@@ -14,4 +14,4 @@ Old frail drow wearing tattered cloths and covered in "junky sores". Had the air
 
 ### Notes
 TBD
-Lived at [[Locations/Malgeave Keep\|Malgeave Keep]] and later at [[Locations/Killgore's cave\|Killgore's cave]].
+Lived at [[Malgeave Keep\|Malgeave Keep]] and later at [[Locations/Killgore's cave\|Killgore's cave]].
