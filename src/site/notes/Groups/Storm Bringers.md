@@ -4,7 +4,7 @@
 
 | HQ          | Aliases |
 | ----------- | ------- |
-| [[Locations/Absalom\|Absalom]] | \-      |
+| [[Absalom\|Absalom]] | \-      |
 
 { .block-language-dataview}
 #### Members
