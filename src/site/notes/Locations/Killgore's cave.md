@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/killgore-s-cave/","tags":["location"],"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-05T18:52:00.592+01:00","updated":"2024-01-12T01:16:29.145+01:00"}
+{"dg-publish":true,"permalink":"/locations/killgore-s-cave/","tags":["location"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-05T18:52:00.592+01:00","updated":"2024-01-13T10:23:48.617+01:00"}
 ---
 
 | Type     | In               | Near                                                                    | Aliases |
