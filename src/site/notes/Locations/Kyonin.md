@@ -4,7 +4,7 @@
 
 | Type    | In | Near             | Aliases |
 | ------- | -- | ---------------- | ------- |
-| Kingdom | \- | [[Locations/stinky swamp\|stinky swamp]] | \-      |
+| Kingdom | \- | [[stinky swamp\|stinky swamp]] | \-      |
 
 { .block-language-dataview}
 ### First visited
