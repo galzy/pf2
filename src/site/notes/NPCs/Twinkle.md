@@ -8,7 +8,7 @@
 
 { .block-language-dataview}
 ### First met
-On the ship to [[Locations/Absalom\|Absalom]] when we first arrived.
+On the ship to [[Absalom\|Absalom]] when we first arrived.
 ### Appearance
 Halfling
 ### Notes
