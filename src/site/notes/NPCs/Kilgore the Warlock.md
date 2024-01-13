@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/kilgore-the-warlock/","tags":["npc"],"dgShowLocalGraph":true,"noteIcon":"npc","created":"2023-12-30T13:30:12.413+01:00","updated":"2024-01-10T00:15:52.605+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/kilgore-the-warlock/","tags":["npc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"npc","created":"2023-12-30T13:30:12.413+01:00","updated":"2024-01-13T10:23:56.600+01:00"}
 ---
 
 | Status | Attitude | Race | Groups           | Aliases           |
