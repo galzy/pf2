@@ -367,7 +367,7 @@ body {
         font-family: "UnifrakturMaguntia", serif !important;
         ::before {
             content: "";
-            display: inline-block;
+            display: inline-block !important;
             height: 1em;
             width: 1em;
             padding-right: 0.5em
@@ -377,10 +377,10 @@ body {
         }
         ::after {
             content: "";
-            display: inline-block;
+            display: inline-block !important;
             height: 1em;
             width: 1em;
-            padding-left    : 0.5em
+            padding-left: 0.5em
             background-size: contain;
             background-repeat: no-repeat;
             background-image: url(/img/dragon.svg);
