@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-13T16:36:59.181+01:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-13T16:36:59.181+01:00"}
 ---
 
 # [[Global/Quests\|Quests]]
@@ -41,36 +41,29 @@
 
 { .block-language-dataview}
 ### Groups
-| Name                                                           | HQ                      |
-| -------------------------------------------------------------- | ----------------------- |
-| [[Groups/Absalom city council\|Absalom city council]]       | [[Locations/Absalom\|Absalom]]             |
-| [[Groups/Absalom mafia\|Absalom mafia]]                     | [[Locations/the Precipice\|the Precipice]]       |
-| [[Groups/Demon family\|Demon family]]                       | \-                      |
-| [[Groups/Good storm giants tribe\|Good storm giants tribe]] | [[storm giant area\|storm giant area]]    |
-| [[Groups/Kyonin elves\|Kyonin elves]]                       | [[Locations/Kyonin\|Kyonin]]              |
-| [[Groups/MUSN\|MUSN]]                                       | [[Locations/creepy swamp temple\|creepy swamp temple]] |
-| [[Groups/Pathfinder Society\|Pathfinder Society]]           | [[Locations/Absalom\|Absalom]]             |
-| [[Groups/Storm Bringers\|Storm Bringers]]                   | [[Locations/Absalom\|Absalom]]             |
-| [[Groups/Xian Ninja Army\|Xian Ninja Army]]                 | [[Locations/Xian\|Xian]]                |
+| Name                                                     | HQ                      |
+| -------------------------------------------------------- | ----------------------- |
+| [[Groups/Absalom city council\|Absalom city council]] | [[Locations/Absalom\|Absalom]]             |
+| [[Groups/Absalom mafia\|Absalom mafia]]               | [[the Precipice\|the Precipice]]       |
+| [[Groups/Demon family\|Demon family]]                 | \-                      |
+| [[Groups/Kyonin elves\|Kyonin elves]]                 | [[Locations/Kyonin\|Kyonin]]              |
+| [[Groups/MUSN\|MUSN]]                                 | [[Locations/creepy swamp temple\|creepy swamp temple]] |
+| [[Groups/Pathfinder Society\|Pathfinder Society]]     | [[Locations/Absalom\|Absalom]]             |
+| [[Groups/Storm Bringers\|Storm Bringers]]             | [[Locations/Absalom\|Absalom]]             |
+| [[Groups/Xian Ninja Army\|Xian Ninja Army]]           | [[Xian\|Xian]]                |
 
 { .block-language-dataview}
 ### Locations
 | Name                                                                  | Type     | In                         | Near                                           |
 | --------------------------------------------------------------------- | -------- | -------------------------- | ---------------------------------------------- |
 | [[Locations/Absalom\|Absalom]]                                     | City     | \-                         | \-                                             |
-| [[Locations/creepy swamp temple\|creepy swamp temple]]             | Area     | [[Locations/stinky swamp\|stinky swamp]]           | [[Locations/Killgore's cave\|Killgore's cave]]                            |
+| [[Locations/creepy swamp temple\|creepy swamp temple]]             | Area     | [[stinky swamp\|stinky swamp]]           | [[Locations/Killgore's cave\|Killgore's cave]]                            |
 | [[Locations/Good storm giants tunnels\|Good storm giants tunnels]] | Location | [[Mountains near Absalom\|Mountains near Absalom]] |                                                |
-| [[Locations/Greengold\|Greengold]]                                 | City     | \-                         | [[Locations/Kyonin\|Kyonin]]                                     |
-| [[Locations/Killgore's cave\|Killgore's cave]]                     | Location | [[Locations/stinky swamp\|stinky swamp]]           | [[Locations/Unnamed Drow city\|Unnamed Drow city]], [[Locations/creepy swamp temple\|creepy swamp temple]] |
-| [[Locations/Kyonin\|Kyonin]]                                       | Kingdom  | \-                         | [[Locations/stinky swamp\|stinky swamp]]                               |
-| [[Locations/Leothin mine\|Leothin mine]]                           | Location | [[Locations/Tyrant's Grasp\|Tyrant's Grasp]]         | \-                                             |
-| [[Locations/Malgeave Keep\|Malgeave Keep]]                         | Location | \-                         | [[Locations/Greengold\|Greengold]]                                  |
-| [[Locations/Pub near Greengold\|Pub near Greengold]]               | Location | \-                         | [[Locations/Greengold\|Greengold]]                                  |
-| [[Locations/stinky swamp\|stinky swamp]]                           | Area     | \-                         | [[Locations/Kyonin\|Kyonin]]                                     |
-| [[Locations/the Precipice\|the Precipice]]                         | Quarter  | [[Locations/Absalom\|Absalom]]                | \-                                             |
-| [[Locations/Tyrant's Grasp\|Tyrant's Grasp]]                       | Area     | \-                         | [[Locations/Absalom\|Absalom]]                                    |
+| [[Locations/Killgore's cave\|Killgore's cave]]                     | Location | [[stinky swamp\|stinky swamp]]           | [[Locations/Unnamed Drow city\|Unnamed Drow city]], [[Locations/creepy swamp temple\|creepy swamp temple]] |
+| [[Locations/Kyonin\|Kyonin]]                                       | Kingdom  | \-                         | [[stinky swamp\|stinky swamp]]                               |
+| [[Locations/Leothin mine\|Leothin mine]]                           | Location | [[Tyrant's Grasp\|Tyrant's Grasp]]         | \-                                             |
+| [[Locations/Pub near Greengold\|Pub near Greengold]]               | Location | \-                         | [[Greengold\|Greengold]]                                  |
 | [[Locations/Unnamed Drow city\|Unnamed Drow city]]                 | City     | Underdark                  | [[Locations/Kyonin\|Kyonin]]                                     |
-| [[Locations/Xian\|Xian]]                                           | Kingdom  | \-                         | \-                                             |
 
 { .block-language-dataview}
 ### Events
