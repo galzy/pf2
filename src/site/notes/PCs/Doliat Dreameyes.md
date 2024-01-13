@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-13T17:46:08.709+01:00"}
+{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-13T17:48:56.137+01:00"}
 ---
 
 ### Appearance
@@ -11,9 +11,9 @@ Doliat is calm and sociable. His easy-going nature is evident in the warm and ge
 Doliat’s main vice is his absolute conviction that he is following some sort of guidance. It can grow tiresome after a while. It is almost impossible to convince him that he is wrong about something if he believes he was guided to do it. He enjoys meditation and lengthy discussions about philosophy, specifically metaphysics, epistemology, the philosophy of mind, and fate.
 
 ### Ethos
-Doliat believes in the profound interconnectedness of all things. He usually relies on his premonitions and hunches to guide him in life. Because his desires so often become reality (in the form of his powers), he knows he is in tune with something greater than himself. While he doesn’t understand the nature of the force that guides him, he knows it exists and that this force is helping him shape destiny itself for the better.
+Doliat believes in the profound interconnectedness of all things. He usually relies on his premonitions and hunches to guide him in life. Because his desires so often become reality (in the form of his powers), he knows he is in tune with something greater than himself. While he doesn’t understand the nature of the force that guides him, he knows it is helping him shape destiny itself for the better.
 
-While Doliat would like to return home one day, he is utterly devoted to fulfilling his destiny. He would do almost anything if he felt guided to do so. The only thing he truly fears is being unable to fulfill his perceived destiny.
+While Doliat would like to return home one day, he is utterly devoted to fulfilling his destiny. He would do almost anything if he felt guided to do so. The only thing he truly fears is being unable to fulfill his destiny.
 
 ### Birth and Family
 Birthdate - 12 Desnus, 4699
@@ -28,4 +28,4 @@ As Doliat matured, he discovered his abilities, which allowed him to manifest hi
 
 At age twenty, Doliat was overcome by a powerful belief that staying in Fadil would bring doom to his family and the village. Trusting the guidance he had come to rely on, Doliat quietly left his home and embarked on a journey to...........
 
-As the years passed, Doliat felt a compelling certainty that his true destiny still awaited him. He became convinced that he must find a group of individuals in the[[Mountains near Absalom\|mountains near Absalom]] to fulfill his mission. 
+As the years passed, Doliat felt a compelling certainty that his true destiny still awaited him. He became convinced that he must find a group of individuals in the [[Mountains near Absalom\|mountains near Absalom]] to fulfill his mission. 
