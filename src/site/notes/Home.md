@@ -2,14 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-10T15:07:25.381+01:00"}
 ---
 
-
-
-
-
-## [[Global/Quests\|Quests]]
-## [[Global/Map\|Map]]
-## [Website](https://pf2gal.vercel.app)
-### Sessions
+# Sessions
 | Name                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sessions/002_040124_Hellion and Killgore\|002_040124_Hellion and Killgore]]                                                                     |
