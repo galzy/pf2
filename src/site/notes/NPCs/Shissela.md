@@ -12,4 +12,4 @@ Never
 ### Appearance
 TBD
 ### Notes
-Mother of [[Players/Indigo\|Indigo]]. Former member of [[Groups/Demon family\|Demon family]]
+Mother of [[PCs/Indigo\|Indigo]]. Former member of [[Groups/Demon family\|Demon family]]
