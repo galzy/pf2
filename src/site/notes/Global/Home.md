@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-13T11:42:46.275+01:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-13T14:06:19.823+01:00"}
 ---
 
 # [[Global/Quests\|Quests]]
@@ -12,16 +12,16 @@
 
 { .block-language-dataview}
 ### Items
-| Name                                                                    | Bearer                                  |
-| ----------------------------------------------------------------------- | --------------------------------------- |
-| [[Items/Drape of lost souls\|Drape of lost souls]]                   | [[Players/Doliat Dreameyes\|Doliat]] |
-| [[Items/Key to the Temple of Tiamat\|Key to the Temple of Tiamat]]   | It's complicated                        |
-| [[Items/Killgore's key\|Killgore's key]]                             | [[Players/Indigo\|Indigo]]           |
-| [[Items/Killgore's two magical rings\|Killgore's two magical rings]] | [[Players/Indigo\|Indigo]]           |
-| [[Items/Medallion of confusion\|Medallion of confusion]]             | [[Players/Johnra Kcir\|Johnra]]      |
-| [[Items/Ring of Antimagic\|Ring of Antimagic]]                       | [[Players/Doliat Dreameyes\|Doliat]] |
-| [[Items/Two sterile scrolls\|Two sterile scrolls]]                   | [[Players/Doliat Dreameyes\|Doliat]] |
-| [[Items/Vallmozon's infernal coin\|Vallmozon's infernal coin]]       | [[Players/Doliat Dreameyes\|Doliat]] |
+| Name                                                                    | Bearer                              |
+| ----------------------------------------------------------------------- | ----------------------------------- |
+| [[Items/Drape of lost souls\|Drape of lost souls]]                   | [[PCs/Doliat Dreameyes\|Doliat]] |
+| [[Items/Key to the Temple of Tiamat\|Key to the Temple of Tiamat]]   | It's complicated                    |
+| [[Items/Killgore's key\|Killgore's key]]                             | [[PCs/Indigo\|Indigo]]           |
+| [[Items/Killgore's two magical rings\|Killgore's two magical rings]] | [[PCs/Indigo\|Indigo]]           |
+| [[Items/Medallion of confusion\|Medallion of confusion]]             | [[PCs/Johnra Kcir\|Johnra]]      |
+| [[Items/Ring of Antimagic\|Ring of Antimagic]]                       | [[PCs/Doliat Dreameyes\|Doliat]] |
+| [[Items/Two sterile scrolls\|Two sterile scrolls]]                   | [[PCs/Doliat Dreameyes\|Doliat]] |
+| [[Items/Vallmozon's infernal coin\|Vallmozon's infernal coin]]       | [[PCs/Doliat Dreameyes\|Doliat]] |
 
 { .block-language-dataview}
 ### NPCs
@@ -88,14 +88,14 @@
 | [[Lore/Leothin\|Leothin]]                                       |
 
 { .block-language-dataview}
-### Players
-| Name                                              |
-| ------------------------------------------------- |
-| [[Players/Dio Stargazer\|Dio Stargazer]]       |
-| [[Players/Doliat Dreameyes\|Doliat Dreameyes]] |
-| [[Players/Indigo\|Indigo]]                     |
-| [[Players/Johnra Kcir\|Johnra Kcir]]           |
-| [[Players/Ron Mhuilinn\|Ron Mhuilinn]]         |
-| [[Players/Talion\|Talion]]                     |
+### PCs
+| Name                                          |
+| --------------------------------------------- |
+| [[PCs/Dio Stargazer\|Dio Stargazer]]       |
+| [[PCs/Doliat Dreameyes\|Doliat Dreameyes]] |
+| [[PCs/Indigo\|Indigo]]                     |
+| [[PCs/Johnra Kcir\|Johnra Kcir]]           |
+| [[PCs/Ron Mhuilinn\|Ron Mhuilinn]]         |
+| [[PCs/Talion\|Talion]]                     |
 
 { .block-language-dataview}
