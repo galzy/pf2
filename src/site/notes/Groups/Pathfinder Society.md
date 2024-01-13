@@ -4,10 +4,10 @@
 
 | HQ          | Aliases |
 | ----------- | ------- |
-| [[Locations/Absalom\|Absalom]] | \-      |
+| [[Absalom\|Absalom]] | \-      |
 
 { .block-language-dataview}
 ### First met
-When we joined their tournament in [[Locations/Absalom\|Absalom]] 
+When we joined their tournament in [[Absalom\|Absalom]] 
 ### Notes
 A globe-spanning organization whose membership consists primarily of adventurers.
