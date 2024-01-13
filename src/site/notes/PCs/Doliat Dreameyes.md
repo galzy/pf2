@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-13T17:40:36.773+01:00"}
+{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-13T17:46:08.709+01:00"}
 ---
 
 ### Appearance
@@ -28,4 +28,4 @@ As Doliat matured, he discovered his abilities, which allowed him to manifest hi
 
 At age twenty, Doliat was overcome by a powerful belief that staying in Fadil would bring doom to his family and the village. Trusting the guidance he had come to rely on, Doliat quietly left his home and embarked on a journey to...........
 
-As the years passed, Doliat felt a compelling certainty that his true destiny still awaited him. He became convinced that he must find a group of individuals in a place called XXXXX to fulfill his mission. The group he had encountered within the Immenwood, sharing his belief, encouraged him to embark on this quest, believing in the significance of his purpose.
+As the years passed, Doliat felt a compelling certainty that his true destiny still awaited him. He became convinced that he must find a group of individuals in the[[Mountains near Absalom\|mountains near Absalom]] to fulfill his mission. 
