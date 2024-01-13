@@ -473,6 +473,8 @@ module.exports = function (eleventyConfig) {
     )) {
       t.classList.add("dataview");
       t.classList.add("table-view-table");
+
+t.classList.add("sortable");
       t.querySelector("thead")?.classList.add("table-view-thead");
       t.querySelector("tbody")?.classList.add("table-view-tbody");
       t.querySelectorAll("thead > tr")?.forEach((tr) => {
