@@ -8,9 +8,9 @@
 
 { .block-language-dataview}
 #### Members
-[[Players/Doliat Dreameyes\|Doliat Dreameyes]]
-[[Players/Ron Mhuilinn\|Ron Mhuilinn]]
-[[Players/Indigo\|Indigo]]
-[[Players/Johnra Kcir\|Johnra Kcir]]
-[[Players/Talion\|Talion]]
-[[Players/Dio Stargazer\|Dio Stargazer]]
+[[PCs/Doliat Dreameyes\|Doliat Dreameyes]]
+[[PCs/Ron Mhuilinn\|Ron Mhuilinn]]
+[[PCs/Indigo\|Indigo]]
+[[PCs/Johnra Kcir\|Johnra Kcir]]
+[[PCs/Talion\|Talion]]
+[[PCs/Dio Stargazer\|Dio Stargazer]]
