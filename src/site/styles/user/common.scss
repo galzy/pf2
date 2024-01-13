@@ -369,9 +369,10 @@ body {
     .dragon::before {
         content: " ";
         display: inline-block;
-        height: 2em;
-        width: 2em;
-        margin-right: 0.25em;
+        height: 1.8em;
+        width: 1.8em;
+        margin: 0;
+        padding: 0;
         background-size: contain;
         background-repeat: no-repeat;
         background-image: url(/img/dragon.svg);
@@ -380,9 +381,10 @@ body {
     .dragon::after {
         content: " ";
         display: inline-block;
-        height: 2em;
-        width: 2em;
-        margin-left: 0.25em;
+        height: 1.8em;
+        width: 1.8em;
+        margin: 0;
+        padding: 0;
         background-size: contain;
         background-repeat: no-repeat;
         background-image: url(/img/dragon.svg);
