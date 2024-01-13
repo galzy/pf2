@@ -4,7 +4,7 @@
 
 | Bearer                  | Aliases |
 | ----------------------- | ------- |
-| [[Players/Johnra Kcir\|Johnra]] | \-      |
+| [[PCs/Johnra Kcir\|Johnra]] | \-      |
 
 { .block-language-dataview}
 ### Found at
