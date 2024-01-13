@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"dgShowLocalGraph":true,"noteIcon":"session","created":"2024-01-04T17:40:30.869+01:00","updated":"2024-01-12T01:16:29.465+01:00"}
+{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"session","created":"2024-01-04T17:40:30.869+01:00","updated":"2024-01-13T10:24:05.438+01:00"}
 ---
 
 | ID | Players                                      |
