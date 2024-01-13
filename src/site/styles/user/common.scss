@@ -362,22 +362,22 @@ body {
 
     .dragon {
         display: block;
-        text-position: center;
-        font-size: 1.5em;
+        text-position: center !important;
+        font-size: 1.5em !important;
         font-family: "UnifrakturMaguntia", serif !important;
     }
 
     .drgaon::before {
-        content: " ";
-        position: relative;
-        width: 1em;
-        height: 1.2em;
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-image: url(/img/dragon.svg);
-        padding-right: 2px;
-        padding-left: 2px;
-        background-position: bottom;
+        content: " " !important;
+        display: inline-block;
+        width: 1em!important;
+        height: 1.2em!important;
+        background-size: contain!important;
+        background-repeat: no-repeat!important;
+        background-image: url(/img/dragon.svg) !important;
+        padding-right: 2px!important;
+        padding-left: 2px!important;
+        background-position: center !important;
         filter: var(--icon-filter-2) !important;
     }
 
