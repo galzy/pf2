@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-13T16:36:59.181+01:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-13T16:36:59.181+01:00"}
 ---
 
 # [[Global/Quests\|Quests]]
@@ -27,9 +27,9 @@
 ### NPCs
 | Name                                                 | Status     | Attitude    | Race      | Groups                               |
 | ---------------------------------------------------- | ---------- | ----------- | --------- | ------------------------------------ |
-| [[NPCs/Ambassador elf\|Ambassador elf]]           | Alive      | Friendly    | Elf       | [[Groups/Kyonin elves\|Kyonin elves]]                     |
+| [[NPCs/Ambassador elf\|Ambassador elf]]           | Alive      | Friendly    | Elf       | [[Kyonin elves\|Kyonin elves]]                     |
 | [[NPCs/Bergen and Borger\|Bergen and Borger]]     | Alive      | Indifferent | Dwarf     | \-                                   |
-| [[NPCs/creepy old elf\|creepy old elf]]           | Alive      | Friendly    | Elf       | [[Groups/Kyonin elves\|Kyonin elves]]                     |
+| [[NPCs/creepy old elf\|creepy old elf]]           | Alive      | Friendly    | Elf       | [[Kyonin elves\|Kyonin elves]]                     |
 | [[NPCs/Female mafia boss\|Female mafia boss]]     | Alive      | Friendly    | Human     | [[Groups/Absalom mafia\|Absalom mafia]]                    |
 | [[NPCs/Hellion\|Hellion]]                         | Alive      | Hostile     | Elf, High | [[Groups/Demon family\|Demon Family]], [[Groups/MUSN\|MUSN]]           |
 | [[NPCs/Kilgore the Warlock\|Kilgore the Warlock]] | Dead       | Hostile     | Drow      | [[Groups/Demon family\|Demon Family]]                     |
@@ -43,20 +43,18 @@
 ### Groups
 | Name                                                     | HQ                      |
 | -------------------------------------------------------- | ----------------------- |
-| [[Groups/Absalom city council\|Absalom city council]] | [[Locations/Absalom\|Absalom]]             |
+| [[Groups/Absalom city council\|Absalom city council]] | [[Absalom\|Absalom]]             |
 | [[Groups/Absalom mafia\|Absalom mafia]]               | [[the Precipice\|the Precipice]]       |
 | [[Groups/Demon family\|Demon family]]                 | \-                      |
-| [[Groups/Kyonin elves\|Kyonin elves]]                 | [[Locations/Kyonin\|Kyonin]]              |
 | [[Groups/MUSN\|MUSN]]                                 | [[Locations/creepy swamp temple\|creepy swamp temple]] |
-| [[Groups/Pathfinder Society\|Pathfinder Society]]     | [[Locations/Absalom\|Absalom]]             |
-| [[Groups/Storm Bringers\|Storm Bringers]]             | [[Locations/Absalom\|Absalom]]             |
+| [[Groups/Pathfinder Society\|Pathfinder Society]]     | [[Absalom\|Absalom]]             |
+| [[Groups/Storm Bringers\|Storm Bringers]]             | [[Absalom\|Absalom]]             |
 | [[Groups/Xian Ninja Army\|Xian Ninja Army]]           | [[Xian\|Xian]]                |
 
 { .block-language-dataview}
 ### Locations
 | Name                                                                  | Type     | In                         | Near                                           |
 | --------------------------------------------------------------------- | -------- | -------------------------- | ---------------------------------------------- |
-| [[Locations/Absalom\|Absalom]]                                     | City     | \-                         | \-                                             |
 | [[Locations/creepy swamp temple\|creepy swamp temple]]             | Area     | [[stinky swamp\|stinky swamp]]           | [[Locations/Killgore's cave\|Killgore's cave]]                            |
 | [[Locations/Good storm giants tunnels\|Good storm giants tunnels]] | Location | [[Mountains near Absalom\|Mountains near Absalom]] |                                                |
 | [[Locations/Killgore's cave\|Killgore's cave]]                     | Location | [[stinky swamp\|stinky swamp]]           | [[Locations/Unnamed Drow city\|Unnamed Drow city]], [[Locations/creepy swamp temple\|creepy swamp temple]] |
@@ -70,7 +68,7 @@
 | Name                                                           | Where                  | When     |
 | -------------------------------------------------------------- | ---------------------- | -------- |
 | [[Events/Twinkle's second song\|Twinkle's second song]]     | [[Locations/Pub near Greengold\|Pub near Greengold]] | Recently |
-| [[Events/Xian - Absalom Conflict\|Xian - Absalom Conflict]] | [[Locations/Absalom\|Absalom]]            | Recently |
+| [[Events/Xian - Absalom Conflict\|Xian - Absalom Conflict]] | [[Absalom\|Absalom]]            | Recently |
 
 { .block-language-dataview}
 ### Lore
