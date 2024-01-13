@@ -362,7 +362,7 @@ body {
 
     .dragon {
         display: block;
-        font-size: 1.5em !important;
+        font-size: 1.8em !important;
         text-position: center;
         font-family: "UnifrakturMaguntia", serif !important;
     }
@@ -377,6 +377,7 @@ body {
         background-repeat: no-repeat;
         background-image: url(/img/dragon.svg);
         background-position: bottom;
+        filter: var(--icon-filter-2) !important;
     }
     .dragon::after {
         content: " ";
@@ -389,6 +390,7 @@ body {
         background-repeat: no-repeat;
         background-image: url(/img/dragon.svg);
         background-position: bottom;
+        filter: var(--icon-filter-2) !important;
     }
 
 
