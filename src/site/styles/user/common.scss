@@ -369,7 +369,7 @@ body {
     .dragon::before {
         content: " ";
         display: inline-block;
-        height: 1em;
+        height: 2em;
         width: auto;
         padding-right: 0.5em;
         background-size: contain;
@@ -380,7 +380,7 @@ body {
     .dragon::after {
         content: " ";
         display: inline-block;
-        height: 1em;
+        height: 2em;
         width: auto;
         padding-left: 0.5em;
         background-size: contain;
