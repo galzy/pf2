@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/medallion-of-confusion/","tags":["item"],"dgShowLocalGraph":true,"noteIcon":"item","created":"2024-01-05T18:41:36.593+01:00","updated":"2024-01-10T00:13:05.237+01:00"}
+{"dg-publish":true,"permalink":"/items/medallion-of-confusion/","tags":["item"],"dgShowLocalGraph":true,"noteIcon":"item","created":"2024-01-05T18:41:36.593+01:00","updated":"2024-01-13T01:43:54.614+01:00"}
 ---
 
 | Bearer                  | Aliases |
@@ -10,7 +10,7 @@
 ### Found at
 [[Locations/Killgore's cave\|Killgore's cave]], taken from [[NPCs/Kilgore the Warlock\|Killgore]]
 ### Appearance
-Thin metal chain with a many faceted gem, the size of an an acorn, with odd patterns
+Thin metal chain with a many-faceted gem, the size of an an acorn, with odd patterns
 ### Notes
 Immediately after being put on the wearer experiences confusion and complete amnesia. While wearing it, it seems no saving throw is possible. Once removed, the condition can be lessened in one of the ways:
 - Dispel magic with a DC of 40, which gets lower each day without wearing the medallion
