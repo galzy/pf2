@@ -4,7 +4,7 @@
 
 | Status | Attitude | Race | Groups           | Aliases |
 | ------ | -------- | ---- | ---------------- | ------- |
-| Alive  | Friendly | Elf  | [[Groups/Kyonin elves\|Kyonin elves]] | \-      |
+| Alive  | Friendly | Elf  | [[Kyonin elves\|Kyonin elves]] | \-      |
 
 { .block-language-dataview}
 ### First met
