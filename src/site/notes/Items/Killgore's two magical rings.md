@@ -4,7 +4,7 @@
 
 | Bearer     | Aliases |
 | ---------- | ------- |
-| [[Players/Indigo\|Indigo]] | \-      |
+| [[PCs/Indigo\|Indigo]] | \-      |
 
 { .block-language-dataview}
 ### Found at
