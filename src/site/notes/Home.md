@@ -1,8 +1,36 @@
 ---
-{"dg-publish":true,"permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-13T10:20:24.957+01:00"}
+{"dg-publish":true,"permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-13T10:31:21.040+01:00"}
 ---
 
-# Sessions
+```button
+name Latest Session
+type link
+action <% await tp.user.maxSessionUri(tp) %>
+templater true
+```{ #button-latest-session}
+
+```button
+name Add Note
+type command
+action Templater: Create new note from template
+```{ #button-add-note}
+
+```button
+name Search
+type command
+action Search: Search in all files
+```{ #button-search}
+
+```button
+name Publish
+type command
+action Digital Garden: Open Publication Center
+```{ #button-publish}
+
+# [[Global/Quests\|Quests]]
+# [[Global/Map\|Map]]
+# [Website](https://pf2gal.vercel.app)
+### Sessions
 | Name                                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Sessions/002_040124_Hellion and Killgore\|002_040124_Hellion and Killgore]]                                                                     |
