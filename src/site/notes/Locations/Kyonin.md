@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/kyonin/","tags":["location"],"dgShowLocalGraph":true,"noteIcon":"location","created":"2023-12-28T00:43:14.473+01:00","updated":"2024-01-10T00:13:56.701+01:00"}
+{"dg-publish":true,"permalink":"/locations/kyonin/","tags":["location"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"location","created":"2023-12-28T00:43:14.473+01:00","updated":"2024-01-13T10:23:48.179+01:00"}
 ---
 
 | Type    | In | Near             | Aliases |
