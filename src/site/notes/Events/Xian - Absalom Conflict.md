@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/xian-absalom-conflict/","tags":["event"],"dgShowLocalGraph":true,"noteIcon":"event","created":"2023-12-28T13:18:43.619+01:00","updated":"2024-01-12T01:16:58.001+01:00"}
+{"dg-publish":true,"permalink":"/events/xian-absalom-conflict/","tags":["event"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"event","created":"2023-12-28T13:18:43.619+01:00","updated":"2024-01-13T10:23:24.347+01:00"}
 ---
 
 | Where       | When     | Aliases |
