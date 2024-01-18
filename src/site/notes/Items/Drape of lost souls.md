@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/items/drape-of-lost-souls/","tags":["item"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"item","created":"2024-01-06T14:23:04.535+01:00","updated":"2024-01-18T10:42:17.666+01:00"}
+{"dg-publish":true,"permalink":"/items/drape-of-lost-souls/","tags":["item"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"item","created":"2024-01-06T14:23:04.535+01:00","updated":"2024-01-18T14:06:54.514+01:00"}
 ---
 
 | Bearer | Aliases |
