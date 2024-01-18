@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/groups/absalom-mafia/","tags":["group"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"group","created":"2024-01-09T00:23:43.893+01:00","updated":"2024-01-18T10:43:16.431+01:00"}
+{"dg-publish":true,"permalink":"/groups/absalom-mafia/","tags":["group"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"group","created":"2024-01-09T00:23:43.893+01:00","updated":"2024-01-18T22:33:21.492+01:00"}
 ---
 
-| HQ | Aliases |
-| -- | ------- |
-| \- | \-      |
+| HQ                | Aliases |
+| ----------------- | ------- |
+| [[the Precipice\|the Precipice]] | \-      |
 
 { .block-language-dataview}
 ### First met
