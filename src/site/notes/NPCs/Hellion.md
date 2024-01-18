@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/hellion/","tags":["npc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"npc","created":"2024-01-06T00:57:05.456+01:00","updated":"2024-01-13T10:23:56.991+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/hellion/","tags":["npc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"npc","created":"2024-01-06T00:57:05.456+01:00","updated":"2024-01-18T10:46:04.293+01:00"}
 ---
 
-| Status | Attitude | Race      | Groups                     | Aliases |
-| ------ | -------- | --------- | -------------------------- | ------- |
-| Alive  | Hostile  | Elf, High | [[Groups/Demon family\|Demon Family]], [[Groups/MUSN\|MUSN]] | \-      |
+| Status | Attitude | Race | Groups | Aliases |
+| ------ | -------- | ---- | ------ | ------- |
+| \-     | \-       | \-   | \-     | \-      |
 
 { .block-language-dataview}
 ### First met
