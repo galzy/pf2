@@ -63,4 +63,6 @@
 	- [[PCs/Doliat Dreameyes\|Doliat]] asked him if we can use a stolen infernal coin to claim a favor and he said it isn't, ad they are just a metaphor. He then left the area in protest of the torture.
 - [[PCs/Indigo\|Indigo]] claimed his vengeance and killed [[NPCs/Kilgore the Warlock\|Killgore]] by slitting his throat. On the corpse we found a [[Items/Killgore's key\|small golden key]] and a small bag containing [[Items/Killgore's two magical rings\|two rings]], both of which were magical.
 
-### Karma Impact
+```meta-bind
+INPUT[text(defaultValue(0)):karma_impact]
+```
