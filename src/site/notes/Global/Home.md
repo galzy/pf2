@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-18T13:20:22.463+01:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-18T13:50:40.202+01:00"}
 ---
 
 # [[Global/Quests\|Quests]]
@@ -9,6 +9,17 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | [[Sessions/002_040124_Hellion and Killgore\|002_040124_Hellion and Killgore]]                                                                     | 0            |
 | [[Sessions/001_261223_MUSN (Militaristic Undead Swamp Naga) and Their Temple\|001_261223_MUSN (Militaristic Undead Swamp Naga) and Their Temple]] | 0            |
+
+{ .block-language-dataview}
+### PCs
+| Name                                          |
+| --------------------------------------------- |
+| [[PCs/Dio Stargazer\|Dio Stargazer]]       |
+| [[PCs/Doliat Dreameyes\|Doliat Dreameyes]] |
+| [[PCs/Indigo\|Indigo]]                     |
+| [[PCs/Johnra Kcir\|Johnra Kcir]]           |
+| [[PCs/Ron Mhuilinn\|Ron Mhuilinn]]         |
+| [[PCs/Talion\|Talion]]                     |
 
 { .block-language-dataview}
 ### Items
@@ -79,15 +90,3 @@
 | [[Lore/Leothin\|Leothin]]                                       |
 
 { .block-language-dataview}
-### PCs
-| Name                                          |
-| --------------------------------------------- |
-| [[PCs/Dio Stargazer\|Dio Stargazer]]       |
-| [[PCs/Doliat Dreameyes\|Doliat Dreameyes]] |
-| [[PCs/Indigo\|Indigo]]                     |
-| [[PCs/Johnra Kcir\|Johnra Kcir]]           |
-| [[PCs/Ron Mhuilinn\|Ron Mhuilinn]]         |
-| [[PCs/Talion\|Talion]]                     |
-
-{ .block-language-dataview}
-
