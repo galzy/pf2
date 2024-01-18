@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/unnamed-drow-city/","tags":["location"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-05T18:49:38.652+01:00","updated":"2024-01-18T10:46:22.882+01:00"}
+{"dg-publish":true,"permalink":"/locations/unnamed-drow-city/","tags":["location"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-05T18:49:38.652+01:00","updated":"2024-01-18T16:06:11.104+01:00"}
 ---
 
 | Type | In | Near | Aliases |
