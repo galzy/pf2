@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/xian-ninja-army/","tags":["group"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"group","created":"2023-12-28T16:19:07.078+01:00","updated":"2024-01-18T16:02:47.651+01:00"}
+{"dg-publish":true,"permalink":"/groups/xian-ninja-army/","tags":["group"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"group","created":"2023-12-28T16:19:07.078+01:00","updated":"2024-01-18T10:43:16.589+01:00"}
 ---
 
 | HQ | Aliases |
