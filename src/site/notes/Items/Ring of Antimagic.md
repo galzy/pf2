@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/items/ring-of-antimagic/","tags":["item"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"item","created":"2024-01-06T00:16:23.194+01:00","updated":"2024-01-18T16:02:44.225+01:00"}
+{"dg-publish":true,"permalink":"/items/ring-of-antimagic/","tags":["item"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"item","created":"2024-01-06T00:16:23.194+01:00","updated":"2024-01-18T22:39:05.280+01:00"}
 ---
 
-| Bearer | Aliases |
-| ------ | ------- |
-| \-     | \-      |
+| Bearer                       | Aliases |
+| ---------------------------- | ------- |
+| [[PCs/Doliat Dreameyes\|Doliat]] | \-      |
 
 { .block-language-dataview}
 ### Found at
