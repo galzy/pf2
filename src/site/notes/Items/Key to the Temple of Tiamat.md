@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/items/key-to-the-temple-of-tiamat/","tags":["item"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"item","created":"2024-01-06T13:32:16.425+01:00","updated":"2024-01-13T10:23:33.796+01:00"}
+{"dg-publish":true,"permalink":"/items/key-to-the-temple-of-tiamat/","tags":["item"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"item","created":"2024-01-06T13:32:16.425+01:00","updated":"2024-01-18T10:42:17.692+01:00"}
 ---
 
-| Bearer           | Aliases |
-| ---------------- | ------- |
-| It's complicated | \-      |
+| Bearer | Aliases |
+| ------ | ------- |
+| \-     | \-      |
 
 { .block-language-dataview}
 ### Notes
