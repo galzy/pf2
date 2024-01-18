@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"session","created":"2024-01-04T17:40:30.869+01:00","updated":"2024-01-18T13:29:54.860+01:00"}
+{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"session","created":"2024-01-04T17:40:30.869+01:00","updated":"2024-01-18T16:03:04.119+01:00"}
 ---
 
 | Players                                      | Karma Impact |
