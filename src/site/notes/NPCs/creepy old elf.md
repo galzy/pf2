@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/creepy-old-elf/","tags":["npc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"npc","created":"2023-12-28T13:22:24.884+01:00","updated":"2024-01-13T10:24:00.715+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/creepy-old-elf/","tags":["npc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"npc","created":"2023-12-28T13:22:24.884+01:00","updated":"2024-01-18T10:46:08.207+01:00"}
 ---
 
-| Status | Attitude | Race | Groups           | Aliases |
-| ------ | -------- | ---- | ---------------- | ------- |
-| Alive  | Friendly | Elf  | [[Kyonin elves\|Kyonin elves]] | \-      |
+| Status | Attitude | Race | Groups | Aliases |
+| ------ | -------- | ---- | ------ | ------- |
+| \-     | \-       | \-   | \-     | \-      |
 
 { .block-language-dataview}
 ### First met
