@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/good-storm-giants-tunnels/","tags":["location"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-06T14:19:21.224+01:00","updated":"2024-01-18T10:46:19.823+01:00"}
+{"dg-publish":true,"permalink":"/locations/good-storm-giants-tunnels/","tags":["location"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-06T14:19:21.224+01:00","updated":"2024-01-18T16:06:09.693+01:00"}
 ---
 
 | Type | In | Near | Aliases |
