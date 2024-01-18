@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-18T14:06:47.730+01:00"}
+{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-18T14:10:08.734+01:00"}
 ---
 
 | STR | CON | DEX | INT | WIS | CHA |
@@ -8,15 +8,15 @@
 
 { .block-language-dataview}
 
-| Fortitude | Reflex | Will | Notes                                 |
-| --------- | ------ | ---- | ------------------------------------- |
-| 13        | 17     | 15   | Toughness, +2 against magical effects |
+| Fortitude | Reflex | Will | Notes                                                          |
+| --------- | ------ | ---- | -------------------------------------------------------------- |
+| 13        | 17     | 15   | <ul><li>Toughness</li><li>+2 against magical effects</li></ul> |
 
 { .block-language-dataview}
 
-| AC | Perception | Senses           | Resistances & Immunities | Languages                                |
-| -- | ---------- | ---------------- | ------------------------ | ---------------------------------------- |
-| 24 | 13         | +2 to initiative |                          | Common, Draconic, Dwarven, Elven, Sylvan |
+| AC | Perception | Senses                             | Resistances & Immunities | Languages                                                                              |
+| -- | ---------- | ---------------------------------- | ------------------------ | -------------------------------------------------------------------------------------- |
+| 24 | 13         | <ul><li>+2 to initiative</li></ul> | <ul></ul>                | <ul><li>Common</li><li>Draconic</li><li>Dwarven</li><li>Elven</li><li>Sylvan</li></ul> |
 
 { .block-language-dataview}
 
