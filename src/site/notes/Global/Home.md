@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-18T16:06:11.353+01:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-18T19:26:08.343+01:00"}
 ---
 
 ```button
@@ -24,6 +24,9 @@ action Digital Garden: Open Publication Center
 # [[Global/Quests\|Quests]]
 # [[Global/Map\|Map]]
 # [Website](https://galpf2.netlify.app/)
+
+### Karma
+<p><span><meter style="height: 3em; width: 80%; border-radius: 16px;" value="0" optimum="50" high="10" low="-10" max="50" min="-50"></meter><span style="content: 20; top: 0px; left: -70px; position: relative;"></span></span></p>
 
 ### Sessions
 | Name                                                                                                                                                 | Karma Impact |
