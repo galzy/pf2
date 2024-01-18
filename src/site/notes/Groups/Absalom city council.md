@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/groups/absalom-city-council/","tags":["group"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"group","created":"2024-01-06T13:55:36.781+01:00","updated":"2024-01-18T16:02:50.794+01:00"}
+{"dg-publish":true,"permalink":"/groups/absalom-city-council/","tags":["group"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"group","created":"2024-01-06T13:55:36.781+01:00","updated":"2024-01-18T10:43:16.386+01:00"}
 ---
 
 | HQ | Aliases |
