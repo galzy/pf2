@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/locations/leothin-mine/","tags":["location"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-06T13:13:21.147+01:00","updated":"2024-01-18T10:46:21.820+01:00"}
+{"dg-publish":true,"permalink":"/locations/leothin-mine/","tags":["location"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-06T13:13:21.147+01:00","updated":"2024-01-18T22:33:35.953+01:00"}
 ---
 
-| Type | In | Near | Aliases |
-| ---- | -- | ---- | ------- |
-| \-   | \- | \-   | \-      |
+| Type     | In                 | Near | Aliases |
+| -------- | ------------------ | ---- | ------- |
+| Location | [[Tyrant's Grasp\|Tyrant's Grasp]] | \-   | \-      |
 
 { .block-language-dataview}
 ### First visited
