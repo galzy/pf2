@@ -1,6 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-18T15:13:57.786+01:00"}
+{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-18T15:32:58.124+01:00"}
 ---
+
+
+- - - STR: 10
+
+- - CON: 12
+
+- - DEX: 16
+
+- - INT: 16
+
+- - WIS: 12
+
+- - CHA: 18
+
+
+
+{ .block-language-dataview}
+
+
 
 | Abilities                                                                                                                                                                                                                                                       | Saving Throws                                                                                                                                                                                                                                      |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,4 +63,3 @@ Doliat was born in the prosperous farming village of Fadil on the Isle of Kortos
 Despite their initial concerns, Doliat's parents, Aeodrus and Mitla, learned to accept and live with the strangeness surrounding their son, as no harm ever befell him or others. Doliat himself grew up carefree and happy, receiving a rudimentary education, assisting on his parents' cabbage farm, and enjoying the company of his siblings and other village children.
 As Doliat matured, he discovered his abilities, which allowed him to manifest his desires as reality.  Doliat used these abilities sparingly and discreetly to avoid worrying his parents. At the age of thirteen, Doliat formulated a theory that he was being guided by something greater, which he believed to be the source of his abilities. He began having premonitions that often proved to be correct, further fueling his belief in his magical nature. Doliat started meditating to deepen his connection with these powers, unknowingly honing his abilities.
 At age twenty, Doliat was overcome by a powerful belief that staying in Fadil would bring doom to his family and the village. Trusting the guidance he had come to rely on, Doliat quietly left his home and embarked on a journey to.... As the years passed, Doliat felt a compelling certainty that his true destiny still awaited him. He became convinced that he must find a group of individuals in the [[Mountains near Absalom\|mountains near Absalom]] to fulfill his mission.
-
