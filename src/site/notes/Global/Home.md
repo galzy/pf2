@@ -1,8 +1,24 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-18T13:50:40.202+01:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-18T13:50:40.202+01:00"}
 ---
 
 # [[Global/Quests\|Quests]]
+
+### Karma
+```js-engine
+const mdBuilder = engine.markdown.createBuilder();
+const dv = engine.getPlugin('dataview').api;
+
+let karma_list = [];
+const pages = dv.pages("#session");
+for (const page of pages) {
+	karma_list.push(Number(page.karma_impact));
+}
+const sum = karma_list.reduce((partialSum, a) => partialSum + a, 0);
+mdBuilder.createParagraph('<meter min=-50 max=50 low=-10 high=10 optimum=50 value="' + sum + '" style="height: 3em; width: 80%; border-radius: 16px;"></meter><span style="content: 20; top: 0px; left: -70px; position: relative;"></span>');
+
+return mdBuilder;
+```
 
 ### Sessions
 | Name                                                                                                                                                 | Karma Impact |
