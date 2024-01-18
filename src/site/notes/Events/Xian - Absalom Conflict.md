@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/events/xian-absalom-conflict/","tags":["event"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"event","created":"2023-12-28T13:18:43.619+01:00","updated":"2024-01-18T10:46:30.638+01:00"}
+{"dg-publish":true,"permalink":"/events/xian-absalom-conflict/","tags":["event"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"event","created":"2023-12-28T13:18:43.619+01:00","updated":"2024-01-18T22:31:16.572+01:00"}
 ---
 
-| Where | When | Aliases |
-| ----- | ---- | ------- |
-| \-    | \-   | \-      |
+| Where       | When     | Aliases |
+| ----------- | -------- | ------- |
+| [[Absalom\|Absalom]] | Recently | \-      |
 
 { .block-language-dataview}
 ## Notes
