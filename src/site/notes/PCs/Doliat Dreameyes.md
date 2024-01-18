@@ -1,8 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-18T13:02:03.602+01:00"}
+{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-18T14:02:10.045+01:00"}
 ---
 
-## Fluff
+| STR | CON | DEX | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 10  | 12  | 16  | 16  | 12  | 18  |
+
+{ .block-language-dataview}
+
+| Fortitude | Reflex | Will | Notes                                 |
+| --------- | ------ | ---- | ------------------------------------- |
+| 13        | 17     | 15   | Toughness, +2 against magical effects |
+
+{ .block-language-dataview}
+
+| AC | Perception | Senses           | Resistances & Immunities | Languages                                |
+| -- | ---------- | ---------------- | ------------------------ | ---------------------------------------- |
+| 24 | 13         | +2 to initiative |                          | Common, Draconic, Dwarven, Elven, Sylvan |
+
+{ .block-language-dataview}
+
+| Spell Attack Roll | Spell DC |
+| ----------------- | -------- |
+| 18                | 28       |
+
+{ .block-language-dataview}
+
 ### Appearance
 ![Doliat Portrait.jpeg|150](/img/user/_vault/attachments/Doliat%20Portrait.jpeg)
 Doliat, with his youthful appearance, stands at an average height with a slender frame that lends itself to graceful movements. His light brown eyes hold a spark of curiosity. His light brown hair, tousled and framing his face, adds to his approachable charm, while his skin complexion is fair.
