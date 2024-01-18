@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","tags":["session"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"session","created":"2023-12-28T17:45:59.809+01:00","updated":"2024-01-18T16:03:05.424+01:00"}
+{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","tags":["session"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"session","created":"2023-12-28T17:45:59.809+01:00","updated":"2024-01-18T19:14:04.351+01:00"}
 ---
 
 | Players               | Karma Impact |
@@ -42,4 +42,3 @@ TBD
 		- Doliat panicked and ran away. A huge blue lighting struck the temple and he had to fight off some mental effect to escape.
 	- [[PCs/Johnra Kcir\|Johnra Kcir]] decided everyone was aware of use, so he lighted the centeral bonefire
 - We then heard dozens of [[Groups/MUSN\|MUSN]]s arriving and we escaped quickly.
-
