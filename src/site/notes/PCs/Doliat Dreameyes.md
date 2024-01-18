@@ -1,46 +1,37 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-18T22:34:19.608+01:00"}
+{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-19T00:02:24.277+01:00"}
 ---
 
-| Abilities                                                                                                                                                                                                                                                       | Saving Throws                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li><ul><li><b>STR</b>: 10</li></ul></li><li><ul><li><b>CON</b>: 12</li></ul></li><li><ul><li><b>DEX</b>: 16</li></ul></li><li><ul><li><b>INT</b>: 16</li></ul></li><li><ul><li><b>WIS</b>: 12</li></ul></li><li><ul><li><b>CHA</b>: 18</li></ul></li></ul> | <ul><li><ul><li><b>Fortitude</b>: 13</li></ul></li><li><ul><li><b>Reflex</b>: 17</li></ul></li><li><ul><li><b>Will</b>: 15</li></ul></li><li><ul><li><b>Notes</b>: Toughness, +2 against magical effects</li></ul></li><li>\-</li><li>\-</li></ul> |
-
-{ .block-language-dataview}
-
-| Other                                                                                                                                                                                                 |                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li><ul><li><b>AC</b>: 24</li></ul></li><li><ul><li><b>Notes</b>: \-</li></ul></li><li><ul><li><b>Perception</b>: 13</li></ul></li><li><ul><li><b>Notes</b>: +2 to initiative</li></ul></li></ul> | <ul><li><ul><li><b>SpellAttackRoll</b>: 18</li></ul></li><li><ul><li><b>SpellDC</b>: 28</li></ul></li><li>\-</li><li>\-</li></ul> |
-
-{ .block-language-dataview}
-
-| Languages                                                                              |
-| -------------------------------------------------------------------------------------- |
-| <ul><li>Common</li><li>Draconic</li><li>Dwarven</li><li>Elven</li><li>Sylvan</li></ul> |
-
-{ .block-language-dataview}
-
-| Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li><ul><li><b>Acrobatics</b>: 1</li></ul></li><li><ul><li><b>Arcana</b>: 3</li></ul></li><li><ul><li><b>Athletics</b>: 10</li></ul></li><li><ul><li><b>Crafting</b>: 3</li></ul></li><li><ul><li><b>Deception</b>: 4</li></ul></li><li><ul><li><b>Diplomacy</b>: 14</li></ul></li><li><ul><li><b>Intimidation</b>: 14</li></ul></li><li><ul><li><b>Medicine</b>: 1</li></ul></li><li><ul><li><b>Nature</b>: 1</li></ul></li><li><ul><li><b>Occultism</b>: 19</li></ul></li><li><ul><li><b>Performance</b>: 4</li></ul></li><li><ul><li><b>Religion</b>: 1</li></ul></li><li><ul><li><b>Society</b>: 15</li></ul></li><li><ul><li><b>Stealth</b>: 13</li></ul></li><li><ul><li><b>Survival</b>: 11</li></ul></li><li><ul><li><b>Thievery</b>: 3</li></ul></li><li><ul><li><b>Lore1Name</b>: Prophecy</li></ul></li><li><ul><li><b>Lore1Value</b>: 15</li></ul></li><li><ul><li><b>Lore2Name</b>: Farming</li></ul></li><li><ul><li><b>Lore2Value</b>: 13</li></ul></li><li><ul><li><b>Lore3Name</b>: \-</li></ul></li><li><ul><li><b>Lore3Value</b>: \-</li></ul></li><li><ul><li><b>Lore4Name</b>: \-</li></ul></li><li><ul><li><b>Lore4Value</b>: \-</li></ul></li></ul> |
-
-{ .block-language-dataview}
+### Stats
+**Perception** +13 (+2 initiative);  
+**Languages** Common, Draconic, Dwarven, Elven, Sylvan  
+**Skills** Acrobatics +13, Athletics +10, Diplomacy +16, Lore: Farming +13, Lore: Prophecy +17, Occultism +19, Society +13, Stealth +13, Survival +11, Thievery +13  
+**Str** +0, **Dex** +3, **Con** +1, **Int** +3, **Wis** +1, **Cha** +4  
+**AC** 24; **Fort** +13, **Ref** +17, **Will** +15 (Toughness, +2 against magical effects)
+**Spell Attack Roll** 18, **Spell DC** 28
 
 ### Appearance
 ![Doliat Portrait.jpeg|150](/img/user/_vault/attachments/Doliat%20Portrait.jpeg)
 Doliat, with his youthful appearance, stands at an average height with a slender frame that lends itself to graceful movements. His light brown eyes hold a spark of curiosity. His light brown hair, tousled and framing his face, adds to his approachable charm, while his skin complexion is fair.
+
 ### Mannerisms
 Doliat is calm and sociable. His easy-going nature is evident in the warm and genuine smile that frequently graces his lips. He is unarmed, wearing only simple adventuring gear and carrying nothing more than a backpack and a small bag tied to his belt.
 Doliat’s main vice is his absolute conviction that he is following some sort of guidance. It can grow tiresome after a while. It is almost impossible to convince him that he is wrong about something if he believes he was guided to do it. He enjoys meditation and lengthy discussions about philosophy, specifically metaphysics, epistemology, the philosophy of mind, and fate.
+
 ### Ethos
 Doliat believes in the profound interconnectedness of all things. He usually relies on his premonitions and hunches to guide him in life. Because his desires so often become reality (in the form of his powers), he knows he is in tune with something greater than himself. While he doesn’t understand the nature of the force that guides him, he knows it is helping him shape destiny itself for the better.
 While Doliat would like to return home one day, he is utterly devoted to fulfilling his destiny. He would do almost anything if he felt guided to do so. The only thing he truly fears is being unable to fulfill his destiny.
+
 ### Birth and Family
 Birthdate - 12 Desnus, 4699
 Birthplace - Fadil, a farming village on the Isle of Kortos, located on the plains north of Immenwood. The main source of income for the village is trade with Meravon, the center of Absalom's lumber industry.
 Family - His parents are Aeodrus (m) and Mitla (f) Dreameyes, who have five children. In order of birth: Doliat, Bordrov (m), Cocro (m), Holaah (f), Bonnah (f). His parents were fairly successful cabbage farmers.
+
 ### Background
 Doliat was born in the prosperous farming village of Fadil on the Isle of Kortos. From a young age, Doliat experienced strange phenomena around him, starting with minor occurrences like unexplained sounds and objects falling. Over time, these phenomena grew more pronounced, with objects levitating and the appearance of lights and images.
+
 Despite their initial concerns, Doliat's parents, Aeodrus and Mitla, learned to accept and live with the strangeness surrounding their son, as no harm ever befell him or others. Doliat himself grew up carefree and happy, receiving a rudimentary education, assisting on his parents' cabbage farm, and enjoying the company of his siblings and other village children.
+
 As Doliat matured, he discovered his abilities, which allowed him to manifest his desires as reality.  Doliat used these abilities sparingly and discreetly to avoid worrying his parents. At the age of thirteen, Doliat formulated a theory that he was being guided by something greater, which he believed to be the source of his abilities. He began having premonitions that often proved to be correct, further fueling his belief in his magical nature. Doliat started meditating to deepen his connection with these powers, unknowingly honing his abilities.
+
 At age twenty, Doliat was overcome by a powerful belief that staying in Fadil would bring doom to his family and the village. Trusting the guidance he had come to rely on, Doliat quietly left his home and embarked on a journey to.... As the years passed, Doliat felt a compelling certainty that his true destiny still awaited him. He became convinced that he must find a group of individuals in the [[Mountains near Absalom\|mountains near Absalom]] to fulfill his mission.
