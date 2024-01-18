@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","tags":["session"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"session","created":"2023-12-28T17:45:59.809+01:00","updated":"2024-01-18T13:29:47.505+01:00"}
+{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","tags":["session"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"session","created":"2023-12-28T17:45:59.809+01:00","updated":"2024-01-18T16:03:05.424+01:00"}
 ---
 
 | Players               | Karma Impact |
