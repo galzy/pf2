@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/zima/","tags":["npc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"npc","created":"2024-01-06T14:10:33.098+01:00","updated":"2024-01-13T10:23:54.867+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/zima/","tags":["npc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"npc","created":"2024-01-06T14:10:33.098+01:00","updated":"2024-01-18T10:46:07.484+01:00"}
 ---
 
-| Status | Attitude | Race  | Groups                               | Aliases |
-| ------ | -------- | ----- | ------------------------------------ | ------- |
-| Dead   | Helpful  | Human | [[bad storm giants tribe\|bad storm giants tribe]], [[Groups/MUSN\|MUSN]] | \-      |
+| Status | Attitude | Race | Groups | Aliases |
+| ------ | -------- | ---- | ------ | ------- |
+| \-     | \-       | \-   | \-     | \-      |
 
 { .block-language-dataview}
 ### First met
