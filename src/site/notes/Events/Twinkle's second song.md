@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/twinkle-s-second-song/","tags":["event"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"event","created":"2024-01-06T12:51:31.026+01:00","updated":"2024-01-18T10:46:30.157+01:00"}
+{"dg-publish":true,"permalink":"/events/twinkle-s-second-song/","tags":["event"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"event","created":"2024-01-06T12:51:31.026+01:00","updated":"2024-01-18T16:02:32.043+01:00"}
 ---
 
 | Where | When | Aliases |
