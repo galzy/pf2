@@ -1,28 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-18T14:10:08.734+01:00"}
+{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-18T15:09:35.278+01:00"}
 ---
 
-| STR | CON | DEX | INT | WIS | CHA |
-| --- | --- | --- | --- | --- | --- |
-| 10  | 12  | 16  | 16  | 12  | 18  |
+| Abilities                                                                                                                                                                                                                                                       | Saving Throws                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li><ul><li><b>STR</b>: 10</li></ul></li><li><ul><li><b>CON</b>: 12</li></ul></li><li><ul><li><b>DEX</b>: 16</li></ul></li><li><ul><li><b>INT</b>: 16</li></ul></li><li><ul><li><b>WIS</b>: 12</li></ul></li><li><ul><li><b>CHA</b>: 18</li></ul></li></ul> | <ul><li><ul><li><b>Fortitude</b>: 13</li></ul></li><li><ul><li><b>Reflex</b>: 17</li></ul></li><li><ul><li><b>Will</b>: 15</li></ul></li><li><ul><li><b>Notes</b>: Toughness, +2 against magical effects</li></ul></li><li>\-</li><li>\-</li></ul> |
 
 { .block-language-dataview}
 
-| Fortitude | Reflex | Will | Notes                                                          |
-| --------- | ------ | ---- | -------------------------------------------------------------- |
-| 13        | 17     | 15   | <ul><li>Toughness</li><li>+2 against magical effects</li></ul> |
+| Other                                                                                                                                                                    |                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li><ul><li><b>AC</b>: 24</li></ul></li><li>Notes</li><li><ul><li><b>Perception</b>: 13</li></ul></li><li><ul><li><b>Notes</b>: +2 to initiative</li></ul></li></ul> | <ul><li><ul><li><b>SpellAttackRoll</b>: 18</li></ul></li><li><ul><li><b>SpellDC</b>: 28</li></ul></li><li>\-</li><li>\-</li></ul> |
 
 { .block-language-dataview}
 
-| AC | Perception | Senses                             | Resistances & Immunities | Languages                                                                              |
-| -- | ---------- | ---------------------------------- | ------------------------ | -------------------------------------------------------------------------------------- |
-| 24 | 13         | <ul><li>+2 to initiative</li></ul> | <ul></ul>                | <ul><li>Common</li><li>Draconic</li><li>Dwarven</li><li>Elven</li><li>Sylvan</li></ul> |
+| Languages                                                                              |
+| -------------------------------------------------------------------------------------- |
+| <ul><li>Common</li><li>Draconic</li><li>Dwarven</li><li>Elven</li><li>Sylvan</li></ul> |
 
 { .block-language-dataview}
 
-| Spell Attack Roll | Spell DC |
-| ----------------- | -------- |
-| 18                | 28       |
+| Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <ul><li><ul><li><b>Acrobatics</b>: 1</li></ul></li><li><ul><li><b>Arcana</b>: 3</li></ul></li><li><ul><li><b>Athletics</b>: 10</li></ul></li><li><ul><li><b>Crafting</b>: 3</li></ul></li><li><ul><li><b>Deception</b>: 4</li></ul></li><li><ul><li><b>Diplomacy</b>: 14</li></ul></li><li><ul><li><b>Intimidation</b>: 14</li></ul></li><li><ul><li><b>Medicine</b>: 1</li></ul></li><li><ul><li><b>Nature</b>: 1</li></ul></li><li><ul><li><b>Occultism</b>: 19</li></ul></li><li><ul><li><b>Performance</b>: 4</li></ul></li><li><ul><li><b>Religion</b>: 1</li></ul></li><li><ul><li><b>Society</b>: 15</li></ul></li><li><ul><li><b>Stealth</b>: 13</li></ul></li><li><ul><li><b>Survival</b>: 11</li></ul></li><li><ul><li><b>Thievery</b>: 3</li></ul></li><li><ul><li><b>Lore1Name</b>: Prophecy</li></ul></li><li><ul><li><b>Lore1Value</b>: 15</li></ul></li><li><ul><li><b>Lore2Name</b>: Farming</li></ul></li><li><ul><li><b>Lore2Value</b>: 13</li></ul></li><li><ul><li><b>Lore3Name</b>: \-</li></ul></li><li><ul><li><b>Lore3Value</b>: \-</li></ul></li><li><ul><li><b>Lore4Name</b>: \-</li></ul></li><li><ul><li><b>Lore4Value</b>: \-</li></ul></li></ul> |
 
 { .block-language-dataview}
 
@@ -45,3 +45,50 @@ Despite their initial concerns, Doliat's parents, Aeodrus and Mitla, learned to 
 As Doliat matured, he discovered his abilities, which allowed him to manifest his desires as reality.  Doliat used these abilities sparingly and discreetly to avoid worrying his parents. At the age of thirteen, Doliat formulated a theory that he was being guided by something greater, which he believed to be the source of his abilities. He began having premonitions that often proved to be correct, further fueling his belief in his magical nature. Doliat started meditating to deepen his connection with these powers, unknowingly honing his abilities.
 At age twenty, Doliat was overcome by a powerful belief that staying in Fadil would bring doom to his family and the village. Trusting the guidance he had come to rely on, Doliat quietly left his home and embarked on a journey to.... As the years passed, Doliat felt a compelling certainty that his true destiny still awaited him. He became convinced that he must find a group of individuals in the [[Mountains near Absalom\|mountains near Absalom]] to fulfill his mission.
 
+## Crunch
+### Ability Scores
+STR - `INPUT[number(class(meta-bind-smallest-width)):STR]` (`VIEW[round(({STR} - 10) / 2)]`)
+DEX - `INPUT[number(class(meta-bind-smallest-width)):DEX]` (`VIEW[round(({DEX} - 10) / 2)]`)
+CON - `INPUT[number(class(meta-bind-smallest-width)):CON]` (`VIEW[round(({CON} - 10) / 2)]`)
+INT - `INPUT[number(class(meta-bind-smallest-width)):INT]` (`VIEW[round(({INT} - 10) / 2)]`)
+WIS - `INPUT[number(class(meta-bind-smallest-width)):WIS]` (`VIEW[round(({WIS} - 10) / 2)]`)
+CHA - `INPUT[number(class(meta-bind-smallest-width)):CHA]` (`VIEW[round(({CHA} - 10) / 2)]`)
+
+### Other
+AC - `INPUT[number(class(meta-bind-smallest-width)):AC]`
+Resistances and immunities - `INPUT[inlineList:ResistancesImmunities]`
+Perception - `INPUT[number(class(meta-bind-smallest-width)):Perception]`
+Senses - `INPUT[inlineList:Senses]`
+Languages - `INPUT[inlineList:Languages]`
+
+### Saving Throws
+Fortitude - `INPUT[number(class(meta-bind-smallest-width)):Fortitude]` 
+Reflex -  `INPUT[number(class(meta-bind-smallest-width)):Reflex]` 
+Will - `INPUT[number(class(meta-bind-smallest-width)):Will]`
+Notes - `INPUT[inlineList:SavingsNotes]`
+
+### Spells
+Spell Attack Roll -  `INPUT[number(class(meta-bind-smallest-width)):SpellAttackRoll]`
+Spell DC -  `INPUT[number(class(meta-bind-smallest-width)):SpellDC]`
+
+### Skills
+Acrobatics - `INPUT[number(class(meta-bind-smallest-width)):Acrobatics]`
+Arcana - `INPUT[number(class(meta-bind-smallest-width)):Arcana]`
+Athletics - `INPUT[number(class(meta-bind-smallest-width)):Athletics]`
+Crafting - `INPUT[number(class(meta-bind-smallest-width)):Crafting]`
+Deception - `INPUT[number(class(meta-bind-smallest-width)):Deception]`
+Diplomacy - `INPUT[number(class(meta-bind-smallest-width)):Diplomacy]`
+Intimidation - `INPUT[number(class(meta-bind-smallest-width)):Intimidation]`
+Medicine - `INPUT[number(class(meta-bind-smallest-width)):Medicine]`
+Nature - `INPUT[number(class(meta-bind-smallest-width)):Nature]`
+Occultism - `INPUT[number(class(meta-bind-smallest-width)):Occultism]`
+Performance - `INPUT[number(class(meta-bind-smallest-width)):Performance]`
+Religion - `INPUT[number(class(meta-bind-smallest-width)):Religion]`
+Society - `INPUT[number(class(meta-bind-smallest-width)):Society]`
+Stealth - `INPUT[number(class(meta-bind-smallest-width)):Stealth]`
+Survival - `INPUT[number(class(meta-bind-smallest-width)):Survival]`
+Thievery - `INPUT[number(class(meta-bind-smallest-width)):Thievery]`
+`INPUT[text(class(meta-bind-midbig-width)):Lore1Name]` Lore - `INPUT[number(class(meta-bind-smallest-width)):Lore1Value]`
+`INPUT[text(class(meta-bind-midbig-width)):Lore2Name]` Lore - `INPUT[number(class(meta-bind-smallest-width)):Lore2Value]`
+`INPUT[text(class(meta-bind-midbig-width)):Lore3Name]` Lore - `INPUT[number(class(meta-bind-smallest-width)):Lore3Value]`
+`INPUT[text(class(meta-bind-midbig-width)):Lore4Name]` Lore - `INPUT[number(class(meta-bind-smallest-width)):Lore4Value]`
