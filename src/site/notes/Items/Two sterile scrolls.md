@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/items/two-sterile-scrolls/","tags":["item"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"item","created":"2023-12-30T14:07:53.941+01:00","updated":"2024-01-13T10:23:32.691+01:00"}
+{"dg-publish":true,"permalink":"/items/two-sterile-scrolls/","tags":["item"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"item","created":"2023-12-30T14:07:53.941+01:00","updated":"2024-01-18T10:42:17.861+01:00"}
 ---
 
-| Bearer                       | Aliases |
-| ---------------------------- | ------- |
-| [[PCs/Doliat Dreameyes\|Doliat]] | \-      |
+| Bearer | Aliases |
+| ------ | ------- |
+| \-     | \-      |
 
 { .block-language-dataview}
 ### Found at
