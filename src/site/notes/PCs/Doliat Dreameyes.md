@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-18T15:09:35.278+01:00"}
+{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-18T15:13:57.786+01:00"}
 ---
 
 | Abilities                                                                                                                                                                                                                                                       | Saving Throws                                                                                                                                                                                                                                      |
@@ -8,9 +8,9 @@
 
 { .block-language-dataview}
 
-| Other                                                                                                                                                                    |                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li><ul><li><b>AC</b>: 24</li></ul></li><li>Notes</li><li><ul><li><b>Perception</b>: 13</li></ul></li><li><ul><li><b>Notes</b>: +2 to initiative</li></ul></li></ul> | <ul><li><ul><li><b>SpellAttackRoll</b>: 18</li></ul></li><li><ul><li><b>SpellDC</b>: 28</li></ul></li><li>\-</li><li>\-</li></ul> |
+| Other                                                                                                                                                                                                 |                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li><ul><li><b>AC</b>: 24</li></ul></li><li><ul><li><b>Notes</b>: \-</li></ul></li><li><ul><li><b>Perception</b>: 13</li></ul></li><li><ul><li><b>Notes</b>: +2 to initiative</li></ul></li></ul> | <ul><li><ul><li><b>SpellAttackRoll</b>: 18</li></ul></li><li><ul><li><b>SpellDC</b>: 28</li></ul></li><li>\-</li><li>\-</li></ul> |
 
 { .block-language-dataview}
 
