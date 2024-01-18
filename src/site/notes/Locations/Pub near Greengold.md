@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/locations/pub-near-greengold/","tags":["location"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-10T00:49:44.857+01:00","updated":"2024-01-13T10:23:46.754+01:00"}
+{"dg-publish":true,"permalink":"/locations/pub-near-greengold/","tags":["location"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-10T00:49:44.857+01:00","updated":"2024-01-18T10:46:22.327+01:00"}
 ---
 
-| Type     | In | Near                            | Aliases |
-| -------- | -- | ------------------------------- | ------- |
-| Location | \- | <ul><li>[[Greengold\|Greengold]]</li></ul> | \-      |
+| Type | In | Near | Aliases |
+| ---- | -- | ---- | ------- |
+| \-   | \- | \-   | \-      |
 
 { .block-language-dataview}
 ### First visited
