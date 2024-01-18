@@ -43,3 +43,7 @@ TBD
 	- [[PCs/Johnra Kcir\|Johnra Kcir]] decided everyone was aware of use, so he lighted the centeral bonefire
 - We then heard dozens of [[Groups/MUSN\|MUSN]]s arriving and we escaped quickly.
 
+### Karma Impact
+```meta-bind
+INPUT[text(defaultValue(0)):karma_impact]
+```
