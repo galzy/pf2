@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/twinkle/","tags":["npc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"npc","created":"2023-12-28T00:47:32.981+01:00","updated":"2024-01-18T16:03:58.690+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/twinkle/","tags":["npc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"npc","created":"2023-12-28T00:47:32.981+01:00","updated":"2024-01-18T10:46:06.728+01:00"}
 ---
 
 | Status | Attitude | Race | Groups | Aliases |
