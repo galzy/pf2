@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/items/medallion-of-confusion/","tags":["item"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"item","created":"2024-01-05T18:41:36.593+01:00","updated":"2024-01-18T16:02:44.627+01:00"}
+{"dg-publish":true,"permalink":"/items/medallion-of-confusion/","tags":["item"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"item","created":"2024-01-05T18:41:36.593+01:00","updated":"2024-01-18T22:39:05.784+01:00"}
 ---
 
-| Bearer | Aliases |
-| ------ | ------- |
-| \-     | \-      |
+| Bearer                  | Aliases |
+| ----------------------- | ------- |
+| [[PCs/Johnra Kcir\|Johnra]] | \-      |
 
 { .block-language-dataview}
 ### Found at
