@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-19T00:02:24.277+01:00"}
+{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-19T00:27:34.182+01:00"}
 ---
 
 ### Stats
@@ -9,6 +9,14 @@
 **Str** +0, **Dex** +3, **Con** +1, **Int** +3, **Wis** +1, **Cha** +4  
 **AC** 24; **Fort** +13, **Ref** +17, **Will** +15 (Toughness, +2 against magical effects)
 **Spell Attack Roll** 18, **Spell DC** 28
+
+### Items
+- [[Items/Drape of lost souls\|Drape of lost souls]]
+- [[Items/Ring of Antimagic\|Ring of Antimagic]]
+- [[Items/Two sterile scrolls\|Two sterile scrolls]]
+- [[Items/Vallmozon's infernal coin\|Vallmozon's infernal coin]]
+
+{ .block-language-dataview}
 
 ### Appearance
 ![Doliat Portrait.jpeg|150](/img/user/_vault/attachments/Doliat%20Portrait.jpeg)
