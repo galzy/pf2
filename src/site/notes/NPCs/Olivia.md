@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/olivia/","tags":["npc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"npc","created":"2024-01-06T13:56:46.169+01:00","updated":"2024-01-18T10:46:05.357+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/olivia/","tags":["npc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"npc","created":"2024-01-06T13:56:46.169+01:00","updated":"2024-01-18T22:33:31.808+01:00"}
 ---
 
-| Status | Attitude | Race | Groups | Aliases |
-| ------ | -------- | ---- | ------ | ------- |
-| \-     | \-       | \-   | \-     | \-      |
+| Status | Attitude | Race  | Groups | Aliases |
+| ------ | -------- | ----- | ------ | ------- |
+| Alive  | Friendly | Human | \-     | \-      |
 
 { .block-language-dataview}
 ### First met
