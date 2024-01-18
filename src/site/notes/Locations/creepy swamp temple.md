@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/locations/creepy-swamp-temple/","tags":["location"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"location","created":"2023-12-30T14:13:23.277+01:00","updated":"2024-01-18T10:46:23.632+01:00"}
+{"dg-publish":true,"permalink":"/locations/creepy-swamp-temple/","tags":["location"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"location","created":"2023-12-30T14:13:23.277+01:00","updated":"2024-01-18T22:33:34.404+01:00"}
 ---
 
-| Type | In | Near | Aliases |
-| ---- | -- | ---- | ------- |
-| \-   | \- | \-   | \-      |
+| Type | In               | Near                | Aliases |
+| ---- | ---------------- | ------------------- | ------- |
+| Area | [[stinky swamp\|stinky swamp]] | [[Locations/Killgore's cave\|Killgore's cave]] | \-      |
 
 { .block-language-dataview}
 ### First visited
