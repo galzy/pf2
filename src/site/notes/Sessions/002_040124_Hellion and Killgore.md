@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"session","created":"2024-01-04T17:40:30.869+01:00","updated":"2024-01-18T16:03:04.119+01:00"}
+{"dg-publish":true,"permalink":"/sessions/002-040124-hellion-and-killgore/","tags":["session"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"session","created":"2024-01-04T17:40:30.869+01:00","updated":"2024-01-18T19:20:25.159+01:00"}
 ---
 
 | Players                                      | Karma Impact |
@@ -62,4 +62,3 @@
 	-  [[PCs/Dio Stargazer\|Dio]], [[PCs/Indigo\|Indigo]] and especially [[PCs/Johnra Kcir\|Johnra]] brutally tortured him, supposedly to make sure he wasn't holding back. He kept saying he was willingly cooperating.
 	- [[PCs/Doliat Dreameyes\|Doliat]] asked him if we can use a stolen infernal coin to claim a favor and he said it isn't, ad they are just a metaphor. He then left the area in protest of the torture.
 - [[PCs/Indigo\|Indigo]] claimed his vengeance and killed [[NPCs/Kilgore the Warlock\|Killgore]] by slitting his throat. On the corpse we found a [[Items/Killgore's key\|small golden key]] and a small bag containing [[Items/Killgore's two magical rings\|two rings]], both of which were magical.
-
