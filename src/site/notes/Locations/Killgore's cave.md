@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/locations/killgore-s-cave/","tags":["location"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-05T18:52:00.592+01:00","updated":"2024-01-13T10:23:48.617+01:00"}
+{"dg-publish":true,"permalink":"/locations/killgore-s-cave/","tags":["location"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"location","created":"2024-01-05T18:52:00.592+01:00","updated":"2024-01-18T10:46:20.749+01:00"}
 ---
 
-| Type     | In               | Near                                                                    | Aliases |
-| -------- | ---------------- | ----------------------------------------------------------------------- | ------- |
-| Location | [[stinky swamp\|stinky swamp]] | <ul><li>[[Locations/Unnamed Drow city\|Unnamed Drow city]]</li><li>[[Locations/creepy swamp temple\|creepy swamp temple]]</li></ul> | \-      |
+| Type | In | Near | Aliases |
+| ---- | -- | ---- | ------- |
+| \-   | \- | \-   | \-      |
 
 { .block-language-dataview}
 ### First visited
