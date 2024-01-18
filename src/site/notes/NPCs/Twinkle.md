@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/np-cs/twinkle/","tags":["npc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"npc","created":"2023-12-28T00:47:32.981+01:00","updated":"2024-01-18T10:46:06.728+01:00"}
+{"dg-publish":true,"permalink":"/np-cs/twinkle/","tags":["npc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"npc","created":"2023-12-28T00:47:32.981+01:00","updated":"2024-01-18T22:33:32.477+01:00"}
 ---
 
-| Status | Attitude | Race | Groups | Aliases |
-| ------ | -------- | ---- | ------ | ------- |
-| \-     | \-       | \-   | \-     | \-      |
+| Status | Attitude | Race  | Groups | Aliases |
+| ------ | -------- | ----- | ------ | ------- |
+| Alive  | Friendly | Demon | \-     | \-      |
 
 { .block-language-dataview}
 ### First met
