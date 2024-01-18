@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/events/twinkle-s-second-song/","tags":["event"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"event","created":"2024-01-06T12:51:31.026+01:00","updated":"2024-01-13T10:23:24.733+01:00"}
+{"dg-publish":true,"permalink":"/events/twinkle-s-second-song/","tags":["event"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"event","created":"2024-01-06T12:51:31.026+01:00","updated":"2024-01-18T10:46:30.157+01:00"}
 ---
 
-| Where                  | When     | Aliases |
-| ---------------------- | -------- | ------- |
-| [[Locations/Pub near Greengold\|Pub near Greengold]] | Recently | \-      |
+| Where | When | Aliases |
+| ----- | ---- | ------- |
+| \-    | \-   | \-      |
 
 { .block-language-dataview}
 ## The Song
