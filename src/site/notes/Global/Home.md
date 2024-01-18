@@ -1,8 +1,29 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-18T13:50:40.202+01:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-18T16:06:11.353+01:00"}
 ---
 
+```button
+name Add Note
+type command
+action Templater: Create new note from template
+```{ #button-add-note}
+
+```button
+name Search
+type command
+action Search: Search in all files
+```{ #button-search}
+
+```button
+name Publish
+type command
+action Digital Garden: Open Publication Center
+```{ #button-publish}
+
+
 # [[Global/Quests\|Quests]]
+# [[Global/Map\|Map]]
+# [Website](https://galpf2.netlify.app/)
 
 ### Sessions
 | Name                                                                                                                                                 | Karma Impact |
