@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-19T00:04:23.907+01:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hideInGraph":true,"pinned":true,"tags":["global","gardenEntry"],"noteIcon":"","created":"2023-12-31T12:02:25.713+01:00","updated":"2024-01-19T10:50:03.890+01:00"}
 ---
 
 # [[Global/Quests\|Quests]]
+# [Submit a new page](https://forms.gle/ZZcJJK1zC5mwXzP78)
 
 ### Karma
 <p><span><meter style="height: 3em; width: 80%; border-radius: 16px;" value="-5" optimum="50" high="10" low="-10" max="50" min="-50">-5</meter><span style="content: 20; top: 0px; left: -70px; position: relative;"></span></span></p>
