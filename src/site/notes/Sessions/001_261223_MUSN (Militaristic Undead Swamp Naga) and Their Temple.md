@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","tags":["session"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"session","created":"2023-12-28T17:45:59.809+01:00","updated":"2024-01-18T19:14:04.351+01:00"}
+{"dg-publish":true,"permalink":"/sessions/001-261223-musn-militaristic-undead-swamp-naga-and-their-temple/","tags":["session"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"session","created":"2023-12-28T17:45:59.809+01:00","updated":"2024-01-19T01:35:36.023+01:00"}
 ---
 
 | Players               | Karma Impact |
 | --------------------- | ------------ |
-| Gal, Dima, Dor, Rotem | 0            |
+| Gal, Dima, Dor, Rotem | -5           |
 
 { .block-language-dataview}
 ### Recap of the last session
