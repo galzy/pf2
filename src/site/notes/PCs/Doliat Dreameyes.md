@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-19T00:50:42.806+01:00"}
+{"dg-publish":true,"permalink":"/p-cs/doliat-dreameyes/","tags":["pc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"pc","created":"2023-12-28T00:37:49.029+01:00","updated":"2024-01-19T01:34:08.315+01:00"}
 ---
 
 ### Stats
 **Perception** +13 (+2 initiative);  
-**Languages** Common, Draconic, Dwarven, Elven, Sylvan  
-**Skills** Acrobatics +13, Athletics +10, Diplomacy +16, Lore: Farming +13, Lore: Prophecy +17, Occultism +19, Society +13, Stealth +13, Survival +11, Thievery +13  
-**Str** +0, **Dex** +3, **Con** +1, **Int** +3, **Wis** +1, **Cha** +4  
 **AC** 24; **Fort** +13, **Ref** +17, **Will** +15 (Toughness, +2 against magical effects)
 **Spell Attack Roll** 18, **Spell DC** 28
+**Str** +0, **Dex** +3, **Con** +1, **Int** +3, **Wis** +1, **Cha** +4  
+**Languages** Common, Draconic, Dwarven, Elven, Sylvan  
+**Skills** Acrobatics +13, Athletics +10, Diplomacy +16, Lore: Farming +13, Lore: Prophecy +17, Occultism +19, Society +13, Stealth +13, Survival +11, Thievery +13  
 
 ### Items
 - [[Items/Drape of lost souls\|Drape of lost souls]]
